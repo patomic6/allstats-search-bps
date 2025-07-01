@@ -1,0 +1,81 @@
+# ===================================================================
+# KUMPULAN PERINTAH CURL UNTUK PENGUJIAN FUNGSIONAL API
+# ===================================================================
+#
+# Petunjuk:
+# Setiap perintah di bawah ini adalah kasus uji mandiri.
+# Salin dan jalankan satu per satu di terminal untuk menguji API.
+#
+#--------------------------------------------------------------------
+
+# --- Kasus Uji: Equivalence Partitioning (EP) ---
+
+# TC-EP-01: Menguji dengan keyword valid (mengandung spasi)
+# Harapan: Respons 200 OK dengan hasil pencarian.
+# curl -X 'GET' \
+#   'https://ds.stis.ac.id/yahya/semantic-search/?keyword=tingkat%20pengangguran' \
+#   -H 'accept: application/json' \
+#   -H 'X-API-Key: akjba9wf4389fndi9j0998hd3hwe9h898aos8h128'
+
+# # TC-EP-02: Menguji dengan threshold tidak valid (di luar rentang > 1.0)
+# # Harapan: Respons 422 Unprocessable Entity. (Dalam laporan, ini GAGAL dan menghasilkan 500)
+# curl -X 'GET' \
+#   'https://ds.stis.ac.id/yahya/semantic-search/?keyword=inflasi&threshold=1.5' \
+#   -H 'accept: application/json' \
+#   -H 'X-API-Key: akjba9wf4389fndi9j0998hd3hwe9h898aos8h128'
+
+# # TC-EP-03: Menguji dengan content tidak valid (nilai tidak ada di daftar)
+# # Harapan: Respons 200 OK dengan array 'hits' kosong.
+# curl -X 'GET' \
+#   'https://ds.stis.ac.id/yahya/semantic-search/?keyword=pdb&content=dokumen' \
+#   -H 'accept: application/json' \
+#   -H 'X-API-Key: akjba9wf4389fndi9j0998hd3hwe9h898aos8h128'
+
+# --- Kasus Uji: Boundary Value Analysis (BVA) ---
+
+# # TC-BVA-01: Menguji 'size' pada batas maksimum yang diizinkan
+# # Harapan: Respons 200 OK dengan 100 item.
+# curl -X 'GET' \
+#   'https://ds.stis.ac.id/yahya/semantic-search/?keyword=ekonomi&size=100' \
+#   -H 'accept: application/json' \
+#   -H 'X-API-Key: akjba9wf4389fndi9j0998hd3hwe9h898aos8h128'
+
+# # TC-BVA-02: Menguji 'size' di luar batas (nilai 0)
+# # Harapan: Respons 422 Unprocessable Entity.
+# curl -X 'GET' \
+#   'https://ds.stis.ac.id/yahya/semantic-search/?keyword=ekonomi&size=0' \
+#   -H 'accept: application/json' \
+#   -H 'X-API-Key: akjba9wf4389fndi9j0998hd3hwe9h898aos8h128'
+
+# --- Kasus Uji: Keamanan (Security) ---
+
+# # TC-SEC-01: Menguji dengan API Key yang salah
+# # Harapan: Respons 403 Forbidden.
+# curl -X 'GET' \
+#   'https://ds.stis.ac.id/yahya/semantic-search/?keyword=test' \
+#   -H 'accept: application/json' \
+#   -H 'X-API-Key: kunci-salah-dan-tidak-valid'
+
+# TC-SEC-02: Menguji tanpa menyertakan API Key
+# # Harapan: Respons 403 Forbidden.
+# curl -X 'GET' \
+#   'https://ds.stis.ac.id/yahya/semantic-search/?keyword=test' \
+#   -H 'accept: application/json'
+
+# # --- Kasus Uji: Use Case (UC) ---
+
+# # TC-UC-01: Menguji pencarian dengan kombinasi filter valid
+# # Harapan: Respons 200 OK dengan hasil yang terfilter dengan benar.
+# curl -X 'GET' \
+#   'https://ds.stis.ac.id/yahya/semantic-search/?keyword=pdb&content=table&date_from=2016-01-01' \
+#   -H 'accept: application/json' \
+#   -H 'X-API-Key: akjba9wf4389fndi9j0998hd3hwe9h898aos8h128'
+
+
+
+# TC-UC-02: Menguji pencarian dengan sort
+# Harapan: Respons 200 OK dengan hasil yang terfilter dengan benar.
+curl -X 'GET' \
+  'https://ds.stis.ac.id/yahya/semantic-search/?keyword=pdb&content=table&sort=tanggal' \
+  -H 'accept: application/json' \
+  -H 'X-API-Key: akjba9wf4389fndi9j0998hd3hwe9h898aos8h128'

@@ -1,428 +1,322 @@
+
+
+# ----------------------------------------
+# 1. Import Library
+# ----------------------------------------
 from fastapi import FastAPI, HTTPException, Query, Security, Depends
 from fastapi.security.api_key import APIKeyHeader
 from fastapi.responses import HTMLResponse
 from elasticsearch import Elasticsearch
-import time
-import html
-import torch
-import logging
-from typing import Optional
-import numpy as np
-import json
 from elasticsearch.exceptions import RequestError
 from sentence_transformers import SentenceTransformer
+from typing import Optional, Dict, Any
+from pydantic import BaseModel, Field
+import numpy as np
+import torch
+import html
+import logging
+from datetime import datetime
 
-app = FastAPI(root_path="/yahya") # sesuaikan root_path anda
+# ----------------------------------------
+# 2. Inisialisasi Aplikasi dan Konfigurasi
+# ----------------------------------------
 
-# Koneksi ke Elasticsearch
-es = Elasticsearch("http://127.0.0.1:9200")
+# Inisialisasi aplikasi FastAPI
+# root_path digunakan jika aplikasi dijalankan di belakang reverse proxy
+app = FastAPI(root_path="/yahya")
 
-# Logging configuration
+# Konfigurasi logging untuk memantau aktivitas dan error
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-# Load Sentence Transformer model
-# device = "cpu"
-device = "cuda" if torch.cuda.is_available() else "cpu"
-model = SentenceTransformer("yahyaabd/allstats-search-mini-v1-1-mnrl-sts").to(device)
-print(f"Model loaded on device: {device}")
+# Koneksi ke instance Elasticsearch yang berjalan secara lokal
+es = Elasticsearch("http://127.0.0.1:9200")
 
-# API Key yang diizinkan
-API_KEY = "##############################" # buat api anda di sini
+# Memuat model Sentence Transformer (SBERT) dari HuggingFace Hub
+# Secara otomatis mendeteksi dan menggunakan GPU (CUDA) jika tersedia untuk performa terbaik
+device = "cuda" if torch.cuda.is_available() else "cpu"
+model = SentenceTransformer("yahyaabd/allstats-search-mini-v1-1-mnrl").to(device)
+logger.info(f"Model SBERT 'yahyaabd/allstats-search-mini-v1-1-mnrl-sts' berhasil dimuat di perangkat: {device}")
+
+# ----------------------------------------
+# 3. Konfigurasi Keamanan dan Parameter
+# ----------------------------------------
+
+# Kunci API statis untuk mengamankan endpoint
+API_KEY = "akjba9wf4389fndi9j0998hd3hwe9h898aos8h128"
 api_key_header = APIKeyHeader(name="X-API-Key", auto_error=True)
 
-# Bobot skoring
-ALPHA = 0.4  # Bobot untuk BM25
-BETA = 1-ALPHA   # Bobot untuk cosine similarity
+# Bobot untuk menggabungkan skor dari BM25 dan pencarian semantik
+ALPHA = 0.4  # Bobot untuk skor leksikal (BM25)
+BETA = 1 - ALPHA   # Bobot untuk skor semantik (cosine similarity)
 
-# Fungsi untuk validasi API Key
+# Dictionary untuk memetakan parameter 'content' ke filter query Elasticsearch
+CONTENT_FILTERS = {
+    "table": [{"term": {"konten": "table"}}],
+    "publication": [{"term": {"konten": "publication"}}, {"term": {"jenis": "softcopy"}}],
+    "pressrelease": [{"term": {"konten": "pressrelease"}}, {"term": {"jenis": "pressrelease"}}],
+    "infographic": [{"term": {"konten": "infographic"}}, {"term": {"jenis": "infographic"}}],
+    "news": [{"term": {"konten": "news"}}, {"term": {"jenis": "news"}}],
+    "microdata": [{"term": {"konten": "microdata"}}, {"term": {"jenis": "microdata"}}],
+    "metadata": [{"term": {"konten": "metadata"}}, {"term": {"jenis": "metadata"}}],
+    "kbli2020": [{"term": {"konten": "kbli2020"}}, {"term": {"jenis": "kbli2020"}}],
+    "kbli2017": [{"term": {"konten": "kbli2017"}}, {"term": {"jenis": "kbli2017"}}],
+    "kbli2015": [{"term": {"konten": "kbli2015"}}, {"term": {"jenis": "kbli2015"}}],
+    "kbli2009": [{"term": {"konten": "kbli2009"}}, {"term": {"jenis": "kbli2009"}}],
+    "kbki2015": [{"term": {"konten": "kbki2015"}}, {"term": {"jenis": "kbki2015"}}],
+    "glosarium": [{"bool": {"should": [{"term": {"konten": "glosarium"}}, {"term": {"jenis": "glosarium"}}], "minimum_should_match": 1}}],
+    "all": []
+}
+
+
+# ----------------------------------------
+# 4. Model Data Pydantic
+# ----------------------------------------
+class Document(BaseModel):
+    doc_id: str = Field(..., description="ID unik untuk dokumen, akan digunakan sebagai _id di Elasticsearch.")
+    judul: str = Field(..., description="Judul dokumen yang akan di-encode menjadi vektor.")
+    # Gunakan Dict[str, Any] untuk menampung field lain yang dinamis
+    # additional_data: Dict[str, Any] = Field({}, description="Metadata tambahan untuk dokumen.")
+    
+    # Field-field spesifik sesuai mapping Elasticsearch
+    corpus_id: Optional[str] = None
+    deskripsi: Optional[str] = None
+    id: Optional[str] = None
+    jenis: Optional[str] = None
+    konten: Optional[str] = None
+    last_update: Optional[str] = None
+    mfd: Optional[str] = None
+    source: Optional[str] = None
+    tgl_rilis: Optional[str] = None
+    url: Optional[str] = None
+
+# ----------------------------------------
+# 4. Fungsi Helper dan Dependensi
+# ----------------------------------------
 def validate_api_key(api_key: str = Security(api_key_header)):
     if api_key != API_KEY:
         raise HTTPException(status_code=403, detail="Invalid API Key")
     return api_key
 
-@app.get("/", response_class=HTMLResponse)
+def validate_date(date_str: Optional[str], role: str = 'start') -> Optional[str]:
+    """
+    Fungsi helper untuk validasi format tanggal yang lebih fleksibel.
+    Menerima format YYYY, YYYY-MM-DD, dll.
+    Mengembalikan tanggal dalam format standar YYYY-MM-DD.
+    'role' menentukan apakah tanggal adalah 'start' atau 'end' untuk menangani input tahun.
+    """
+    if date_str:
+        # Logika khusus untuk format tahun saja
+        if len(date_str) == 4 and date_str.isdigit():
+            if role == 'end':
+                # Untuk date_to, gunakan hari terakhir tahun itu
+                return f"{date_str}-12-31"
+            else:
+                # Untuk date_from, gunakan hari pertama tahun itu
+                return f"{date_str}-01-01"
+
+        # Daftar format lain yang akan dicoba
+        supported_formats = [
+            "%Y-%m-%d",
+            "%d-%m-%Y",
+            "%Y/%m/%d",
+            "%d/%m/%Y",
+        ]
+
+        for fmt in supported_formats:
+            try:
+                dt_object = datetime.strptime(date_str, fmt)
+                return dt_object.strftime("%Y-%m-%d")
+            except ValueError:
+                continue
+        
+        raise HTTPException(status_code=400, detail=f"Invalid date format: '{date_str}'. Please use a supported format.")
+    
+    return None
+
+def min_max_normalize(scores: np.ndarray) -> np.ndarray:
+    if scores.size == 0:
+        return np.array([])
+    min_val, max_val = scores.min(), scores.max()
+    if max_val == min_val:
+        return np.zeros_like(scores, dtype=float)
+    return (scores - min_val) / (max_val - min_val)
+
+
+# ----------------------------------------
+# 4. Fungsi dan Endpoint API
+# ----------------------------------------
+
+# Fungsi dependensi untuk memvalidasi API Key pada setiap request
+def validate_api_key(api_key: str = Security(api_key_header)):
+    """Memeriksa apakah API Key yang diberikan valid."""
+    if api_key != API_KEY:
+        raise HTTPException(status_code=403, detail="Invalid API Key")
+    return api_key
+
+@app.get("/", response_class=HTMLResponse, summary="Halaman Utama API")
 def read_root():
+    """Menampilkan halaman HTML sederhana sebagai konfirmasi bahwa API berjalan."""
     html_content = """
     <!DOCTYPE html>
     <html lang="en">
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>allstats Search SBERT model</title>
+        <title>Allstats Semantic Search API</title>
+        <style>body { font-family: sans-serif; padding: 2em; }</style>
     </head>
     <body>
-        <h1>Allstats Search</h1>
+        <h1>Allstats Semantic Search API</h1>
+        <p>Layanan API untuk pencarian semantik BPS. Akses <strong>/docs</strong> untuk dokumentasi interaktif.</p>
     </body>
     </html>
     """
     return HTMLResponse(content=html_content)
 
-@app.get("/encode/")
+@app.get("/encode/", summary="Mengubah Teks menjadi Vektor Embedding")
 def encode_text(
-    text: str = Query(..., description="Text to encode using SBERT model"),
+    text: str = Query(..., description="Teks yang akan diubah menjadi vektor."),
     api_key: str = Depends(validate_api_key)
 ):
+    """
+    Endpoint ini menerima sebuah string teks, membersihkannya dari potensi
+    skrip HTML, lalu mengubahnya menjadi vektor embedding 384 dimensi
+    menggunakan model SBERT.
+    """
     try:
         sanitized_text = html.escape(text)
         embeddings = model.encode(sanitized_text).tolist()
         return {"text": sanitized_text, "embeddings": embeddings}
     except Exception as e:
+        logger.error(f"Error saat encoding teks: {e}")
         raise HTTPException(status_code=500, detail=f"Error during text encoding: {e}")
 
-# Initialize model once at startup
-# model = SentenceTransformer('yahyaabd/allstats-search-mini-v1-1-mnrl')
-
-# Content filter mapping
-CONTENT_FILTERS = {
-    "table": [{"term": {"konten": "table"}}],
-    "publication": [
-        {"term": {"konten": "publication"}},
-        {"term": {"jenis": "softcopy"}}
-    ],
-    "pressrelease": [
-        {"term": {"konten": "pressrelease"}},
-        {"term": {"jenis": "pressrelease"}}
-    ],
-    "infographic": [
-        {"term": {"konten": "infographic"}},
-        {"term": {"jenis": "infographic"}}
-    ],
-    "news": [
-        {"term": {"konten": "news"}},
-        {"term": {"jenis": "news"}}
-    ],
-    "microdata": [
-        {"term": {"konten": "microdata"}},
-        {"term": {"jenis": "microdata"}}
-    ],
-    "metadata": [
-        {"term": {"konten": "metadata"}},
-        {"term": {"jenis": "metadata"}}
-    ],
-    "kbli2020": [
-        {"term": {"konten": "kbli2020"}},
-        {"term": {"jenis": "kbli2020"}}
-    ],
-    "kbli2017": [
-        {"term": {"konten": "kbli2017"}},
-        {"term": {"jenis": "kbli2017"}}
-    ],
-    "kbli2015": [
-        {"term": {"konten": "kbli2015"}},
-        {"term": {"jenis": "kbli2015"}}
-    ],
-    "kbli2009": [
-        {"term": {"konten": "kbli2009"}},
-        {"term": {"jenis": "kbli2009"}}
-    ],
-    "kbki2015": [
-        {"term": {"konten": "kbki2015"}},
-        {"term": {"jenis": "kbki2015"}}
-    ],
-    "glosarium": [{
-        "bool": {
-            "should": [
-                {"term": {"konten": "glosarium"}},
-                {"term": {"jenis": "glosarium"}}
-            ],
-            "minimum_should_match": 1
-        }
-    }],
-    "all": []
-}
-
-@app.get("/cosine-search-only/")
-def semantic_search_only(
-    keyword: str = Query(..., description="Keyword for semantic search (cosine similarity only)"),
-    threshold: float = Query(0.3, description="Minimum similarity score threshold (0.0 to 1.0)", ge=0.0, le=1.0),
-    size: int = Query(10, description="Number of results per page", ge=1, le=10000),
-    from_: int = Query(0, description="Offset to start results from (for pagination)", ge=0, alias="from"),
-    sort: str = Query("relevansi", description="Sort criteria: 'relevansi' (by score) or 'tanggal' (by last_update)"),
-    content: str = Query("datacontent", description="Content type: 'glosarium', 'all', 'table', 'publication', etc."),
-    mfd: Optional[str] = Query(None, description="Filter by MFD (4-digit code)"),
-    date_from: Optional[str] = Query(None, description="Start date filter (YYYY-MM-DD)"),
-    date_to: Optional[str] = Query(None, description="End date filter (YYYY-MM-DD)"),
-    api_key: str = Depends(validate_api_key)
-):
-    try:
-        sanitized_keyword = html.escape(keyword.lower())
-        input_embeddings = model.encode(sanitized_keyword)
-        query_vector = input_embeddings.tolist()
-        index_name = "glosarium" if content == "glosarium" else "datacontent,glosarium" if content == "all" else "datacontent"
-
-        # Build content filters
-        content_filters = CONTENT_FILTERS.get(content, []).copy()
-        if mfd and mfd.isdigit() and len(mfd) == 4:
-            content_filters.append({"term": {"mfd": mfd}})
-        if date_from and date_to:
-            content_filters.append({
-                "bool": {
-                    "should": [
-                        {"range": {"tgl_rilis": {"gte": date_from, "lte": date_to}}},
-                        {"range": {"last_update": {"gte": date_from, "lte": date_to}}}
-                    ],
-                    "minimum_should_match": 1
-                }
-            })
-
-        logger.debug("Applied filters: %s, mfd: %s", json.dumps(content_filters, indent=2), mfd)
-
-        # Count total documents matching filters
-        count_query = {
-            "query": {
-                "bool": {
-                    "filter": content_filters if content_filters else []
-                }
-            }
-        }
-        count_res = es.count(index=index_name, body=count_query)
-        doc_count = count_res["count"]
-        logger.debug("Document count for mfd %s: %d", mfd, doc_count)
-
-        # Choose search type based on document count
-        if doc_count > 10000:
-            search_type = "knn"
-            # Set k and num_candidates to doc_count to capture all possible documents
-            semantic_query = {
-                "knn": {
-                    "field": "title_embeddings_384",
-                    "query_vector": query_vector,
-                    "k": 10000,  # Dynamically set to total document count
-                    "num_candidates": 10000  # Ensure all documents are considered
-                }
-            }
-        else:
-            search_type = "script_score"
-            semantic_query = {
-                "script_score": {
-                    "query": {
-                        "bool": {
-                            "filter": [
-                                {"exists": {"field": "title_embeddings_384"}}
-                            ]
-                        }
-                    },
-                    "script": {
-                        "source": "(cosineSimilarity(params.query_vector, 'title_embeddings_384')+1)/2",
-                        "params": {"query_vector": query_vector}
-                    }
-                }
-            }
-
-        # Build the Elasticsearch query with min_score to filter by threshold
-        query = {
-            "query": semantic_query,
-            "min_score": threshold,  # Ensure only documents with score >= threshold are returned
-            "from": from_,
-            "size": size,  # Limit results per page for pagination
-            "track_scores": True,
-            "track_total_hits": True,  # Track total number of documents meeting threshold
-            "_source": ["judul", "deskripsi", "konten", "jenis", "img", "last_update", "tgl_rilis", "mfd", "url"]
-        }
-
-        if content_filters:
-            query["query"] = {
-                "bool": {
-                    "must": [semantic_query],
-                    "filter": content_filters
-                }
-            }
-
-        # Apply sorting
-        if sort == "relevansi":
-            query["sort"] = [{"_score": {"order": "desc"}}]
-        elif sort == "tanggal":
-            query["sort"] = [{"last_update": {"order": "desc"}}]
-        else:
-            raise HTTPException(status_code=400, detail="Invalid sort value. Use 'relevansi' or 'tanggal'.")
-
-        logger.debug("Executing Elasticsearch query for keyword: %s, mfd: %s, doc_count: %d, search_type: %s, threshold: %f",
-                     sanitized_keyword, mfd, doc_count, search_type, threshold)
-        page_res = es.search(index=index_name, body=query)
-
-        hits = page_res["hits"]["hits"]
-        # Log the number of hits and their scores to verify threshold filtering
-        if hits:
-            scores = [hit["_score"] for hit in hits]
-            logger.debug("Returned %d hits with scores: %s", len(hits), scores)
-            # Verify all returned documents meet the threshold
-            if any(score < threshold for score in scores):
-                logger.warning("Some documents returned with scores below threshold: %s", scores)
-
-        if not hits:
-            logger.info("No documents returned for keyword: %s, mfd: %s, threshold: %f", sanitized_keyword, mfd, threshold)
-            return {
-                "search_type": search_type,
-                "took": page_res["took"] / 1000,
-                "timed_out": page_res["timed_out"],
-                "_shards": page_res["_shards"],
-                "hits": {
-                    "total": {"value": page_res["hits"]["total"]["value"], "relation": page_res["hits"]["total"]["relation"]},
-                    "max_score": page_res["hits"]["max_score"],
-                    "hits": []
-                }
-            }
-
-        response = {
-            "search_type": search_type,
-            "took": page_res["took"] / 1000,
-            "timed_out": page_res["timed_out"],
-            "_shards": page_res["_shards"],
-            "hits": {
-                "total": {"value": page_res["hits"]["total"]["value"], "relation": page_res["hits"]["total"]["relation"]},
-                "max_score": page_res["hits"]["max_score"],
-                "hits": hits
-            }
-        }
-
-        if not hits and page_res["hits"]["total"]["value"] > 0:
-            logger.warning(f"No hits returned despite {page_res['hits']['total']['value']} total matches for mfd: {mfd}")
-
-        # Log the total number of documents meeting the threshold
-        logger.info("Total documents with score >= %f: %d", threshold, page_res["hits"]["total"]["value"])
-
-        return response
-
-    except RequestError as e:
-        logger.error(f"Elasticsearch error for mfd {mfd}: {e.info}")
-        raise HTTPException(status_code=500, detail=f"Elasticsearch error: {e.info}")
-    except Exception as e:
-        logger.error(f"Error during semantic search for mfd {mfd}: {e}")
-        raise HTTPException(status_code=500, detail=f"Error during semantic search: {e}")
-        
-# endpoint pencarian hybrid
-@app.get("/semantic-search/")
+# Endpoint semantic-search
+@app.get("/semantic-search/", summary="Pencarian Hybrid (BM25 + Semantik)")
 def semantic_search(
-    keyword: str = Query(..., description="Keyword for hybrid search (BM25 + Cosine)"),
-    threshold: float = Query(0.4, description="Minimum similarity score threshold (0.0 to 1.0)", ge=0.0, le=1.0),
-    size: int = Query(10, description="Number of results per page", ge=1, le=10000),
-    from_: int = Query(0, description="Offset to start results from (for pagination)", ge=0, alias="from"),
-    sort: str = Query("relevansi", description="Sort criteria: 'relevansi' (by score) or 'tanggal' (by last_update)"),
-    content: str = Query("datacontent", description="Content type: 'glosarium', 'all', 'table', 'publication', etc."),
-    mfd: Optional[str] = Query(None, description="Filter by MFD (4-digit code)"),
-    date_from: Optional[str] = Query(None, description="Start date filter (YYYY-MM-DD)"),
-    date_to: Optional[str] = Query(None, description="End date filter (YYYY-MM-DD)"),
+    keyword: str = Query(..., description="Kata kunci untuk pencarian."),
+    threshold: float = Query(0.4, description="Ambang batas skor kemiripan minimum (0.0 - 1.0).", ge=0.0, le=1.0),
+    alpha: float = Query(0.4, description="Weight for BM25 score (0.0 to 1.0)", ge=0.0, le=1.0),
+    fuzzy: int = Query(0, description="number of fuzzy search (0 to 3)", ge=0, le=3),
+    size: int = Query(10, description="Jumlah hasil per halaman.", ge=1, le=10000),
+    from_: int = Query(0, description="Offset untuk paginasi.", ge=0, alias="from"),
+    sort: str = Query("relevansi", description="Kriteria pengurutan: 'relevansi' atau 'tanggal'."),
+    content: str = Query("datacontent", description="Filter jenis konten (e.g., 'table', 'publication', 'all')."),
+    mfd: Optional[str] = Query(None, description="Filter berdasarkan kode MFD (4 digit)."),
+    date_from: Optional[str] = Query(None, description="Filter tanggal mulai (YYYY-MM-DD)."),
+    date_to: Optional[str] = Query(None, description="Filter tanggal akhir (YYYY-MM-DD)."),
     api_key: str = Depends(validate_api_key)
 ):
+    """
+    Endpoint untuk pencarian hybrid (BM25 + Semantik).
+    Filter tanggal ditulis ulang untuk memastikan pencocokan dokumen berdasarkan tgl_rilis atau last_update.
+    """
     try:
+        # Log parameter input
+        logger.info(f"Parameters: keyword={keyword}, content={content}, date_from={date_from}, date_to={date_to}, threshold={threshold}, mfd={mfd}")
+
         sanitized_keyword = html.escape(keyword.lower())
         input_embeddings = model.encode(sanitized_keyword)
-        
-        # # if len(input_embeddings) != 384:
-        # if len(input_embeddings) != 768:
-        #     logger.error(f"Query vector has {len(input_embeddings)} dimensions, expected 384")
-        #     raise HTTPException(status_code=500, detail="Query vector dimension mismatch")
-        # if np.any(np.isnan(input_embeddings)) or np.any(np.isinf(input_embeddings)):
-        #     logger.error("Invalid values in query vector")
-        #     raise HTTPException(status_code=400, detail="Invalid query vector: contains NaN or infinite values")
-        
         query_vector = input_embeddings.tolist()
         index_name = "glosarium" if content == "glosarium" else "datacontent,glosarium" if content == "all" else "datacontent"
+        logger.info(f"Index used: {index_name}")
 
+        # Membangun filter
         content_filters = CONTENT_FILTERS.get(content, []).copy()
         if mfd and mfd.isdigit() and len(mfd) == 4:
             content_filters.append({"term": {"mfd": mfd}})
+
+        # Filter tanggal baru
         if date_from and date_to:
             content_filters.append({
                 "bool": {
                     "should": [
-                        {"range": {"tgl_rilis": {"gte": date_from, "lte": date_to}}},
-                        {"range": {"last_update": {"gte": date_from, "lte": date_to}}}
+                        {
+                            "range": {
+                                "tgl_rilis": {
+                                    "gte": date_from,
+                                    "lte": date_to,
+                                    "format": "yyyy-MM-dd"  # Memastikan format tanggal
+                                }
+                            }
+                        },
+                        {
+                            "range": {
+                                "last_update": {
+                                    "gte": date_from,
+                                    "lte": date_to,
+                                    "format": "yyyy-MM-dd"  # Memastikan format tanggal
+                                }
+                            }
+                        }
                     ],
                     "minimum_should_match": 1
                 }
             })
+        logger.info(f"Content filters: {content_filters}")
 
-        logger.debug("Applied filters: %s, mfd: %s", json.dumps(content_filters, indent=2), mfd)
-
-        count_query = {
-            "query": {
-                "bool": {
-                    "filter": content_filters if content_filters else []
-                }
-            }
-        }
+        # Hitung jumlah dokumen yang lolos filter
+        count_query = {"query": {"bool": {"filter": content_filters if content_filters else []}}}
         count_res = es.count(index=index_name, body=count_query)
         doc_count = count_res["count"]
-        
-        # Hitung jumlah kata dalam kueri
-        query_length = len(sanitized_keyword.split())
-        
-        # # Tentukan operator berdasarkan panjang kueri
-        # operator = "OR" if query_length <= 2 else "AND"
-        # min_should_match = "50%" if query_length <= 2 else "50%"
+        logger.info(f"Document count after filters: {doc_count}")
 
-        # # tambahkan pembersihan stopwords "statistik" "data" dll
-        # ## ada kecenderungan lebih mengikuti stopword dibanding kata kunci misalnya banyak freelancer --> 'banyak' lebih muncul
-        # bm25_query = {
-        #     "match": {
-        #         "judul": {
-        #             "query": sanitized_keyword,
-        #             "operator": operator,
-        #             "minimum_should_match": min_should_match
-        #         }
-        #     }
-        # }
-
-        # Daftar stopwords khusus BPS/statistik
-        custom_stopwords = {"statistik", "data", "banyak", "jumlah", "total", "informasi", "angka"}
-        
-        # Tokenisasi kueri
+        # Logika pembersihan stopwords
+        custom_stopwords = {"statistik", "data", "banyak", "jumlah", "total", "informasi", "angka", "penduduk", "menurut", "indonesia"}
         tokens = sanitized_keyword.lower().split()
+        tokens = [word for word in tokens if word not in custom_stopwords]
+        if not tokens:
+            tokens = sanitized_keyword.lower().split()
+        sanitized_keyword_bm25 = " ".join(tokens)
         query_length = len(tokens)
+        logger.info(f"Sanitized BM25 keyword: {sanitized_keyword_bm25}")
+
+        # Logika dinamis untuk query BM25
+        # operator = "AND" if query_length == 2 else "OR"
+        # min_should_match = "100%" if query_length <= 2 else "50%"
+        # operator = "OR" if query_length <= 3 else "AND"
+        # min_should_match = "100%" if query_length <= 3 else "75%" if query_length <= 5 else "25%"
+
+        min_should_match = "100%" if query_length == 2 else "75%"
+        operator = "OR" if query_length <= 3 else "AND"
         
-        # Hapus stopwords hanya jika kueri terdiri dari 2 kata
-        if query_length == 2:
-            tokens = [word for word in tokens if word not in custom_stopwords]
-            sanitized_keyword = " ".join(tokens)
-            query_length = len(tokens)  # perbarui panjang kueri setelah stopword removal
-        
-        # Tentukan operator berdasarkan panjang kueri
-        # operator = "OR" if query_length <= 2 else "AND"
-        operator = "OR"
-        min_should_match = "100%" if query_length <= 2 else "50%"
-        
-        # Susun kueri BM25
         bm25_query = {
             "match": {
                 "judul": {
-                    "query": sanitized_keyword,
+                    "query": sanitized_keyword_bm25,
                     "operator": operator,
-                    "fuzziness": "0",
+                    "fuzziness": fuzzy,
                     "minimum_should_match": min_should_match
                 }
             }
         }
 
+        # Logika dinamis untuk query semantik
         if doc_count > 10000:
             search_type = "knn"
             cosine_query = {
                 "knn": {
                     "field": "title_embeddings_384",
                     "query_vector": query_vector,
-                    "k": 1000,
-                    "num_candidates": 10000
+                    "k": min(doc_count, 10000),
+                    "num_candidates": min(doc_count, 10000)
                 }
             }
         else:
             search_type = "script_score"
             cosine_query = {
                 "script_score": {
-                    "query": {
-                        "bool": {
-                            "filter": [
-                                {"exists": {"field": "title_embeddings_384"}}
-                            ]
-                        }
-                    },
+                    "query": {"bool": {"filter": [{"exists": {"field": "title_embeddings_384"}}]}},
                     "script": {
                         "source": "(cosineSimilarity(params.query_vector, 'title_embeddings_384')+1)/2",
                         "params": {"query_vector": query_vector}
                     }
                 }
             }
+        logger.info(f"Search type: {search_type}")
 
+        # Membangun query hybrid
         hybrid_query = {
             "query": {
                 "bool": {
@@ -430,15 +324,16 @@ def semantic_search(
                         {
                             "function_score": {
                                 "query": bm25_query,
-                                "script_score": {
-                                    "script": {
-                                        "source": "_score"
-                                    }
-                                },
-                                # "boost": ALPHA
+                                "boost": alpha,
+                                "script_score": {"script": {"source": "_score"}}
                             }
                         },
-                        cosine_query
+                        {
+                            "function_score": {
+                                "query": cosine_query,
+                                "boost": (1 - alpha)
+                            }
+                        }
                     ]
                 }
             },
@@ -460,74 +355,44 @@ def semantic_search(
         else:
             raise HTTPException(status_code=400, detail="Invalid sort value. Use 'relevansi' or 'tanggal'.")
 
-        logger.debug("Executing Elasticsearch query for keyword: %s, mfd: %s, doc_count: %d, search_type: %s",
-                     sanitized_keyword, mfd, doc_count, search_type)
-        page_res = es.search(index=index_name, body=hybrid_query)
+        logger.info(f"Elasticsearch query: {hybrid_query}")
+        page_res_obj = es.search(index=index_name, body=hybrid_query)
+        logger.info(f"Elasticsearch response: {page_res_obj.body}")
 
-        hits = page_res["hits"]["hits"]
+        response_dict = page_res_obj.body
+        hits = response_dict.get("hits", {}).get("hits", [])
+        response_dict["took"] = response_dict.get("took", 0) / 1000
+
         if not hits:
-            return {
-                "search_type": search_type,
-                "took": page_res["took"] / 1000,
-                "timed_out": page_res["timed_out"],
-                "_shards": page_res["_shards"],
-                "hits": {
-                    "total": {"value": page_res["hits"]["total"]["value"], "relation": page_res["hits"]["total"]["relation"]},
-                    "max_score": page_res["hits"]["max_score"],
-                    "hits": []
-                }
-            }
+            logger.warning("No hits returned")
+            return response_dict
 
-        # Gunakan ALPHA dan BETA untuk normalisasi skoring
-        bm25_scores = np.array([hit["_score"] * ALPHA / (ALPHA + BETA) for hit in hits])
-        cosine_scores = np.array([hit["_score"] * BETA / (ALPHA + BETA) for hit in hits])
-        # bm25_scores = np.array([hit["_score"] for hit in hits])
-        # cosine_scores = np.array([hit["_score"] for hit in hits])
+        # Pasca-pemrosesan skor
+        raw_scores = np.array([hit["_score"] for hit in hits])
+        normalized_scores = min_max_normalize(raw_scores)
 
-        def min_max_normalize(scores):
-            if not scores.size:
-                return scores
-            min_score, max_score = scores.min(), scores.max()
-            if max_score == min_score:
-                return np.zeros_like(scores)
-            return (scores - min_score) / (max_score - min_score)
+        combined_hits = []
+        for i, hit in enumerate(hits):
+            hit_copy = hit.copy()
+            hit_copy["_score"] = normalized_scores[i]
+            combined_hits.append(hit_copy)
 
-        norm_bm25_scores = min_max_normalize(bm25_scores)
-        norm_cosine_scores = min_max_normalize(cosine_scores)
-        # norm_cosine_scores = cosine_scores
+        response_dict["hits"]["hits"] = combined_hits
+        return response_dict
 
-        combined_hits = [hit.copy() for hit in hits]
-        for hit, norm_bm25, norm_cosine in zip(combined_hits, norm_bm25_scores, norm_cosine_scores):
-            hit["_score"] = ALPHA * norm_bm25 + BETA * norm_cosine
-            # hit["_score"] = norm_bm25 + norm_cosine
-
-        if sort == "tanggal":
-            combined_hits.sort(key=lambda x: x["_score"], reverse=True)
-
-        response = {
-            "search_type": search_type,
-            "took": page_res["took"] / 1000,
-            "timed_out": page_res["timed_out"],
-            "_shards": page_res["_shards"],
-            "hits": {
-                "total": {"value": page_res["hits"]["total"]["value"], "relation": page_res["hits"]["total"]["relation"]},
-                "max_score": max([hit["_score"] for hit in combined_hits], default=0.0),
-                "hits": combined_hits
-            }
-        }
-
-        if not combined_hits and page_res["hits"]["total"]["value"] > 0:
-            logger.warning(f"No hits returned despite {page_res['hits']['total']['value']} total matches for mfd: {mfd}")
-
-        return response
-
+    except HTTPException:
+        raise
     except RequestError as e:
-        logger.error(f"Elasticsearch error for mfd {mfd}: {e.info}")
-        raise HTTPException(status_code=500, detail=f"Elasticsearch error: {e.info}")
+        logger.error(f"Elasticsearch error: {e.info}")
+        raise HTTPException(status_code=500, detail=str(e.info))
     except Exception as e:
-        logger.error(f"Error during hybrid search for mfd {mfd}: {e}")
-        raise HTTPException(status_code=500, detail=f"Error during hybrid search: {e}")
-
+        logger.error(f"Error during hybrid search: {e}", exc_info=True)
+        raise HTTPException(status_code=500, detail=f"Unexpected error during search: {e}")
+        
+# ----------------------------------------
+# 5. Menjalankan Aplikasi
+# ----------------------------------------
 if __name__ == "__main__":
     import uvicorn
+    # Menjalankan server Uvicorn pada host 0.0.0.0 port 3700
     uvicorn.run(app, host="0.0.0.0", port=3700)

@@ -1,0 +1,33 @@
+# simpan di /etc/elasticsearch/analysis/synonyms.txt
+
+# Ekonomi
+GDP, Gross Domestic Product, PDB, Produk Domestik Bruto => PDB
+GRDP, Gross Regional Domestic Product, PDRB, Produk Domestik Regional Bruto => PDRB
+Atas Dasar Harga Berlaku => ADHB
+Atas Dasar Harga Konstan => ADHK
+
+# Pembangunan Manusia
+HDI, Human Development Index, IPM,
+Indeks Pembangunan Manusia => IPM
+GII, Gender Inequality Index, IKG, Indeks Ketimpangan Gender => IKG
+GDI, Gender Development Index, IPG, Indeks Pembangunan Gender => IPG
+
+# Statistik Sosial-Ekonomi
+CPI, Consumer Price Index, IHK, Indeks Harga Konsumen => IHK
+PPI, Producer Price Index, IHP, Indeks Harga Produsen => IHP
+GINI, Gini Coefficient, Koefisien Gini, Indeks Gini => Indeks Gini
+FDI, Foreign Direct Investment, PMA, Penanaman Modal Asing => PMA
+
+# Statistik Kependudukan
+TPR, Total Population Rate, TPK, Tingkat Pertumbuhan Penduduk => TPK
+IMR, Infant Mortality Rate, AKB, Angka Kematian Bayi => AKB
+MMR, Maternal Mortality Rate, AKI, Angka Kematian Ibu => AKI
+TFR, Total Fertility Rate, AFT, Angka Fertilitas Total => AFT
+
+# Survei BPS
+SUSENAS, Survei Sosial Ekonomi Nasional,
+National Socio-Economic Survey => SUSENAS
+SAKERNAS, Survei Angkatan Kerja Nasional,
+SUTAS, Survei Penduduk Antar Sensus, SUPAS, Intercensal Population Survey => SUPAS
+SP, Sensus Penduduk, Population Census => SP
+SE, Sensus Ekonomi, Economic Census => SE
