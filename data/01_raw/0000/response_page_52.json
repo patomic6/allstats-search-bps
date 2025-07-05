@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 52,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 1440,
+                "title": "Rata-Rata Upah Nominal Per Bulan Buruh Produksi di Bawah Mandor di Sektor Industri Pengolahan Menurut Subsektor dan Wilayah (ribu rupiah), 2000-2014",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2017-03-07 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=kIDqtwdRJnxnEGzgwHZrsGJKblJKYXZRM1Y2NGhkb1FLMzNSZnJkcDBTMk5IMGJwVjk1Yng5OGZLZXdBazM4cTVMTTRqWTFMT0dlaGxLTm4%3D&tokenuser="
+            },
+            {
+                "table_id": 1356,
+                "title": "Persentase Rumah Tangga Menurut Provinsi dan  Keberadaan Area Resapan Air, 2013-2014",
+                "subj_id": 152,
+                "subj": "Lingkungan Hidup",
+                "updt_date": "2017-03-07 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=AOEBR5jRwrpuugMANDsT7Hh6S1FJeGw2T0hrY2hMVDQ2ckcvSDFsNk5oNnBzM2NLYTVSQ1llQW1YbFRyaWpnUTRUTEhSTGVQdENmOFltVm8%3D&tokenuser="
+            },
+            {
+                "table_id": 1839,
+                "title": "Jumlah Perguruan Tinggi , Mahasiswa, dan Tenaga Edukatif (Negeri dan Swasta) di Bawah Kementrian Pendidikan dan Kebudayaan Menurut Provinsi 2013/2014-2014/2015",
+                "subj_id": 28,
+                "subj": "Pendidikan",
+                "updt_date": "2017-03-03 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=KIIB9tVRRUa0yhTvYJAPRVdrN3h1SmF6OFpuczN4THg5WHBqazZJLzNiWmI3dS91akwzN1p0dUJacEhFWXRWamV3SkgzSjlpVFpyOVF5QU0%3D&tokenuser="
+            },
+            {
+                "table_id": 1351,
+                "title": "Rata-Rata Bulanan Konsentrasi Partikel Terlarut  di Udara Beberapa Kota Menurut Bulan dan Kota (&#956;gr/m3), 2006-2015",
+                "subj_id": 151,
+                "subj": "Iklim",
+                "updt_date": "2017-02-08 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=6G1p4A%2B3G0VPxKPfCdQRGE9ab3JSZ0hxTGp6NVRuc29MTUZLbm55dm9BZ0Jva0lLUEs4aHdqUWI0eTRCNm85MlJTbVFFajMxa3pJTUdPLzM%3D&tokenuser="
+            },
+            {
+                "table_id": 1944,
+                "title": "Rata-Rata Harga Valuta Asing Terpilih menurut Provinsi 2016",
+                "subj_id": 13,
+                "subj": "Keuangan",
+                "updt_date": "2017-01-20 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=5CB8PxVS9hcIleYlk7BPiUNweTBBZndxVUF2VXJ4aW84TUg2K0xBNlByVEtKRkdIOTdEbTdlRjhmZUdyQW5Db2NvZTBMbVRUNVE4V2pPczY%3D&tokenuser="
+            },
+            {
+                "table_id": 1393,
+                "title": "Jumlah Wisatawan Asing Tahun 1974 - 2015, Devisa Wisman  1998-2015 dan Tingkat  Penghunian Kamar (TPK) Hotel Bintang dan Non Bintang Tahun 1985 - 2015",
+                "subj_id": 16,
+                "subj": "Pariwisata",
+                "updt_date": "2017-01-04 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=vondIwti0mWCZ6ZwIccY8W5BemhDWjZMY3dQbk92eFhNS1NwVElmSG4zRGRDand6SWVPMmEyNXh1QkluNC82MkVJSlVDeHdPT1ZnR0ZaaVo%3D&tokenuser="
+            },
+            {
+                "table_id": 1322,
+                "title": "Tabel Perkembangan UMKM pada Periode 1997 -2013",
+                "subj_id": 13,
+                "subj": "Keuangan",
+                "updt_date": "2016-12-22 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=yCVHdkl0B5FyvhmAcyWuj3gzaW50djQ5YjJpRUFVWEs3cGtIMTFDM1VpL0xnYmlqb2pyKysrZWxYYzFmckd6aXlheFpPSzVrS1d3UVVuSTM%3D&tokenuser="
+            },
+            {
+                "table_id": 1321,
+                "title": "Tabel Perkembangan Koperasi pada Periode 1967 -2015",
+                "subj_id": 13,
+                "subj": "Keuangan",
+                "updt_date": "2016-12-21 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=k1G4Eq9ByVOjbBnsOBdDnHIxS1NTakRsTzJJZ3BZQjlvNStxRVpUNXhxdTF0TWxnQ0NZTVAvTUFIdlpwM24yOHdubVZ2TFJvdGZKWk9ndUY%3D&tokenuser="
+            },
+            {
+                "table_id": 1330,
+                "title": "Pinjaman Neto Menurut Sektor (Triliun rupiah), 2003-2014",
+                "subj_id": 13,
+                "subj": "Keuangan",
+                "updt_date": "2016-10-18 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=AnNd4YItDQ01FGuHbNv8FjlqaEUxaHBDVU5LYXRjQ1hxVERYbmwyZ0g1WXFiODJYaCtGSTlHRlRTN0VkTmlsZS95eFZHYUZ6WWZBWXNIcW4%3D&tokenuser="
+            },
+            {
+                "table_id": 1273,
+                "title": "Migrasi Risen (Recent Migration) Tahun 1980, 1985, 1990 , 1995, 2000, 2005, 2010, dan 2015",
+                "subj_id": 12,
+                "subj": "Kependudukan",
+                "updt_date": "2016-10-14 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=wkoNDbBiE2qZkiJdaVTgAG5kWEFNYkJGaUlZQWdvZzJuanhVbkhIWHVLOVpWL2VTS0pzSEE1ZWMrdDZyMkxMelcvZUxyeEFFL0Q3Z3QwUDY%3D&tokenuser="
+            }
+        ]
+    ]
+}

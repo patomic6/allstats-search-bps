@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 20,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 1420,
+                "title": "Jumlah Penumpang Kapal di Pelabuhan Yang Diusahakan dan Tidak Diusahakan Tahun 1995-2022",
+                "subj_id": 17,
+                "subj": "Transportasi",
+                "updt_date": "2024-03-01 11:45:46.516886",
+                "size": "0.06 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=0ncIatwDYUmWS%2BuJ7RqCEW5VWDliOUFmbEsxbWVZaEFValJGTWcySkFqV09mSzQwNjZHRkJKRFdKZVk4MTFsWkVLMmM3R2MrVURBcXdhbU4%3D&tokenuser="
+            },
+            {
+                "table_id": 1419,
+                "title": "Bongkar Muat Barang Antar Pulau dan Luar Negeri di Pelabuhan Indonesia Tahun 1988-2022 (Ribu ton)",
+                "subj_id": 17,
+                "subj": "Transportasi",
+                "updt_date": "2024-03-01 11:39:58.138485",
+                "size": "0.07 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=iaJ9%2F0CaHpSpNAf%2F5GxIAUlUTmptMHF6SGxoeVlJbG84WjFBalNQZmswOVdVZmh6MmdZNjlkdGVtV2VVTjFKNk9ud3UzN1I5dGsvN1lRZ1U%3D&tokenuser="
+            },
+            {
+                "table_id": 1418,
+                "title": "Jumlah Kunjungan Kapal di Pelabuhan Yang Diusahakan dan Tidak Diusahakan Tahun 1995-2022",
+                "subj_id": 17,
+                "subj": "Transportasi",
+                "updt_date": "2024-03-01 11:30:46.883578",
+                "size": "0.07 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=Kp7c8k99EkUa7qVWQ437SmtTS2JjWmlEb2g0RnVGUGo0c1NKVHFjMTZGbGNuNWtISSs3QnQ0RFA3bXlySXVRMkJMRWprVnRVVEZGT1NyeVk%3D&tokenuser="
+            },
+            {
+                "table_id": 1414,
+                "title": "Jumlah Penumpang dan Barang Melalui Transportasi Kereta Api Indonesia Tahun 1987-2022",
+                "subj_id": 17,
+                "subj": "Transportasi",
+                "updt_date": "2024-03-01 11:08:34.116893",
+                "size": "0.06 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=qC0YEuHJWwhros1adublx2JhU1FWTGtYOW96SUlWeEdRSER0eFZRK2ZTQUFydVFrZEJUY1luWmVhb1ZJY0M4MmEzWlNYYmdsYlAxM2ozUG0%3D&tokenuser="
+            },
+            {
+                "table_id": 1403,
+                "title": "Lalu Lintas Penerbangan Luar Negeri Indonesia Tahun 2003-2022",
+                "subj_id": 17,
+                "subj": "Transportasi",
+                "updt_date": "2024-03-01 10:57:59.723476",
+                "size": "0.06 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=8XeJcWtmWUKxhSwrMLEsNyt2c0N0ZWRZWVRkOU9leGw0SVRudGl2V3JSZzVnQzl2dE9aUE44TXRmRGZGckh1REF2d1Z1MlZGY0hTQWtqOWc%3D&tokenuser="
+            },
+            {
+                "table_id": 1402,
+                "title": "Lalu Lintas Penerbangan Dalam Negeri Indonesia Tahun 2003-2022",
+                "subj_id": 17,
+                "subj": "Transportasi",
+                "updt_date": "2024-03-01 10:43:12.917762",
+                "size": "0.07 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=5F17PDT%2F2nn%2F3vCaS3k1pGpja000a3hxMlRwUVdaU0pRUk5MREtseEJlcDBPUll6ZkkzUXBEQ3pmQ3UxWmQ4NzdJZWQxb2l3NjZxL1VVMWU%3D&tokenuser="
+            },
+            {
+                "table_id": 907,
+                "title": "Indeks Harga Konsumen dan Inflasi Bulanan Indonesia, 2006-2023",
+                "subj_id": 3,
+                "subj": "Inflasi",
+                "updt_date": "2024-02-02 11:13:43.053592",
+                "size": "0.03 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=ALJV%2Brgd1TjnHnq9il%2FhMVh4MmtaS2RNd1IxQ1c1WXl1R2hoZ2FFQmQwRkJ6YlRrbVYxOWZxVk5qb0QwNDI5QTBVVkFBREhSRTVTN0lBZXc%3D&tokenuser="
+            },
+            {
+                "table_id": 2090,
+                "title": "Indeks Harga Konsumen Menurut Kelompok Pengeluaran, 2020-2023",
+                "subj_id": 3,
+                "subj": "Inflasi",
+                "updt_date": "2024-02-02 10:58:17.981036",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=BwYeckyGcSrF7uPbwEB9B0UzWnlvajEyVE9lQWE0cHQycjJmMFFORWJzSXU4ejlFRGdEUHQrZ3dyNXZmUURyS2pCTFJISjFNVXhwSkZPdDI%3D&tokenuser="
+            },
+            {
+                "table_id": 2083,
+                "title": "Inflasi Indonesia Menurut Kelompok Pengeluaran, 2020-2023",
+                "subj_id": 3,
+                "subj": "Inflasi",
+                "updt_date": "2024-02-02 10:20:00.519145",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=RREY7NPZGuHJIk6cMSsc03FtZCtKNFo5ZkZLUnlMOFFzbCtIcnpJbjljR0hyUjRMMkZFNGVJK0U1cVkvUWRMdDZUaC9QZGk1dW1FYU5Zd3E%3D&tokenuser="
+            },
+            {
+                "table_id": 1611,
+                "title": "Persentase Penduduk Umur 10 Tahun ke Atas yang Tidak/Belum Pernah Sekolah Menurut Provinsi, Klasifikasi Desa, dan Jenis Kelamin, 2009-2023",
+                "subj_id": 40,
+                "subj": "Gender",
+                "updt_date": "2024-01-24 15:07:34.441444",
+                "size": "0.22 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=CPpKtO31yvAQT951wV6AaTZ6bkZBQnhtUTZReGNpQ3c4azFjZThYZkFvMlVmOHlkZndwU1B5OHpaYVlZZHpkZUpwMGRrSEZqYlJ5WUE5UUY%3D&tokenuser="
+            }
+        ]
+    ]
+}

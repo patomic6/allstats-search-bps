@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 59,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 1435,
+                "title": "Rata-rata Upah Nominal, Indeks Upah Nominal dan Indeks Upah Riil Per Bulan Buruh Industri Pengolahan di Bawah Mandor, 2008-2014 (2007=100)",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2015-07-31 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=p5y0z1JXdkvB5bK2L2bZAzUrTW9WdkdSMkdId2Vta1JaTlhBcTR3L203T281d3gzUHBaNVVGc3lOT3o3eENraUh0MzVEVG53ZUpZZTRRVzE%3D&tokenuser="
+            },
+            {
+                "table_id": 1434,
+                "title": "Rata-rata Upah Nominal, Indeks Upah Nominal dan Indeks Upah Riil Per Bulan Buruh Industri Pengolahan di Bawah Mandor, 2005-2014 (1996=100)",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2015-07-31 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=wjAIMkPIc3PbzEMTud2hclVlaFJPMFZhdE9SMnZzTncrVU5yQXFXTWdtZUFPK1RNOWN6TWRHNUtHWnB3clV2RXpMN1B5SHdKNTJ4dnJFS2k%3D&tokenuser="
+            },
+            {
+                "table_id": 1433,
+                "title": "Rata-rata Upah Riil Per Bulan Buruh Industri Pengolahan di Bawah Mandor, 2013-2014 (2012=100)",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2015-07-31 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=DDovTK05mQe2F2y9XrsxDU1TOFZmZ2ZuWHpwdVlwMGV0V0VLZVpVWms4eXpoVGNqWVdXb3Y2dUVPakdmeTBQRFY3QmdLNWdObW00V0lGK3I%3D&tokenuser="
+            },
+            {
+                "table_id": 1432,
+                "title": "Rata-rata Upah Riil Per Bulan Buruh Industri Pengolahan di Bawah Mandor, 2008-2014 (2007=100)",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2015-07-31 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=cAtB8XcmAHBs0LYoGHsp8CtZR0pZWUVXVlNGbE5ENHVMWlpUVDVtUFgrZHBabEIwYTRDTjJMbmFtakp1VzdxVVR5TUdhc2c1YXpZakd1VHg%3D&tokenuser="
+            },
+            {
+                "table_id": 1431,
+                "title": "Rata-rata Upah Riil Per Bulan Buruh Industri Pengolahan di Bawah Mandor, 2005-2014 (1996=100)",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2015-07-31 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=Q9fshKFAL2hAb5HZ3eQX8UNXck1xTHpHMXh3bXdvbTZ6K0gwUTAyRWRwNks1VXBqRW9QQ2dJekp6d3hCemlyK2pQei9UOTFxcVlXVGpGWEY%3D&tokenuser="
+            },
+            {
+                "table_id": 1295,
+                "title": "Rata-rata Harga Valuta Asing Terpilih menurut Provinsi, 2014",
+                "subj_id": 13,
+                "subj": "Keuangan",
+                "updt_date": "2015-03-26 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=3y2S9wDxcr%2FpBjGfHlQmZGNTTnd5VnZDbjFHTTQ5dFk0RU00cklaWmpBS2hSZkRCREJuYk5BSmMydVZEUEZjVy9FWWxyM3JvVHVGUzgyTTI%3D&tokenuser="
+            },
+            {
+                "table_id": 1202,
+                "title": "[Seri 2000] Laju Pertumbuhan PDB Atas Dasar Harga Konstan 2000 Menurut Lapangan Usaha (Persen), 2000-2014",
+                "subj_id": 11,
+                "subj": "Produk Domestik Bruto (Lapangan Usaha)",
+                "updt_date": "2015-02-24 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=yf9%2B2cb2yEFU1jRUrtIbRllZWVJwaXRRV0JMMnJ4WEhnd0RtTUFQaXF1VnlmcmNKR1RLTDZydDM2SzFDbE9jTUJyZjYzUUp3VmY0dFBMV00%3D&tokenuser="
+            },
+            {
+                "table_id": 1200,
+                "title": "[Seri 2000] PDB Atas Dasar Harga Konstan 2000 Menurut Lapangan Usaha (Miliar Rupiah), 2000-2014",
+                "subj_id": 11,
+                "subj": "Produk Domestik Bruto (Lapangan Usaha)",
+                "updt_date": "2015-02-24 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=4jmyPzH38fUcPxv%2FRrEcLGtVTEFIMnF0SXUxZkF4TW8yREhkUDdVSGdOVG10dElvMm5YNDRNemVaMmt6cURCTHo1Y1NTQXp5MzkyWWhKWkw%3D&tokenuser="
+            },
+            {
+                "table_id": 1199,
+                "title": "[Seri 2000] PDB Atas Dasar Harga Berlaku Menurut Lapangan Usaha (Miliar Rupiah), 2000-2014",
+                "subj_id": 11,
+                "subj": "Produk Domestik Bruto (Lapangan Usaha)",
+                "updt_date": "2015-02-24 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=ryRIL%2FqI06lcKCVoCdf2gnBvUjRwMk9HYXlGdGt2Y0VmeUhUWWZIRVd1YzU0T05BM3N6Vi9OaXdHY1JCcWFXK3o0OUV2cDZWblE0WUUzdnY%3D&tokenuser="
+            },
+            {
+                "table_id": 1213,
+                "title": "[Seri 2000] Laju Pertumbuhan Kumulatif PDB Menurut Lapangan Usaha (Persen), 2001-2014 ",
+                "subj_id": 11,
+                "subj": "Produk Domestik Bruto (Lapangan Usaha)",
+                "updt_date": "2015-02-18 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=FWNFl0LQR6DZzt5LNsGaUWU3STZwMm9RYVFmWTdZU09SMjMrcWVQNEVUS3ZWd0FOYk80by9PNEo4RWhnY1Bua081dDNnK3NUakFRTldpdUo%3D&tokenuser="
+            }
+        ]
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 53,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 1619,
+                "title": "Persentase Penduduk yang Mempunyai Keluhan Kesehatan dan Penggunaan Obat menurut Provinsi dan Jenis Kelamin, 2009-2014",
+                "subj_id": 40,
+                "subj": "Gender",
+                "updt_date": "2016-07-18 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=vEZhliETl0tyHdlUNwYnVm5qVlJTNCswS3RMWEtIK1RReFIvZ29ISFNnaUk0STNJVlRjZVg2b2RWSm9lUmk2S2NWSmhGR0pOUDNvaU9Qa04%3D&tokenuser="
+            },
+            {
+                "table_id": 1943,
+                "title": "Persentase Rumah Tangga yang Memiliki AC Menurut Provinsi dan Perilaku Menyalakan AC Dibawah 24<sup>0</sup>C",
+                "subj_id": 152,
+                "subj": "Lingkungan Hidup",
+                "updt_date": "2016-07-15 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=HRNoXAPR1M26mYCKpKtG7GtyYlVqL1Q2dzNrTVh6OUU5amE2RFRxOFlOdmM2Vm1XNGVwNVA1K1BBbjQzQ1VOTlE5OUkycFRtaS82SC9IUHI%3D&tokenuser="
+            },
+            {
+                "table_id": 1311,
+                "title": "Posisi Utang Luar Negeri Pemerintah dan Bank Sentral Menurut Kategori Kreditor dan Persyaratan Kredit (juta US$), 2005-2015",
+                "subj_id": 13,
+                "subj": "Keuangan",
+                "updt_date": "2016-04-26 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=XpVLYxEv%2F98Zc3zPkVreimtZNlc0MjE5czlNbDZoSmlFL1Z5NHhsOTVjVUF4anBYTHUxSDNmUUVJNUdnUWFkUzlZUXRUZ3pJaS9TYlRja3A%3D&tokenuser="
+            },
+            {
+                "table_id": 1896,
+                "title": "Transaksi Total Atas Dasar Harga Dasar, 2010",
+                "subj_id": 105,
+                "subj": "Input output",
+                "updt_date": "2016-04-15 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=0Ub5Sm93SKLeAx8AytPzGEZRcm10Zy9FNnkxWTZBcDl1MTJXT2FncnFCMWNIWlphdGphdHBtQWc5NDFzTUp2OHhSeGVJeE5SQTR0MnpXRWo%3D&tokenuser="
+            },
+            {
+                "table_id": 1933,
+                "title": "Penduduk Berumur 15 Tahun Ke Atas yang Bekerja Selama Seminggu yang Lalu Menurut Golongan Umur dan Jumlah Jam Kerja Seluruhnya, 1997 - 2007",
+                "subj_id": 6,
+                "subj": "Tenaga Kerja",
+                "updt_date": "2016-04-11 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=IvLSNoaLDPAMw73FRxvK%2BjhkaE8yQW9zenoxVS9qRmIycEVUR3Vpc0dOdTZna0tTWHpHOFNzOWtndTJWL2FEZ1FmYW5wMlNTcTdWd1JoSDM%3D&tokenuser="
+            },
+            {
+                "table_id": 1931,
+                "title": "Penduduk Berumur 15 Tahun Ke Atas yang Bekerja Selama Seminggu yang Lalu Menurut Lapangan Pekerjaan Utama dan Pendidikan Tertinggi yang Ditamatkan, 1997 - 2007",
+                "subj_id": 6,
+                "subj": "Tenaga Kerja",
+                "updt_date": "2016-04-11 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=7cyShm%2BoQP7jOC31VciqUVZLaXRRL0tPM2kybm9OT0ROK0VTSVNiSlB1blp5dGRTbWY2cXVXcXEzZzEyUjN2NFZhTFgvQ09pMHMxemEzT0M%3D&tokenuser="
+            },
+            {
+                "table_id": 979,
+                "title": "Penduduk Berumur 15 Tahun Ke Atas yang Bekerja Selama Seminggu yang Lalu Menurut Golongan Umur dan Jumlah Jam Kerja Seluruhnya, 1986-1996",
+                "subj_id": 6,
+                "subj": "Tenaga Kerja",
+                "updt_date": "2016-04-11 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=zzmoXV%2B5Lmqv4yQIMbu3v3dpY3c0ZlMwMjRralJUSEdwTTdPa1o5bWhjNytHSkVOelBvMlArOWwzd0pxYmduV2gzUDFYZWxJcFJFYU9GNUM%3D&tokenuser="
+            },
+            {
+                "table_id": 978,
+                "title": "Penduduk Berumur 15 Tahun Ke Atas yang Bekerja Selama Seminggu yang Lalu Menurut Lapangan Pekerjaan Utama dan Pendidikan Tertinggi yang Ditamatkan, 1986 -1996",
+                "subj_id": 6,
+                "subj": "Tenaga Kerja",
+                "updt_date": "2016-04-11 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=UczLIooMJHt%2B3G1lUtW4cjVuN3NFc1VOY2k1SE9mc1lOZitnNmpVQTd6cGxEbXo5WHN6a29kcGJVYWQxMHBnNUJWZkdST2tWNDNYMzRuNHo%3D&tokenuser="
+            },
+            {
+                "table_id": 1908,
+                "title": "Penduduk Berumur 15 Tahun Ke Atas Menurut Pendidikan Tertinggi yang Ditamatkan dan Jenis Kegiatan Selama Seminggu yang Lalu, 1997 - 2007",
+                "subj_id": 6,
+                "subj": "Tenaga Kerja",
+                "updt_date": "2016-04-05 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=x81JKGnZXzfVnTDRVKtx929obnRYYWc1NWtpcThvTWE5Q3VhUkhWb2RKcGduWHVIS000b1VVRm1zSktSd2VUMTFpVmFaV3dBenM4SnVKb0Q%3D&tokenuser="
+            },
+            {
+                "table_id": 976,
+                "title": "Penduduk Berumur 15 Tahun Ke Atas Menurut Pendidikan Tertinggi yang Ditamatkan dan Jenis Kegiatan Selama Seminggu yang Lalu, 1986-1996",
+                "subj_id": 6,
+                "subj": "Tenaga Kerja",
+                "updt_date": "2016-04-05 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=umhUEnYfUZt9rJXUBZ9MbzdPMk0wcldISVgrVThmMENPdTV6UkM2d1BtQXpKTnZuc2hsdEpGVHhYQUNqZjV5dVp1Q2xQNFZTK3hGYmtDWDU%3D&tokenuser="
+            }
+        ]
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 22,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 2229,
+                "title": "Rata-rata Upah/Gaji Bersih Sebulan Buruh/Karyawan Pegawai Menurut Kelompok Umur dan Lapangan Pekerjaan Utama, 2023",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2023-12-28 15:04:39.193552",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=LEBrh%2BMlaQEzv9jzjbJWI2YxRG1DWThXNkdUd2Y2RTJGZW1vU01qZ21ObEpvVVhQR3JrWFNGdzZHaDRkNXdQRU4zeStZdW1RbTZtUS9JZTY%3D&tokenuser="
+            },
+            {
+                "table_id": 2228,
+                "title": "Rata-rata Upah/Gaji Bersih Sebulan Buruh/Karyawan/Pegawai Menurut Pendidikan Tertinggi yang Ditamatkan dan Jenis Pekerjaan Utama, 2023",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2023-12-28 14:51:59.697246",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=nzWeNrKh7DgmdSVdoQRjalVCdE1Ua0dyV254NThNbU5zdzlZNzZWcHhyemVabVVXY2tDOFplaGpZcmpNREluZjE5STFGUWVoaHFTbTZ6NG0%3D&tokenuser="
+            },
+            {
+                "table_id": 2235,
+                "title": "Rata-rata Upah/Gaji Bersih sebulan Buruh/Karyawan Pegawai Menurut Pendidikan Tertinggi dan Jumlah Jam Kerja Utama, 2023",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2023-12-28 14:21:33.011916",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=4Gp5IHrNDA72mI8oDipGTy9ZQU9IZktVNHpST2RYOW01VTlmeUtUNXJOcnJPelhEUy93bGI1VU1ZUHc1SFl3WkxSZXlvRU9nVW5zN2ZKY3o%3D&tokenuser="
+            },
+            {
+                "table_id": 2234,
+                "title": "Rata-rata Upah/Gaji Bersih sebulan Buruh/Karyawan Pegawai Menurut Pendidikan Tertinggi dan Lapangan Pekerjaan Utama, 2023",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2023-12-28 14:09:38.757774",
+                "size": "0.06 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=%2FP4pfR%2BU7%2FwRwSaGrWeElHBwOGJKenppcHIwMEYrYTRUVjZqTWF4VHBKL0kwU3VXWkRaWExISEV2bGx5UEoya1VWbFJVOVNLZDdBdnRYMUk%3D&tokenuser="
+            },
+            {
+                "table_id": 2233,
+                "title": "Rata-rata Upah/Gaji Bersih Sebulan Buruh/Karyawan/Pegawai Menurut Provinsi dan Jenis Pekerjaan Utama, 2023",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2023-12-28 11:49:31.753278",
+                "size": "0.06 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=WkIKMtNHcDNQTetNTNqPh0d0bktGeVVrRmY5MUpMaDBGOGUzWTlrLzN2MUJKOEVkZTY2dXY1Y0MzUjZhRFRFZ2Jhc0I3TjR3Q1Q1UkZvTEM%3D&tokenuser="
+            },
+            {
+                "table_id": 2231,
+                "title": "Rata-rata Upah/Gaji Bersih Sebulan Buruh/Karyawan/Pegawai Menurut Provinsi dan Lapangan Pekerjaan Utama, 2023",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2023-12-28 10:02:57.660178",
+                "size": "0.07 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=G9nuWIKeJPGTphrmddDVokQ3d0UwWjhQbTdtK0w4dTJ3SWczZlNhY1Q3TzRaZ2E0aEVZWmpQT01kUFE5WFlCYnh4ZURLU2xhdmFSRitPVjg%3D&tokenuser="
+            },
+            {
+                "table_id": 1046,
+                "title": "Impor Minyak Bumi dan Hasil-Hasil Menurut Negara Asal Utama, 2017-2022",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2023-08-01 11:10:13",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=GirvS3fiUtmPYPvj8fQVPkJVNWgvRU4yaFNxYnhqL1UvTi9ETStPdEh1Y2wwS1ZrU2VrVm8wMDVoVktFd256R3dSK2c3bkU4c0dUZ2NMQ0s%3D&tokenuser="
+            },
+            {
+                "table_id": 2218,
+                "title": "Angka Kematian Balita (Under Five Mortality Rate/U5MR) Hasil Long Form SP2020 Menurut Provinsi, 2020",
+                "subj_id": 12,
+                "subj": "Kependudukan",
+                "updt_date": "2023-07-18 14:38:40",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=a2ex1vpEaLrvHpcD8YU113paWnRXa0NCQ3YzSU1lY0hUZWhCdkY4blJhcXBtN0pNNmxuczB5SVBTV01ab1BzdnJ3emQ1N3doT243MEJoekg%3D&tokenuser="
+            },
+            {
+                "table_id": 2219,
+                "title": "Angka Kematian Ibu/AKI (Maternal Mortality Rate/MMR)  Hasil Long Form SP2020 Menurut Provinsi, 2020",
+                "subj_id": 12,
+                "subj": "Kependudukan",
+                "updt_date": "2023-07-18 14:12:09",
+                "size": "0.03 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=T%2BRoIXOIB0Fc22yaQCw8WjBRUDB5WWs3MHVCL1d2dFF5THlTeHFlUlZMamtOOGd4RHZYemNLeHlUWDFZODQ2YSs5Z0pmanpkY2d2bVVCUGw%3D&tokenuser="
+            },
+            {
+                "table_id": 2217,
+                "title": "Angka Kematian Anak (Child Mortality Rate/CMR) Hasil Long Form SP2020 Menurut Provinsi, 2020",
+                "subj_id": 12,
+                "subj": "Kependudukan",
+                "updt_date": "2023-07-18 14:04:35",
+                "size": "0.03 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=LBPbTQ97vpqX2hR5jCTpqkZrSm9oV253cXFjZTdlQnV4czd1dVUzSzJFZ3dFNEZrOW81cSs5WG5FbEF3VE52aXdBWVIvckY5WkpRcWlIRFo%3D&tokenuser="
+            }
+        ]
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 7,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 2239,
+                "title": "Rata-rata Pendapatan Bersih Berusaha Sendiri Menurut Provinsi dan Kelompok Umur, 2024",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2024-12-23 14:46:56",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=CcYoCYdzGbp42C4BAqBe1kw3eUNsSzdHLzJ0K3Rja2cya0JIbWFISHBrckpyM0dTNm14NS9SQlA5MmRUN29HSVBUaXlNcVJsWk02WDA3VHY%3D&tokenuser="
+            },
+            {
+                "table_id": 2253,
+                "title": "Rata-Rata Upah/Gaji Bersih Sebulan (rupiah) Buruh/Karyawan/Pegawai menurut Provinsi dan Lapangan Pekerjaan Utama di 17 Sektor, 2024",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2024-12-23 14:46:13",
+                "size": "0.06 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=fojY72xffiWE8aRSqW0oMFpXMDJpRklyZjZqRUk4VUJLYjJadGN3SEtrR0JTVjA4NXQwOEVEUldYV25RWjJQZnNkVElrb3ZPV1JWbER3WEk%3D&tokenuser="
+            },
+            {
+                "table_id": 2251,
+                "title": "Rata-rata Pendapatan Bersih Pekerja Bebas Menurut Provinsi dan Pendidikan Tertinggi yang Ditamatkan, 2024",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2024-12-23 14:31:43",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=oSEPSJ1HylkUNjb7er6dv080bkFOdW85ME00VU51T2xzaC9SZ0VQVjAyTW56NldiTWFUSmJxUHNsR3hQSWJKbENNalp0bm1jSkdqTVZ1Z0k%3D&tokenuser="
+            },
+            {
+                "table_id": 1571,
+                "title": "Selang Waktu Terjadi Tindak Pidana Menurut Kepolisian Daerah, 2000 - 2023",
+                "subj_id": 34,
+                "subj": "Politik dan Keamanan",
+                "updt_date": "2024-12-12 15:31:20.151706",
+                "size": "0.02 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=1KuJG5X%2B1a8MSiiZfCiWcG5oNlB0bGVOSTcxL3FmMlpndDVZTG1wbjVVTmFHUFQzbGgvQ0ovbE1pN3g1bHRnaXpvL3RmMU5lbkVCclNuKzc%3D&tokenuser="
+            },
+            {
+                "table_id": 2260,
+                "title": "Rata-rata Konsumsi dan Pengeluaran Perkapita Seminggu Menurut Komoditi Makanan dan Golongan Pengeluaran per Kapita Seminggu di Provinsi Papua Pegunungan, 2024",
+                "subj_id": 5,
+                "subj": "Konsumsi dan Pengeluaran",
+                "updt_date": "2024-12-11 15:32:55.335474",
+                "size": "0.17 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=qtxHsKF%2FwfPPxbhki1LUZ3I0S2lLMFpac1FGL3R2MldLeWNVNHprNzNvTlNpQmJBcmdLaGRPZmoxaWNXaGcvNzRzd09hM2RGOFQ3QVdJa2I%3D&tokenuser="
+            },
+            {
+                "table_id": 2259,
+                "title": "Rata-rata Konsumsi dan Pengeluaran Perkapita Seminggu Menurut Komoditi Makanan dan Golongan Pengeluaran per Kapita Seminggu di Provinsi Papua Tengah, 2024",
+                "subj_id": 5,
+                "subj": "Konsumsi dan Pengeluaran",
+                "updt_date": "2024-12-11 15:28:54.91294",
+                "size": "0.18 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=4vIpkVxqEMSQl7d6ssCOfDJsWlp0dmprTU5vREd3S0JXc2dRSEdYNFVLVXd5TVlmaDNvMEFBTThaSGJ3MWRwUHJsbjdlMzJwdlZQdEk4Y2M%3D&tokenuser="
+            },
+            {
+                "table_id": 2258,
+                "title": "Rata-rata Konsumsi dan Pengeluaran Perkapita Seminggu Menurut Komoditi Makanan dan Golongan Pengeluaran per Kapita Seminggu di Provinsi Papua Selatan, 2024",
+                "subj_id": 5,
+                "subj": "Konsumsi dan Pengeluaran",
+                "updt_date": "2024-12-11 15:27:07.953283",
+                "size": "0.2 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=FeZkYeK9rL32ezUfqqAMAXFHVG1YQ2prRFJsSkV5dmNxc0M5ckFGWVNoNld0YnNBdWY1QnJpcFFVWFdhN2lSMlA1bnYxRHZ6UVY0V2x5RzY%3D&tokenuser="
+            },
+            {
+                "table_id": 2257,
+                "title": "Rata-rata Konsumsi dan Pengeluaran Perkapita Seminggu Menurut Komoditi Makanan dan Golongan Pengeluaran per Kapita Seminggu di Provinsi Papua Barat Daya, 2024",
+                "subj_id": 5,
+                "subj": "Konsumsi dan Pengeluaran",
+                "updt_date": "2024-12-11 15:15:14.92569",
+                "size": "0.18 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=DRXCBPp4bzRbopsPphySUjhmbGdYZHpGZXA1NENZS3RGcmZKcGlYUWhneUZQVlRLSkQ2QU1yTGh3Q1dTak9jdlN0Z201M1g4cmRsWE11Rzk%3D&tokenuser="
+            },
+            {
+                "table_id": 2147,
+                "title": "Rata-rata Konsumsi dan Pengeluaran Perkapita Seminggu Menurut Komoditi Makanan dan Golongan Pengeluaran per Kapita Seminggu di Provinsi Papua, 2018-2024",
+                "subj_id": 5,
+                "subj": "Konsumsi dan Pengeluaran",
+                "updt_date": "2024-12-11 09:05:55.750922",
+                "size": "1.09 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=Gl8xWEIwUH3U0XjlmAdMV0ErR09SZTVrejFicGEyQjM4ZWFLbkt3RlVkb1dvYll5TWR6b2tUaE5jQmR6dUFoc2FXQUJSWjZUczhOSndQMWw%3D&tokenuser="
+            },
+            {
+                "table_id": 2146,
+                "title": "Rata-rata Konsumsi dan Pengeluaran Perkapita Seminggu Menurut Komoditi Makanan dan Golongan Pengeluaran per Kapita Seminggu di Provinsi Papua Barat, 2018-2024",
+                "subj_id": 5,
+                "subj": "Konsumsi dan Pengeluaran",
+                "updt_date": "2024-12-11 09:03:33.965401",
+                "size": "1.03 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=amqkXhWLwfXjT%2F8jc2HLMDNSeW5EdmxLK01WMTJkc0RQWkFEeTVuSlYzSWh5am5zd2RiYk5KVFAzTlJCVk4raEhwOFlLZ2N6a24rRjVHdUc%3D&tokenuser="
+            }
+        ]
+    ]
+}

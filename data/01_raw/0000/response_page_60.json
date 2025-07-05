@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 60,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 1211,
+                "title": "[Seri 2000] Laju Pertumbuhan PDB Triwulanan Atas Dasar Harga Konstan 2000 Terhadap Triwulan Tahun Sebelumnya, 2001-2014",
+                "subj_id": 11,
+                "subj": "Produk Domestik Bruto (Lapangan Usaha)",
+                "updt_date": "2015-02-18 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=2bubfM0QR%2Fla0lcD3wQiP3ZKeHdxenRwclN4cVRaT3RnTDdzQ3JSWHYxTys2OGVYQm9XdkwyRDhNWHpyVDgvKzhJQmdWeW9XM0g1MUlmcDY%3D&tokenuser="
+            },
+            {
+                "table_id": 1209,
+                "title": "[Seri 2000] Laju Pertumbuhan PDB Triwulanan Atas Dasar Harga Konstan 2000 Terhadap Triwulan Sebelumnya, 2001-2014",
+                "subj_id": 11,
+                "subj": "Produk Domestik Bruto (Lapangan Usaha)",
+                "updt_date": "2015-02-18 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=uKmenNQa2miDAVMQyGXMO1JzWWJaY3JUYW1MMDgrWU50MXVpcWZ2bzFjaWY4QS82dU9GVVdSeFZRbUs0eFBuNHZWb0VjOVR5b2FhZCtCcHg%3D&tokenuser="
+            },
+            {
+                "table_id": 1207,
+                "title": "[Seri 2000] Distribusi PDB Triwulanan Atas Dasar Harga Berlaku Menurut Lapangan Usaha (Persen), 2000-2014",
+                "subj_id": 11,
+                "subj": "Produk Domestik Bruto (Lapangan Usaha)",
+                "updt_date": "2015-02-18 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=h3UlB2I1Bgpqd4kJqn%2BpmVhnUTFudDF6WFFUNUxjTFNoTE96cGF1VUgvYVBXZkd4elFuYXF0aGZlY3lEYWZJTDU5RUd1Mmt1N1hlZmFGZ2Q%3D&tokenuser="
+            },
+            {
+                "table_id": 1206,
+                "title": "[Seri 2000] PDB Triwulanan Atas Dasar Harga Konstan 2000  Menurut Lapangan Usaha (Miliar Rupiah), 2000-2014",
+                "subj_id": 11,
+                "subj": "Produk Domestik Bruto (Lapangan Usaha)",
+                "updt_date": "2015-02-18 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=3gyEaYnfSVFJmeO0eOmNITE2K0pRTjdpYWNaWmw1M09RdDZoa3lSazFoQTZMdmpFTjU0SnNrN3pwblZzT3BlS3hvNjBFN1pYb01xOUIrNnA%3D&tokenuser="
+            },
+            {
+                "table_id": 1204,
+                "title": "[Seri 2000] PDB Triwulanan Atas Dasar Harga Berlaku Menurut Lapangan Usaha(Miliar Rupiah), 2000-2014 ",
+                "subj_id": 11,
+                "subj": "Produk Domestik Bruto (Lapangan Usaha)",
+                "updt_date": "2015-02-18 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=qkpzHUsoc%2B4Mefr1crMIUHZzaHpWU0pzY3lUZENCY3RpZVZYRzNaK1pLdjZIc3VaY2lOZUJDdFkvaHZpYll1cTJGbkJMcUcrWXV0TmltU2U%3D&tokenuser="
+            },
+            {
+                "table_id": 1293,
+                "title": "Realisasi Penerimaan dan Pengeluaran Pemerintah Desa (Juta Rupiah) di Perkotaan menurut Provinsi, 2000-2012",
+                "subj_id": 13,
+                "subj": "Keuangan",
+                "updt_date": "2015-01-12 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=LNYe6ujFjZtJiON%2FQ1pJTG5PV1VCd04yaEx6QWhmTzBXS0wzNWpyQnZBUEVoMy9HUUVyN2Q2S2x4eDhMUEZXblRxb3d1c3hvdFpoSjdSQUw%3D&tokenuser="
+            },
+            {
+                "table_id": 1730,
+                "title": "Banyaknya Desa /Kelurahan Menurut Keberadaan Sarana Perdagangan dan Akomodasi, 2014",
+                "subj_id": 61,
+                "subj": "Potensi Desa",
+                "updt_date": "2015-01-08 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=5gDSvKtlAczdFnqIW7L9vFZyWXVJWVpqNG5ZMFJ0QmsxdnNua0N2WVMySVFaa01aTGJ6NWprV2JKTEN5RHkxK3lRWlNIeUpTR2o1NWZPLzA%3D&tokenuser="
+            },
+            {
+                "table_id": 1722,
+                "title": "Banyaknya Desa /Kelurahan Menurut Jenis Bahan Bakar untuk Memasak yang Digunakan oleh Sebagian Besar Keluarga dan Keberadaan Agen/Penjual Bahan Bakar, 2014",
+                "subj_id": 61,
+                "subj": "Potensi Desa",
+                "updt_date": "2015-01-08 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=iiVlf2fBvWKe1cnpX0m6L3hDdHZOZXQ3cGxnTmlCZWtLWHNnRElRNGtZY01BV2V6Z2pHVjNkK25VL21hVXA3aHFWM29BRU5ScHJGSzhmcTg%3D&tokenuser="
+            },
+            {
+                "table_id": 1371,
+                "title": "Rata-Rata Harian Aliran Sungai, Tinggi Aliran, dan Volume Air di Beberapa Sungai  yang Daerah Pengalirannya Lebih dari 1.000 km2, 2000-2011\r\n",
+                "subj_id": 153,
+                "subj": "Geografi",
+                "updt_date": "2014-12-31 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=Mvi7nB5DjffoOCnrNuxyFEo1U3VvbEhTZ3ErZmpmenQrVnF4ZXlYUHcxVDhUa1FwRUh5b0czVzlTZDBHa1BpRFZkNVkvR1RPd2pUWWRkeC8%3D&tokenuser="
+            },
+            {
+                "table_id": 965,
+                "title": "Rata-Rata Pengeluaran per Kapita Sebulan Menurut Kelompok Barang (rupiah), 1998-2012",
+                "subj_id": 5,
+                "subj": "Konsumsi dan Pengeluaran",
+                "updt_date": "2014-12-18 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=JkqzTvCvfP9YtfnarHkjVWlKY1IzWFRUOW9RK2FSVnpNZkFvWFV1eEhHSTcycDJxZXFaTzFZdUFvNDVLb1RqbklRQXdGM29ENkJWSVZCWXk%3D&tokenuser="
+            }
+        ]
+    ]
+}

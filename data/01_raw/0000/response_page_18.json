@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 18,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 1037,
+                "title": "Volume Impor Menurut Pelabuhan Utama (Berat bersih: ribu ton), 2017-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-03-19 10:36:07",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=HS5UIV7KvRoo1IMh3ACecUQ4ZVgwVkV3b25ydW5KQlFUd3Flc1kwb203bzRXekJTZ0Z1UXRyN3lMZmJzZ3FqMDY4WWpTYTdrM1lmVlczWSs%3D&tokenuser="
+            },
+            {
+                "table_id": 1038,
+                "title": "Nilai Impor Menurut Pelabuhan Utama (Nilai CIF: juta US$), 2017-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-03-19 10:15:13",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=AUjf8whcJFJt7jiVYLO2CTJSc0VZTGZGWHdoSGVIN3crNHFJUWcyYitOUGlPN21xU2JzbHUyc3Vpc25rOUV1d1AydHB1SXpRVXA2SUlZUXQ%3D&tokenuser="
+            },
+            {
+                "table_id": 1044,
+                "title": "Impor Pupuk Menurut Negara Asal Utama, 2017-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-03-15 15:51:27",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=SWfeXMsuy3b35GJzjXeND3hUdWhNVzM0ckxNQW9OTC9nakJPMDcxWDJvOHVTWEI2Y05uVWJwZzNEMWtXQ2I5cThUeEtpS0dmME9WS1NGUmU%3D&tokenuser="
+            },
+            {
+                "table_id": 2012,
+                "title": "Impor Tembakau menurut Negara Asal Utama, 2018-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-03-15 15:33:50",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=iQ6PCIGzISELXmo5aUCBzmJ2RHY3Ly9pSWFJV21xSHhUVHFnclFUanR5VGpaeXJuUS9CcnVJMW1LT1UwQ0JqYTFqd2c2Y1gxS3RQU3VFMVk%3D&tokenuser="
+            },
+            {
+                "table_id": 1040,
+                "title": "Impor Barang Konsumsi, 1989-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-03-14 14:42:52",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=VzBsP0czJAvBJRxuIV%2FP7mY2UTg2Yi8vL2FCdW5hTldZZExwdzAvWEEzT2dVRDdaNHBPYjRETTh2NzVLTDNNejVkVGp6M2wvalJOVHpIQ0c%3D&tokenuser="
+            },
+            {
+                "table_id": 1041,
+                "title": "Impor Bahan Baku dan Barang Penolong, 1996-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-03-14 10:58:49",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=Gg4tYnQ7PdaLliNIn7BBg2dKOEtyTEdxUXB3REdsU21iT1ZSTEZUUWhqWEVDNzJwYUtoWWtXb0Q3bGF1eGwzNnlZQjJ5N0hJcDlwNjJaU0Y%3D&tokenuser="
+            },
+            {
+                "table_id": 1042,
+                "title": "Impor Barang Modal, 1996-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-03-14 10:39:14",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=Esn3G%2BzeVoWakHfXxVDBXm45TDlpVW1SM0hSU1BWVnhRS0Rpc2RBTFBzL2NJVXVRY3pqSitsYlM2alJFWXNFQitTS00rSTdKbnJIbU5wemE%3D&tokenuser="
+            },
+            {
+                "table_id": 1048,
+                "title": "Nilai Impor Kendaraan Bermotor Menurut Negara Asal Utama (Nilai CIF:juta US$), 2018-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-03-14 10:23:56",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=5AG5VtHjanDMOJ%2FGPnyk9S9Mck85TElJVjUxK3BZSXM2WjQ2M1pMOTc2WVVBMk9GVmF0M2pzS1VDTkpUNGVHQVVGY0ZWUkRsVXAvZkw0Zk0%3D&tokenuser="
+            },
+            {
+                "table_id": 1003,
+                "title": "Volume Ekspor dan Impor Migas (Berat bersih: ribu ton) 1996-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-03-14 10:11:22",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=ELAXM4b4ku3KLwnoPFNFsXVaMThmYzB5ZjlFMTlHSUFCTHUrT3cxaDhVa3NiNUtuK2w0MjlUd0NuaUpPQnZIdWFPcFRMeDFhZmxuTVFvOGs%3D&tokenuser="
+            },
+            {
+                "table_id": 1045,
+                "title": "Impor Semen Menurut Negara Asal Utama, 2017-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-03-14 09:36:29",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=3yvicOtvofdKqbd6KWqgkWtLbDlQRWg3V3M5YkdQbGRXdlJMNnZxRWU2b1l2TzNYQUpNOHM5WEpDK2F1RXhYckgrNE4zclJJdWRnSG5yVnA%3D&tokenuser="
+            }
+        ]
+    ]
+}

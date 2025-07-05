@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 37,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 2003,
+                "title": "Posisi Kredit Perbankan<sup>1</sup> dalam Rupiah dan Valuta Asing Menurut Sektor Ekonomi (miliar rupiah), 2016-2018",
+                "subj_id": 13,
+                "subj": "Keuangan",
+                "updt_date": "2019-04-12 16:14:55.061153",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=eV8x4awNYJuLTw7eDWC%2BvXp4eDFad1E3em5hRFQwMWVhZlJFVGdwcTZ4RDFpekhZWXRycTFrVVVjaWJuLzNxMjRFR3RvUU5uYi9zOGJ4aE8%3D&tokenuser="
+            },
+            {
+                "table_id": 1857,
+                "title": "Perkembangan Dana Perbankan Menurut Jenisnya (miliar rupiah) 2010–2018",
+                "subj_id": 13,
+                "subj": "Keuangan",
+                "updt_date": "2019-04-12 16:09:15.233504",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=9Hz5QfRfuByyklS6iIML4000ZTJWZG5IZmpzM1VWV1VIN3hWdllxVEFnRURURDI0ZXRzbm5aa212YUllVUxWbSs1Y1kxOEYzd2RWODhWby8%3D&tokenuser="
+            },
+            {
+                "table_id": 2055,
+                "title": "Nilai Produksi dan Biaya Produksi per Musim Tanam per Hektar Budidaya Tanaman Padi Sawah, Padi Ladang, Jagung, dan Kedelai, 2017",
+                "subj_id": 53,
+                "subj": "Tanaman Pangan",
+                "updt_date": "2019-04-10 15:33:11.085747",
+                "size": "0.08 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=d%2FUzdxZ6ekxYyoIiFqBjCXRGelFmYithMlU1a2o2QmFwWGpINnlrR0hlaFZBKzZkUDFuaGlVL0s0SkFDczk0ZWVWUXdKQ3pkMHpzWHJsdUc%3D&tokenuser="
+            },
+            {
+                "table_id": 2054,
+                "title": "Persentase Rumah Tangga yang Mempunyai Tanaman Keras/Tahunan yang Langsung Ditanam di Tanah Menurut Provinsi dan Daerah Tempat Tinggal, 2013, 2014 dan 2017",
+                "subj_id": 152,
+                "subj": "Lingkungan Hidup",
+                "updt_date": "2019-03-24 11:46:59.76228",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=64lo7WojCxS1v5VPPnqq%2BTFqblVLYi9ic3RNZ1c1dXUrMHZMNVhRSlo1N2hDUVZ0cW9vSXVvTEZkUmhpYlhsMXhGb0NMbHdXRHg3N3grTUY%3D&tokenuser="
+            },
+            {
+                "table_id": 2053,
+                "title": "Persentase Rumah Tangga yang Memiliki AC Menurut Provinsi dan Perilaku Menyalakan AC Dibawah 25 C, 2013 dan 2017",
+                "subj_id": 152,
+                "subj": "Lingkungan Hidup",
+                "updt_date": "2019-03-24 11:38:56.374782",
+                "size": "0.03 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=GDbmGSUpTLuBkNwtbqOj5TRGMmozZWVBSCtHRXU3VUZvOGV3dGxlSWZCNnJFNjRDTkVxUGlDcHhUSldRd3RlNVpwWlM2TnJCeDRNc1VDSzM%3D&tokenuser="
+            },
+            {
+                "table_id": 2051,
+                "title": "Persentase Rumah Tangga Menurut Provinsi dan  Keberadaan Area Resapan Air, 2017",
+                "subj_id": 152,
+                "subj": "Lingkungan Hidup",
+                "updt_date": "2019-03-24 11:21:23.817061",
+                "size": "0.03 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=KJkGlbxMm332RM%2Bh1NkH4lpRT2d5RVdIRTlZTjF0VktaY1AvZW5WZWdSdUV0UGZJY09yMFVEczdOdHdnY2dUVzdWbFpVVGFrV0xFUVd0S3E%3D&tokenuser="
+            },
+            {
+                "table_id": 933,
+                "title": "Ringkasan Pendapatan Bruto dan Pengeluaran Perusahaan Konstruksi (Juta Rupiah), 2010-2017",
+                "subj_id": 4,
+                "subj": "Konstruksi",
+                "updt_date": "2019-03-11 11:38:47.856668",
+                "size": "0.03 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=B9cb41RNhNU2P%2Bg0cc%2B%2BjFdtaHhHcHplMHFSNjhqWkNielNWTzRsMS9XaTZSRjd3ZDZUS2xuNmczZkJZM0Q1SVNQdHFqRkNyUUhtNWNyMTg%3D&tokenuser="
+            },
+            {
+                "table_id": 2049,
+                "title": "Rata-rata Upah/Gaji Bersih Sebulan Buruh/Karyawan/Pegawai Menurut Provinsi dan Lapangan Pekerjaan Utama di 17 Sektor (rupiah), 2018",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2019-03-06 10:28:45.817404",
+                "size": "0.07 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=C%2B3BBtgWNAK%2FCmmIM9L3%2BjB2VDZrekduVlBIRGorWEY5MkNSM2dYbkNOQWpxR0xnZ1NYZHZ0eXlaYXN2SDB3OWh0aDlaK0VMemZtK1g2KzU%3D&tokenuser="
+            },
+            {
+                "table_id": 2048,
+                "title": "Rata-rata Upah/Gaji Bersih Sebulan Buruh/Karyawan/Pegawai Menurut Provinsi dan Jenis Pekerjaan Utama (Rupiah), 2018",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2019-03-06 10:27:23.147514",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=dvnDea%2FTXjvwjDsALFDtTVZDVzlUUTI2RnJWRVZtbUFjeXRBN3c1RW4zaHNBNkVENUFuZlIxdno0a0VESFNYRDcybmpNSjhDMGJsaTVTaUM%3D&tokenuser="
+            },
+            {
+                "table_id": 2047,
+                "title": "Rata-rata Upah/Gaji Bersih Sebulan Buruh/Karyawan/Pegawai Menurut Pendidikan Tertinggi yang Ditamatkan dan Lapangan Pekerjaan Utama di 17 Sektor (rupiah), 2018",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2019-03-06 10:26:13.613504",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=c%2Fm9UsuDUZ97NJILYJ2weERDNzdLVVZDQXdyUXJZSHR4c3BFd0c4N3BpZjZ2YUpoNEpyYXRNS29zenpxRnRlcWR3ZG04UWFFME5Ya3VBOUU%3D&tokenuser="
+            }
+        ]
+    ]
+}

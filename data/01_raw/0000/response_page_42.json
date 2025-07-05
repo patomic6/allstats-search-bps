@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 42,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 1993,
+                "title": "Rata-rata Pendapatan Bersih Pekerja Bebas Menurut Provinsi dan Pendidikan Tertinggi yang Ditamatkan (ribu rupiah), 2017",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2018-03-13 00:00:00",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=K6gswYtXPUuqbfS0Flu1kkY2MU1PL0NZMStUN2N6RkR1U3lhcXpHUkphbDByTk5UYTdMV1ZZNU9sYUNYd3BXYXFQSHlQODlsSmI0K1lmOEg%3D&tokenuser="
+            },
+            {
+                "table_id": 1990,
+                "title": "Rata-rata Upah/Gaji Bersih Sebulan Buruh/Karyawan/Pegawai Menurut Pendidikan Tertinggi yang Ditamatkan dan Jumlah Jam Kerja Seminggu dari Pekerjaan Utama (Rupiah), 2017",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2018-03-13 00:00:00",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=pcziKP9tb3qUleiIoc3Gy2ZGckhweDZ4Q0h4K1BIZ2lBeWRvVmh3bk5QMW02Z0I2UiszbGR0SWR1UFVxY1gxK3dJbndtRlFacWhTVjVTRG0%3D&tokenuser="
+            },
+            {
+                "table_id": 1988,
+                "title": "Rata-rata Upah/Gaji Bersih Sebulan Buruh/Karyawan/Pegawai Menurut Provinsi dan Jenis Pekerjaan Utama (Rupiah), 2017",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2018-03-13 00:00:00",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=exYOkHbovz8teSzaqUdVSklFdEFISW8rSGNyZzZja2VxTG9PUU1qQnRkTUlUYm1SSDFEZDJOSGZKd3dheDlCRkY1aTlac1gvVSswMjYwMlM%3D&tokenuser="
+            },
+            {
+                "table_id": 1017,
+                "title": "Ekspor Tembakau Menurut Negara Tujuan Utama, 2000-2015",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2018-02-08 00:00:00",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=L%2B7Iwa2Q8iz654Ww%2FD283UdZRy9hZ2tkVGNXMjlONVZMTmFLeGhJZUdZMitCeVZkZ3YyT24xdmYwK0tRUkJhT1NWUEVVdjVZK0JqMEludmw%3D&tokenuser="
+            },
+            {
+                "table_id": 1016,
+                "title": "Ekspor Teh Menurut Negara Tujuan Utama, 2000-2015",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2018-02-08 00:00:00",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=CQ5SN3xfGf8LvEyJ6%2BfhhXBWWTZQNzhCWE0xeHFDUVhUNzcxYkhKOFdjTWxxQWltM1IwVGtTY2Jqd21RbENEZ3FNZm83TFJwZXo0YjZ4WVM%3D&tokenuser="
+            },
+            {
+                "table_id": 1494,
+                "title": "Jumlah Penduduk Miskin, Persentase Penduduk Miskin dan Garis Kemiskinan, 1970-2017",
+                "subj_id": 23,
+                "subj": "Kemiskinan dan Ketimpangan",
+                "updt_date": "2018-01-05 00:00:00",
+                "size": "0.03 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=3ZcyyiVgxKVMCQl72JxJ6UtEYjhCdmlENUIvTG5ybkt5TURkbVZOL3BhTkNmME5kNnl3TTE1aWhDYTY2SU5oRVhrRnp1a1BHMHQvMTJUaXk%3D&tokenuser="
+            },
+            {
+                "table_id": 1560,
+                "title": "Nutrisi",
+                "subj_id": 30,
+                "subj": "Kesehatan",
+                "updt_date": "2017-12-28 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=EafWWswJ%2FGmRyCU1Uy%2B1y2ZISU02SDBTaUNkdG1KQmx3a0pkQW83Q0FFNFZjVTdyRHVaRG5tcXlqL2Mway9seTRONVNXSDdxSWtPZHNQbFM%3D&tokenuser="
+            },
+            {
+                "table_id": 1956,
+                "title": "Rata-rata Pendapatan Bersih Pekerja Bebas Menurut Provinsi dan Pendidikan Tertinggi yang Ditamatkan (ribu rupiah), 2016",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2017-12-21 00:00:00",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=7edsAxR4fZQYsip77nXQlmFFVWIzWGNkM09zUUNTMzNUTGJwRDZrWmNSRytqdDgwY1M2ajlPOWkyTGowQ2tNb3BEN3FPV2ZPZnMyUTZMQVk%3D&tokenuser="
+            },
+            {
+                "table_id": 1955,
+                "title": "Rata-rata Pendapatan Bersih Pekerja Bebas Menurut Provinsi dan Kelompok Umur (ribu rupiah), 2016",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2017-12-21 00:00:00",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=dyvCbBDBTU6VkU51NKO0d1lJZFYrUjVwdGhUQ0VXc21Mdm1ZL0JqWDFEakJOdEE1aXR2ZUk1WFhsaysvRngvYWhPYmwrSkJ4WjBoVklPd1Y%3D&tokenuser="
+            },
+            {
+                "table_id": 1951,
+                "title": "Rata-rata Pendapatan Bersih Berusaha Sendiri Menurut Provinsi dan Kelompok Umur (ribu rupiah), 2016",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2017-12-21 00:00:00",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=3GIh3yGthq9Nm65qcs8RK1FLZmZqSjR4WVgwT3F1NnEvSVB3ZlhuRTRuNEVEU3hwM3RkQlkzMGpiSGtFemhQNTMxV1hUQVR2Y1FZVHZlVHE%3D&tokenuser="
+            }
+        ]
+    ]
+}

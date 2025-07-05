@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 19,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 1047,
+                "title": "Impor Besi dan Baja Menurut Negara Asal Utama, 2017–2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-03-13 12:13:57",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=Gy%2BKkrIDpgY9lZgfnp6Hw00ybWg1SzhyQXpoOWdyQTRSY1ZsclBJVkxCRWdnbTd5SUp6WVpTNm5zNXM3Y3lCSVB4OHpxSnFsSFY1VjgzVnc%3D&tokenuser="
+            },
+            {
+                "table_id": 1050,
+                "title": "Impor Mesin/Perlengkapan Elektrik dan Bagiannya Menurut Negara Asal Utama, 2018-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-03-13 11:47:23",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=4NVTRGi3HOBBMBvwefcY3Fg1Q1RKN2FFdmlOYStaSDFiQng3MTRhd1dybHZBUFZpSHhZWU1adE05OHVvUVJWYjYvR0gvaURqbkQ0RlRHelQ%3D&tokenuser="
+            },
+            {
+                "table_id": 2017,
+                "title": "Impor Aluminium menurut Negara Asal Utama, 2017-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-03-13 11:11:39",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=Mt34c5iFCxWvnh3FjdRBVlVpeGdUYzMzdHlqekVKNFhuZFEwUURObm9DSlQrYUhrYi9zY2k4M25wYytxN0hrZ25VdVZROUlOblR6d2wwREc%3D&tokenuser="
+            },
+            {
+                "table_id": 2018,
+                "title": "Impor Tembaga menurut Negara Asal Utama, 2018-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-03-13 10:39:47",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=LWP9%2FMmpJXoKMxyDwseRXXZEUyt5K281STB4SFM3WHhDYUlaRXBFdTV5akRKTGhoT1ZsK0EyZXdYUEoxSVFrc1Q1cWNCMEhDdmZIYmtNUWM%3D&tokenuser="
+            },
+            {
+                "table_id": 1798,
+                "title": "Jumlah Pegawai Negeri Sipil Menurut Jenis Kepegawaian dan Jenis Kelamin, 2004 - 2023",
+                "subj_id": 101,
+                "subj": "Pemerintahan",
+                "updt_date": "2024-03-09 14:00:07",
+                "size": "0.03 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=RKvpgqBn6OEpc1M66cFFgll4aTZkWk9La0pQYnpwRWUrMlhMTjgwUStmem5aZjc0YzdSclM1Zkc5Nkx3TW0wUzE0ME5mRmNiYU9HdDZaSEM%3D&tokenuser="
+            },
+            {
+                "table_id": 1176,
+                "title": "Jumlah Pegawai Negeri Sipil Menurut Kelompok Umur dan Jenis Kelamin, 2004 - 2023",
+                "subj_id": 101,
+                "subj": "Pemerintahan",
+                "updt_date": "2024-03-09 13:44:32",
+                "size": "0.06 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=7n0AFG2FY9yIuEZluCi3vzByN2w2Y0NQRmt5SDcrRytJS2FNVnI4M0drNjY5YTFoV3YvQmhreG8xdkZIT01tV0dxeUVKMjZ5TzgxVmlyWkY%3D&tokenuser="
+            },
+            {
+                "table_id": 1175,
+                "title": "Jumlah Pegawai Negeri Sipil Menurut Tingkat Pendidikan dan Jenis Kelamin, 2004 - 2023",
+                "subj_id": 101,
+                "subj": "Pemerintahan",
+                "updt_date": "2024-03-08 16:11:07",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=byDzbdlu0xtuYi6L7Y4q9kFLVU93OFJaUTRyMkUxcWxTWUQ2ZTJ2emM2bEEzYWord2VybnY3YTg1UUpSYjQzNzZzNW5oSkNDYm9GdllzWE0%3D&tokenuser="
+            },
+            {
+                "table_id": 1164,
+                "title": "Jumlah Pegawai Negeri Sipil Menurut Tingkat Kepangkatan dan Jenis Kelamin, 2004-2023",
+                "subj_id": 101,
+                "subj": "Pemerintahan",
+                "updt_date": "2024-03-08 16:00:01",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=HzuLgxx7%2B19vxwjVZALnN3hkc3FHRStJWjhEK09JcC9vbjBUdjdWbXliYjJnS2VTcHk1b3JnU1FXTkpiNFBoWnVBNXN5UlY4cXg5U3Q3UHc%3D&tokenuser="
+            },
+            {
+                "table_id": 1163,
+                "title": "Jumlah Pegawai Negeri Sipil Menurut Provinsi dan Jenis Kelamin, 2004-2023",
+                "subj_id": 101,
+                "subj": "Pemerintahan",
+                "updt_date": "2024-03-08 15:49:02",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=aDWgQjDstUAKOBPpsz5uBklDemNRSFFFS0o3QkQwT2NNSWVpZndvMS9oMVl4VmtPL3Rvb0phVldISmEySXB0bG9lNHRTS1Bza0k3YzVPWjI%3D&tokenuser="
+            },
+            {
+                "table_id": 1426,
+                "title": "Produksi Angkutan Kereta Api Penumpang, 2000-2022",
+                "subj_id": 17,
+                "subj": "Transportasi",
+                "updt_date": "2024-03-01 11:59:08.057271",
+                "size": "0.06 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=%2FYooxoV8pcwyZ6dJeswpyERqQkxFMWZNbjk4eWFjQnpqRTJPK0lBdVBxc3o4OFFLajBRRG53NjQwd3dIZWx2VHZXNWlPV3ZLWkxhZ09XdEQ%3D&tokenuser="
+            }
+        ]
+    ]
+}

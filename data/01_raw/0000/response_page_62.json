@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 62,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 953,
+                "title": "Rata-rata Jumlah Pendapatan perkapita Menurut Golongan Rumah Tangga (ribu rupiah), 2000, 2005, 2008",
+                "subj_id": 5,
+                "subj": "Konsumsi dan Pengeluaran",
+                "updt_date": "2014-09-09 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=3HjA4iauGO9CaaVUGomNS3RDRFpRTU40SStUQ1d2TXBTM1g1ZlhOcWd4eVZtR3JiazRrQ3NzNWNTV0FlZEJ1dExhQ0J5WDV0bGExYUgvM3k%3D&tokenuser="
+            },
+            {
+                "table_id": 952,
+                "title": "Jumlah Pendapatan Menurut Golongan Rumah Tangga (miliar rupiah), 2000, 2005, dan 2008",
+                "subj_id": 5,
+                "subj": "Konsumsi dan Pengeluaran",
+                "updt_date": "2014-09-09 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=ycIdl%2FEOxrOYqQud4bFTd3pyaHlYTUdoQ3JFTHhQMHprb3U4cFhadFp1c0FHYTBjcUV5QWQ0eDNZeEhvV1ZINklVc0NDd3dodDVMNWFCb2g%3D&tokenuser="
+            },
+            {
+                "table_id": 1194,
+                "title": "Transaksi Total Atas Dasar Harga Produsen 9 Sektor Ekonomi (miliar rupiah), 2005",
+                "subj_id": 105,
+                "subj": "Input output",
+                "updt_date": "2014-09-08 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=CzZfrmsVGzBH8fiLL0I6uWZWN1lDUTlMTEtoL2pxY3B1czRmYmNrT3I4UHJueFpCV3FNcnI4WTdOOWMxTGlnQlpUSUlkRnJEb09FMzZrdDc%3D&tokenuser="
+            },
+            {
+                "table_id": 1193,
+                "title": "Transaksi Total Atas Dasar Harga Pembeli 9 Sektor Ekonomi (miliar rupiah), 2005",
+                "subj_id": 105,
+                "subj": "Input output",
+                "updt_date": "2014-09-08 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=AZrhutEBEzyMtwGjiSpvRDFvbk9DQm5IR1IyV2ltbGJQbDdiQnZvaWpnSDlwOFRORkcyNVpoRkFxMDVVZjVLYi94djBCMlEwaHpkQ204cUk%3D&tokenuser="
+            },
+            {
+                "table_id": 963,
+                "title": "Rata-Rata Pengeluaran per Kapita Sebulan di Daerah Perkotaan dan Perdesaan Menurut Kelompok Barang dan Golongan Pengeluaran per Kapita Sebulan, 2000-2012",
+                "subj_id": 5,
+                "subj": "Konsumsi dan Pengeluaran",
+                "updt_date": "2014-09-08 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=d5K%2BuCT0RVqbHBgxevkudFdiSXVySW5iNXhCUGhBUWVpR2p5MjRZNVFwa3I3QXFNNHlrbE1mWHdyYjM4aWdNb1M3RW9kUm00Q1duU2hwTEk%3D&tokenuser="
+            },
+            {
+                "table_id": 961,
+                "title": "Rata-Rata Pengeluaran per Kapita Sebulan di Daerah Perdesaan  Menurut Kelompok Barang dan Golongan Pengeluaran per Kapita Sebulan, 2000-2012",
+                "subj_id": 5,
+                "subj": "Konsumsi dan Pengeluaran",
+                "updt_date": "2014-09-08 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=Af18tQ3QnbbvKsQNuJYLxWMyUFJIR0ZXaDRTd3BBbDVoRk1UQlcxT1M0Y3pDYUNxVkJYTXE5VnRkMTlyUEY4V3ZvYjdQdFpNUEtDeHhKdEQ%3D&tokenuser="
+            },
+            {
+                "table_id": 959,
+                "title": "Rata-Rata Pengeluaran per Kapita Sebulan di Daerah Perkotaan Menurut Kelompok Barang dan Golongan Pengeluaran per Kapita Sebulan, 2000-2012",
+                "subj_id": 5,
+                "subj": "Konsumsi dan Pengeluaran",
+                "updt_date": "2014-09-08 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=JpdJAZycOAB3lOcoawXTq0FuUTVwNkhUekJiMFRQUWhQT1NKcHpiR3pJeTJNcExhbjBVWU4zalB3ajBFOEVBTUlMSzVCczVFVThSYnNXVEQ%3D&tokenuser="
+            },
+            {
+                "table_id": 1522,
+                "title": "Proporsi Penduduk Berumur 5 Tahun ke Atas yang Mengakses\r\n  Internet Selama Tiga Bulan Terakhir menurut\r\n  Provinsi, Tipe Daerah dan Jenis Kelamin, 2012",
+                "subj_id": 27,
+                "subj": "Sosial Budaya",
+                "updt_date": "2014-08-20 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=NGCjnStyQJHG5%2F%2Boz2pdeVd5eU5NdkxrZ25JSWUyQ3B2UlRRRGlxanVhclNaZlQ2RVFKV3FuMnlOWUpzNGxFOGdLbXBLTzJZVzQ5VDl0Uzc%3D&tokenuser="
+            },
+            {
+                "table_id": 1521,
+                "title": "Proporsi Penduduk Berumur 10 Tahun ke Atas yang Membaca Selama\r\n  Seminggu Terakhir menurut Provinsi, Jenis Bacaan, dan Tipe Daerah, 2012",
+                "subj_id": 27,
+                "subj": "Sosial Budaya",
+                "updt_date": "2014-08-20 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=XorR247LWBIDEkyfd5YjWU9pVllBSUdGb1BIYTNRVzZtald6cDBVbUVaRFlwcXJQL2Q4NVJ0QWN0MG1CVGY4UnI3dnV0d3VPTnhUR2N1WUw%3D&tokenuser="
+            },
+            {
+                "table_id": 1520,
+                "title": "Proporsi Penduduk Berumur 10 Tahun ke Atas yang Membaca Surat\r\n  Kabar/Majalah Selama Seminggu Terakhir menurut\r\n  Provinsi, Tipe Daerah dan Jenis Kelamin, 2012",
+                "subj_id": 27,
+                "subj": "Sosial Budaya",
+                "updt_date": "2014-08-20 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=%2Bi6zpkA%2BX%2F3bs95EObFKtFJTQ0JUM2plbE93bFRJTlNTVXYyTzBMRWFvTnhGdmtTMlpBakNwWUxJMnpuZFQ4UG9YZHQ0UkJXdmczRTI3VXo%3D&tokenuser="
+            }
+        ]
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 15,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 2031,
+                "title": "Ekspor Kendaraan Bermotor Roda Empat atau Lebih menurut Negara Tujuan Utama, 2012-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-07-25 15:04:18",
+                "size": "0.03 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=uigqsmKa545XQTQy6ZUjKzlKRXlLU2llUTFINkFPbHlXSmFpQjRSdldIQXlNaDBmNnova2VaK1hPOEFRcmpaTm54cXQzYXVjU1BLamkyN0U%3D&tokenuser="
+            },
+            {
+                "table_id": 2021,
+                "title": "Ekspor Lada Hitam Menurut Negara Tujuan Utama, 2012- 2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-07-25 14:55:42",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=1ODxBvTrdkqYAJiMOZ1efzN2SGozdXBTSkJEMXQvUG1meVBrY0xhUlJiM1NzcG94OXFjTzJiOTRhV0k0RC9VdTduL3BZYTlqdVBVdzlaNWY%3D&tokenuser="
+            },
+            {
+                "table_id": 2023,
+                "title": "Ekspor Lada Putih menurut Negara Tujuan Utama, 2012-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-07-25 08:48:10",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=wbaw3MiE7tacLu3ZupnbXExqVkJvMUowSEM5ajBERlkrVG5DUlkvSjlFRXNoMk92ZjlZSXVkK0M3dEJIRkE5VzhqVktkVkxIREhLRVhQc20%3D&tokenuser="
+            },
+            {
+                "table_id": 2035,
+                "title": "Ekspor Lignit menurut Negara Tujuan Utama, 2012-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-07-24 15:51:13",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=TelTKDKqIDGyG%2B6PjS%2Bf021KZ29sS3lwTTNhUW10VWM3Qy9zOFNNTGw0d0FrdjdkTjUwRjV6MTNudFV2bkplUTZnbmdjdFhDMTN4VS9aZ2o%3D&tokenuser="
+            },
+            {
+                "table_id": 2034,
+                "title": "Ekspor Logam Dasar Mulia Menurut Negara Tujuan Utama, 2012-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-07-24 15:44:53",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=IjiqYSozAWzasgRdwjVx9lRWdmhJa0RJKzFYamVwdnAzdVJrMGVvaGhPY2tXNjhkL1ppa3RxaFdkM1J2SkxUZTUzaGN3R2JyQmVzN2FwWTQ%3D&tokenuser="
+            },
+            {
+                "table_id": 1011,
+                "title": "Ekspor Minyak Bumi Mentah Menurut Negara Tujuan Utama, 2000-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-07-24 15:38:16",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=UzbB85Ss6w2gW7ud46EFhmtQM3ZHbVZmUnFsRkR2ajc3NjBYYzJMaDRFN1FYM2RLTEtGVFNWYzFiUUVHZ0xETzcyMnAvcjA1U3ZqZStoY2M%3D&tokenuser="
+            },
+            {
+                "table_id": 1026,
+                "title": "Ekspor Minyak Kelapa Sawit Menurut Negara Tujuan Utama, 2012-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-07-24 13:45:44",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=eycNL5dur5wi2GTtecH9Y3JtOUU5QkFwWHlaSFZiSHQvMCtOL2I2QnE0K1lQbTI4Ry82Y0NDL0cwUVY3Q2luSVQ0VlVwcnNzZ1pvdUpqVWE%3D&tokenuser="
+            },
+            {
+                "table_id": 2026,
+                "title": "Ekspor Pakaian Jadi (Konveksi) dari Tekstil Menurut Negara Tujuan Utama, 2012-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-07-24 11:38:25",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=EsNKlDYR%2Fsd%2FMw9LiS2nEWcrNXV1T01lMzUvTVZIMG84bmQ5T1BuVUhwLzZhZHpLd050VWVMYTArejMwWlM1OTdBQTVuRFRhK2F0RG9xMnU%3D&tokenuser="
+            },
+            {
+                "table_id": 2027,
+                "title": "Ekspor Peralatan Listrik menurut Negara Tujuan Utama, 2012-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-07-24 11:29:51",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=GzRXz9fpv6THk7kh76A4u1ZGVCtGS3E2S2FJTDlCd1ZlSGs2d1VlRnV5bk00TXM1c2J6R29UWkxBKzg1dzVqYnE0MEJuNWUyT1NyMjVzVkM%3D&tokenuser="
+            },
+            {
+                "table_id": 2025,
+                "title": "Ekspor Rumput Laut dan Ganggang Lainnya menurut Negara Tujuan Utama, 2012-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-07-24 11:14:37",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=KiNgSkgGTIYAG%2Bffe4nbHk9tTlNFeGdrd1IzMmZ3UUxoOXYvbTM0ZGR1ZmZYNVhidlVHK0NudE9iSm0vc1pCRFdYcllJRXBuMFg5dTQ3aU4%3D&tokenuser="
+            }
+        ]
+    ]
+}

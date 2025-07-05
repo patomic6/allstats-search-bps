@@ -1,0 +1,33 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 70,
+            "pages": 70,
+            "per_page": 10,
+            "count": 2,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 1429,
+                "title": "IHK, Upah Nominal, Indeks Upah Nominal dan Riil Buruh Industri Berstatus di bawah Mandor Menurut Wilayah, 2004-2009 (2002=100)",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2010-01-11 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=rbRxQXOk9ovJThRN3lJD4XNxSXpoOFB6UTNnSG9CcXE3cXc1UVhkbWxGMloxUWJJd2ZoQ2RRZ0NPU1JJMVkwRzlOY3hUOFZGUHVKQTNNVSs%3D&tokenuser="
+            },
+            {
+                "table_id": 1581,
+                "title": "Banyaknya Usaha yang Tidak Berbadan Hukum Menurut Pulau/Provinsi, 1996-2004",
+                "subj_id": 35,
+                "subj": "Usaha Mikro Kecil",
+                "updt_date": "2009-05-13 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=xzy2cwC3LhRwC7H5UbawIXlvcVU1N1l3NHFvdU1qcjJnWEQ0cm9oSWROWlNDTmR0ekJHeEdzanZkSythd0NsRmp1NllzVTNSUWNJZWFFLzA%3D&tokenuser="
+            }
+        ]
+    ]
+}

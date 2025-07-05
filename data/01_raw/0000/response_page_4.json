@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 4,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 2270,
+                "title": "Tabel Input-Output Indonesia Transaksi Domestik Atas Dasar Harga Dasar (185 Produk), 2020 (Juta Rupiah)",
+                "subj_id": 105,
+                "subj": "Input output",
+                "updt_date": "2025-01-27 14:00:00",
+                "size": "0.31 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=UYV6ALZfZWkBAPziaeKlt0FTV0YwcDNPL0lxTFZVUTAvSWkxbUJWUGhqMWlKcHBCbTZZUVpuaUM2UDN6VW1ZdTEyY0dHZFJ3NXp3QVBTbjE%3D&tokenuser="
+            },
+            {
+                "table_id": 2269,
+                "title": "Tabel Input-Output Indonesia Transaksi Domestik Atas Dasar Harga Dasar (17 Produk), 2020 (Juta Rupiah)",
+                "subj_id": 105,
+                "subj": "Input output",
+                "updt_date": "2025-01-27 14:00:00",
+                "size": "0.06 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=ZQBzXB9DWR3k6wKocnb0Q240dWZYeTkyREZLK3VzVmRrR3ZvVHBEZ3pIODN1SjJ1QWI1dC9ZWUFvRkxWUGhRV3oyOXJsUWs4RHRWbVhoR1A%3D&tokenuser="
+            },
+            {
+                "table_id": 1936,
+                "title": "Penduduk Berumur 15 Tahun Ke Atas yang Bekerja Selama Seminggu yang Lalu Menurut Status Pekerjaan Utama dan Pendidikan Tertinggi yang Ditamatkan, 2008-2024",
+                "subj_id": 6,
+                "subj": "Tenaga Kerja",
+                "updt_date": "2025-01-15 22:09:28.376597",
+                "size": "0.06 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=xkaHJU3Txt%2F1ljK0yuh%2BVW1nc01CZytaOHNBcHZKMU0zdUV0QTI0bmU2RTlSNktsTmlrWmNyYTA2UFNUQ1V4VlNIRTVjRXR1K0U4WmJwUEY%3D&tokenuser="
+            },
+            {
+                "table_id": 1904,
+                "title": "Penduduk Berumur 15 Tahun Ke Atas Menurut Golongan Umur dan Jenis Kegiatan Selama Seminggu yang Lalu, 2008 - 2024",
+                "subj_id": 6,
+                "subj": "Tenaga Kerja",
+                "updt_date": "2025-01-15 08:32:08.775144",
+                "size": "0.11 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=t%2BNGU0HYKr4l%2BG7IBiZ9XTRKbmRBQWpUUHNFOUVYcGNJVmNxQ0lnL3dVeFNaV2hXejlUZUdiWVQwclRLNzBBNUZCeEJ5Z0djVXlsRkFNNmo%3D&tokenuser="
+            },
+            {
+                "table_id": 970,
+                "title": "Penduduk 15 Tahun Ke Atas yang Bekerja menurut Lapangan Pekerjaan Utama 1986 - 2024",
+                "subj_id": 6,
+                "subj": "Tenaga Kerja",
+                "updt_date": "2025-01-15 08:31:21.504663",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=oEYKT7YBjgARa0Bog5WEMHBVdi9PS3BIdlVuWmZscm8zVkhEQ3NEWEtlRnVaTWU1M2xHMEdHMWtZMGRJVlF6QlVZT00ybnBnMW93MkxwUE8%3D&tokenuser="
+            },
+            {
+                "table_id": 1907,
+                "title": "Penduduk Berumur 15 Tahun Ke Atas Menurut Provinsi dan Jenis Kegiatan Selama Seminggu yang Lalu, 2008 - 2024",
+                "subj_id": 6,
+                "subj": "Tenaga Kerja",
+                "updt_date": "2025-01-14 22:40:18.909485",
+                "size": "0.14 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=SEMcsWVSheBYHCFtJKPRdy9KeHZXZWd3eENpK3lUMzVtcmRGSUdiTmdob1JKOTBuZXk3UHlCVmtPc3Zza0JnZ1Q0ZTRpdjBMVTYzZ05RcHI%3D&tokenuser="
+            },
+            {
+                "table_id": 972,
+                "title": "Pengangguran Terbuka Menurut Pendidikan Tertinggi yang Ditamatkan 1986 - 2024",
+                "subj_id": 6,
+                "subj": "Tenaga Kerja",
+                "updt_date": "2025-01-14 22:17:20.053264",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=fR3cimzNXjXQMiJGk613rFRCUVl4eW9aMVdPVmM1eUdxck5RVi9hT0U3VVJ1OFdFUDZ4cDdLODgyOFNUWlpFcDJTdW9BOTM3czJkNkovK2w%3D&tokenuser="
+            },
+            {
+                "table_id": 1909,
+                "title": "Penduduk Berumur 15 Tahun Ke Atas Menurut Pendidikan Tertinggi yang Ditamatkan dan Jenis Kegiatan Selama Seminggu yang Lalu, 2008-2024",
+                "subj_id": 6,
+                "subj": "Tenaga Kerja",
+                "updt_date": "2025-01-14 21:06:48.471614",
+                "size": "0.09 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=9iJsM0qSLBSpRe2zfgdIGnI0MTJaL1dSN3dOaUhDRDljei95Z2ZhVkxITmRUWGI4NFJhd2lpaVE1MzVJRTlaOXFZd1FFSTlqNWtzTWM5WTU%3D&tokenuser="
+            },
+            {
+                "table_id": 1911,
+                "title": "Penduduk Berumur 15 Tahun Ke atas yang Bekerja Selama Seminggu yang Lalu Menurut Status Pekerjaan Utama dan Lapangan Pekerjaan, 2008 - 2024",
+                "subj_id": 6,
+                "subj": "Tenaga Kerja",
+                "updt_date": "2025-01-14 20:41:44.432274",
+                "size": "0.08 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=gV2J864vV1tbZgZd8fBv0UNIM3BEb2ZtNGxONHV0aUZmcTJCNFBMVG9hc1NLMU9JNkVzV1BpdmphQURZbDBXelF4RTM5b0pUaWVRelNIRVk%3D&tokenuser="
+            },
+            {
+                "table_id": 1932,
+                "title": "Penduduk Berumur 15 Tahun Ke Atas yang Bekerja Selama Seminggu yang Lalu Menurut Lapangan Pekerjaan Utama dan Pendidikan Tertinggi yang Ditamatkan, 2008 - 2024",
+                "subj_id": 6,
+                "subj": "Tenaga Kerja",
+                "updt_date": "2025-01-14 15:54:07.99388",
+                "size": "0.08 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=XCT95%2Bn1Hq1IR%2FcaCDQh%2FHNCOUcvSkQ5WXhZSXZkZnhpNzhWOC9EdE1OWHZDK1QzSG45RzFWbGh4MmdZTGlJYkJYVUlVckxqR0NMd0R2QnM%3D&tokenuser="
+            }
+        ]
+    ]
+}

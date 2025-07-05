@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 67,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 1125,
+                "title": "Ringkasan Neraca Arus Dana, Triwulan II, 2007, (Miliar Rupiah)",
+                "subj_id": 100,
+                "subj": "Neraca Arus Dana",
+                "updt_date": "2012-02-14 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=aU%2FODc8uK%2FhvD%2Fwn4IJZSDN3UlBZQ3NIcWE1SEVZSm1aWWgwd1lKeEFiWS9rR0hVVGthMmZtUSt3M1BSRnMwUCtpQ2dPSk84WkRUbDYyMXU%3D&tokenuser="
+            },
+            {
+                "table_id": 1124,
+                "title": "Ringkasan Neraca Arus Dana, Triwulan I, 2007, (Miliar Rupiah)",
+                "subj_id": 100,
+                "subj": "Neraca Arus Dana",
+                "updt_date": "2012-02-14 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=N6cETdkEur%2B7fv1RTBaUTmhZUWgxb1Z6WUNzWlE2WmhNblJpOXdNUVVJNjhiR2E5ME14TUhyRmlGVGU1N0xQdE1RQkpYc2RneVF3clE1K0w%3D&tokenuser="
+            },
+            {
+                "table_id": 1123,
+                "title": "Ringkasan Neraca Arus Dana, 2006, (Miliar Rupiah)",
+                "subj_id": 100,
+                "subj": "Neraca Arus Dana",
+                "updt_date": "2012-02-14 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=6eOPlGLMYW9qe53J7BHLD1AvRGRMbzRZby9mTCsxaFR0ekVqay9jcFd6WHE1VUpLRS9oM21aZHF6SGsyejAybmZHZWN4MVlSRWdqUXlsNTg%3D&tokenuser="
+            },
+            {
+                "table_id": 1122,
+                "title": "Ringkasan Neraca Arus Dana, Triwulan IV, 2006, (Miliar Rupiah)",
+                "subj_id": 100,
+                "subj": "Neraca Arus Dana",
+                "updt_date": "2012-02-14 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=KFOIPSBtjvAz%2B%2FkQrmWu0C9iMHoyRzdLWkJabEplRE54MW95MWdFZTYySkdxdnVHTmVtRHhhRlQycWxRTUwxRkZTTnhRZlRsQXg3alZVUHo%3D&tokenuser="
+            },
+            {
+                "table_id": 1121,
+                "title": "Ringkasan Neraca Arus Dana, Triwulan III, 2006, (Miliar Rupiah)",
+                "subj_id": 100,
+                "subj": "Neraca Arus Dana",
+                "updt_date": "2012-02-14 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=ZpZDpjXisnAVrEKfTc3qi1hMY3VyOEFJYUJnb1J6Y01EVEZWZDZzcWNGckhMU1crUUlpVHlvQThia0cxUlRoZjBLak9BQmFFelpsRWVNOVE%3D&tokenuser="
+            },
+            {
+                "table_id": 1120,
+                "title": "Ringkasan Neraca Arus Dana, Triwulan II, 2006, (Miliar Rupiah)",
+                "subj_id": 100,
+                "subj": "Neraca Arus Dana",
+                "updt_date": "2012-02-14 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=WcadRj8rMxToA1EmGSqoE1RwYWdnMWUwMzJTSlZMbWRYb1JvZzlKdzZRSWN3V0poR1VIZWxVTkorZC9yQ1ZmT29IYUxHYVkvZE4xVm9EWWI%3D&tokenuser="
+            },
+            {
+                "table_id": 1119,
+                "title": "Ringkasan Neraca Arus Dana, Triwulan I, 2006, (Miliar Rupiah)",
+                "subj_id": 100,
+                "subj": "Neraca Arus Dana",
+                "updt_date": "2012-02-14 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=%2F3NzAWaKlwKBv0DIT7C4YGRIQkNFUWlHUVR1K3BaTmJIYXBpSVBaU1RyeVhVK2hMUERON0tGNnFGbGpPVnV0RVg2ZjA0bDdSR1JtOWhla3E%3D&tokenuser="
+            },
+            {
+                "table_id": 1118,
+                "title": "Ringkasan Neraca Arus Dana, 2005, (Miliar Rupiah)",
+                "subj_id": 100,
+                "subj": "Neraca Arus Dana",
+                "updt_date": "2012-02-14 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=zxQCO2qnrqd8btVvpT0rpjRxMkR0RXptVlhRWnI1c25rNVM4aHZqTUdtMmE5dWhRdit5SVpwR2NDODFBUjlhbWgzZ3Rla1ZhRVRkQklsZEI%3D&tokenuser="
+            },
+            {
+                "table_id": 1117,
+                "title": "Ringkasan Neraca Arus Dana, Triwulan Keempat, 2005, (Miliar Rupiah)",
+                "subj_id": 100,
+                "subj": "Neraca Arus Dana",
+                "updt_date": "2012-02-14 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=%2BTFrJApMtaMrU2ycipbyFGFyZnFyOVpzbjBDWVVYV3Roc2xJNUdzaHdPa2Q1VXE3WVFpaW9FVjB4V1VjOWlFRWpuVTdsV1ovWExSTzE5V1M%3D&tokenuser="
+            },
+            {
+                "table_id": 1116,
+                "title": "Ringkasan Neraca Arus Dana, Triwulan Ketiga, 2005, (Miliar Rupiah)",
+                "subj_id": 100,
+                "subj": "Neraca Arus Dana",
+                "updt_date": "2012-02-14 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=5mI9q6KxQ%2Fy3L0xmkc6ujUdTZHgzclZabXIxZWJMOC9pWDVuVUREL1l4cHFPS25Rd1htVUUxbVFtTUJ1NG8ycEUxUWNsQ3hsWjNUUC8wTkM%3D&tokenuser="
+            }
+        ]
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 17,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 1268,
+                "title": "Rata-rata Laju Pertumbuhan Penduduk menurut Provinsi, 1971 - 2024",
+                "subj_id": 12,
+                "subj": "Kependudukan",
+                "updt_date": "2024-05-14 10:44:55.141664",
+                "size": "0.03 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=B52xfSLhscWyuk%2BoIdD3aGpad291TXpuY2hKM2VBWDhFR1lPY1cwT0dGMnVSNEVqRkRMNEdPT016djF4NzhobndOUDU4TkNGTGl3a0VLbUc%3D&tokenuser="
+            },
+            {
+                "table_id": 1036,
+                "title": "Nilai Impor Menurut Negara Asal Utama (Nilai CIF: juta US$), 2017-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-04-22 15:23:05",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=2JN03Zhg7GrVLcbo5jep0XJLTmV4cGZEbUN6N3o4am5RMG04RlgvVjh4VjhibEtkRlppR2lEUlVjcmNVVjB4aGZDR0hWV2hUd29tMXdJVHQ%3D&tokenuser="
+            },
+            {
+                "table_id": 2016,
+                "title": "Impor Biji Gandum dan Meslin menurut Negara Asal Utama, 2017-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-03-21 14:56:09",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=DU1rViXU%2F7QsBX%2F0hQPNpmJjYllERXowVDdBNE8vU09ScWpKNlJMaERLcnpEcE1VeGJQVzJtQUFrZnhTMVNwN1Z2UDgwNXpUcmRpUklwNUo%3D&tokenuser="
+            },
+            {
+                "table_id": 2010,
+                "title": "Impor Buah-buahan menurut Negara Asal Utama, 2018-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-03-21 13:43:12",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=r%2FHFFlDaSm2r7D1bxLdqs0xjL082MzQwNmU5Y3pZWTZwbWNwbXFoR25RMWI0RHBYdTBhbXowbVpYNTlNREMrMTUzZ0RMb2s2S09OT3lsV3Y%3D&tokenuser="
+            },
+            {
+                "table_id": 2011,
+                "title": "Impor Daging Sejenis Lembu menurut Negara Asal Utama, 2018-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-03-21 13:05:17",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=sBnfiHgjERonD8dJklBQGDZSVXJ0MmpvRFJ3ZjdQSGtQRW84T3h0em1ZR0pBSEhla0pOa2FNZWRlYUJ0dG5BUFBtM1VsQXViNHJpNm84a2s%3D&tokenuser="
+            },
+            {
+                "table_id": 2013,
+                "title": "Impor Garam menurut Negara Asal Utama, 2017-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-03-20 14:53:50",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=XUplVMJqG7vGnWhJZ%2BVIZ0htL1ozTFVVRjFCb1pEZE1ESk8zK1NJNkx2azBKOVF0S0lhcjk1NmhVV05QV3kyM2Vaa2U2b2lyT1lnRGEwZ0U%3D&tokenuser="
+            },
+            {
+                "table_id": 2014,
+                "title": "Impor Gula menurut Negara Asal Utama, 2017-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-03-20 14:47:48",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=wX9z3FP80d0ILltXZ8OPNFd5M1B5U09INlFyZXNIc0ZaeHNCYUpNVUVuT3E2L2hOSWxRd0swd0ZhLzNWWldVVEpYc0NaSmsyYmF3QVVtRXY%3D&tokenuser="
+            },
+            {
+                "table_id": 2009,
+                "title": "Impor Sayuran Menurut Negara Asal Utama, 2018-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-03-20 13:54:45",
+                "size": "0.03 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=iUXeoCkeY3AW0VXa6xOI0ytrckhQV3d1d3RITG9Ea25jZzhRQUxObzlzaEUxcjFPZyt3QXR0bCtOb1lzUis5NUFHalRrd2JoTDFBUWxLS3k%3D&tokenuser="
+            },
+            {
+                "table_id": 1043,
+                "title": "Impor Beras Menurut Negara Asal Utama, 2017-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-03-20 13:37:58",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=0m5G5tPSVZS45t7e3iKRs3BHNjZ1bHBkOXFLdWRqb1FoYkZWaFpTZGJjVlhsWkdKVjlWVi8vcmNSVGJ4bkdSRnhQdnFGQ1NDR1lnOVJ0R3Q%3D&tokenuser="
+            },
+            {
+                "table_id": 1035,
+                "title": "Volume Impor Menurut Negara Asal Utama (Berat bersih:ribu ton), 2017-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-03-19 11:39:21",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=Keek5ZlD2VpzSX3sw8Szk3Mxbzd0akNnanRyKzFzeFpjeDU0TlZCeWFzV2FIVjVqeC80djBiSFN3RkVPeWRYMTQwVmlFSFFCNUhSdHRNRTk%3D&tokenuser="
+            }
+        ]
+    ]
+}

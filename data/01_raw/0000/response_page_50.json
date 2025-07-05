@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 50,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 1292,
+                "title": "Realisasi Penerimaan/Pengeluaran Pemerintah Desa, 2005-2016",
+                "subj_id": 13,
+                "subj": "Keuangan",
+                "updt_date": "2017-09-04 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=dZ2JrcZ%2Fxtok09Ro2Byq5HJ0MHdEYTZ3bVFSRXk0d1JsWVdlNlZFVFgrM2UwalJNdzZ4MmkrbUZrWTNsb0JKbHFqcVhURW9Nbk1SWlFUeks%3D&tokenuser="
+            },
+            {
+                "table_id": 1972,
+                "title": "Indeks Integritas Ujian Nasional",
+                "subj_id": 28,
+                "subj": "Pendidikan",
+                "updt_date": "2017-08-18 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=7MGi%2F3RrtgsKcCAUChNLH1lEVzRKbFR4ZTAwZHZKcHVUcjhuZGQ4T0EydTJCZE5mTHR6bUFQRWUwNkd3ZjhZQVo3b0x2a0dKWUoydWNNa1Y%3D&tokenuser="
+            },
+            {
+                "table_id": 1970,
+                "title": "Jumlah Penghuni Lapas per Kanwil",
+                "subj_id": 27,
+                "subj": "Sosial Budaya",
+                "updt_date": "2017-08-18 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=vN3QMhtvgtZjMCPh6dP0XVUrSmpFVStpL3h2Q3VmeWxKL29yZFhyOE5PWEdaM0pBRVp6R0ZCMmREYm5WTUhCdjlkaStFL28vTXBrWTZqaDI%3D&tokenuser="
+            },
+            {
+                "table_id": 1935,
+                "title": "Penduduk Berumur 15 Tahun Ke Atas yang Bekerja Selama Seminggu yang Lalu Menurut Status Pekerjaan Utama dan Pendidikan Tertinggi yang Ditamatkan, 1997 - 2007 ",
+                "subj_id": 6,
+                "subj": "Tenaga Kerja",
+                "updt_date": "2017-06-19 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=z8reeGHMXgCcZLIEzM1xik1jTXJ3bmZTQ2JoTnpWSzJHN1AvditXdWRrT1NwZmdodUd5dC9LZWtCUVRWeDVYWWN5aTk2dE9BZi9CRXk1Rm4%3D&tokenuser="
+            },
+            {
+                "table_id": 1910,
+                "title": "Penduduk Berumur 15 Tahun Keatas yang Bekerja Selama Seminggu yang Lalu Menurut Status Pekerjaan Utama dan Lapangan Pekerjaan, 1997 - 2007",
+                "subj_id": 6,
+                "subj": "Tenaga Kerja",
+                "updt_date": "2017-06-19 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=9QH06BfuHGdeCl%2FohydGTzZWSjNyajM1QThiVDYzbHJ1dmlkL2NodDdMdVVDcmdyTUJNVjFXemp0ZzNvY0VLQ0tXdC9QSWcwbFNzaVdpU2Q%3D&tokenuser="
+            },
+            {
+                "table_id": 980,
+                "title": "Penduduk Berumur 15 Tahun Ke Atas yang Bekerja Selama Seminggu yang Lalu Menurut Status Pekerjaan Utama dan Pendidikan Tertinggi yang Ditamatkan, 1986 - 1996",
+                "subj_id": 6,
+                "subj": "Tenaga Kerja",
+                "updt_date": "2017-06-19 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=bfgEewhaFs6T0Cr1r%2BbI0GVKRGZlM1dzeUdxNTZoVkhkZDhjZGxkZE00M0M1ZXFRN2dMM29QVXJSSS9sa3d3YzhJOWxxWjhLOGxTSUVsTXA%3D&tokenuser="
+            },
+            {
+                "table_id": 977,
+                "title": "Penduduk Berumur 15 Tahun Ke Atas yang Bekerja Selama Seminggu yang Lalu Menurut Status Pekerjaan Utama dan Lapangan Pekerjaan, 1986-1996",
+                "subj_id": 6,
+                "subj": "Tenaga Kerja",
+                "updt_date": "2017-06-19 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=sfwJOhKSoBUcURYvWV8usFBQR0xZMGk2dUxMaGZXY0VnTTcydjExQjZFVDk3UHBhbUNuaE1HQTNpTjZsem9ONEJTNUtzbWp1czRvaTk1Yk8%3D&tokenuser="
+            },
+            {
+                "table_id": 1244,
+                "title": "Laju Pertumbuhan PDB per Kapita Beberapa Negara Menurut Harga Konstan (persen), 2000-2015",
+                "subj_id": 11,
+                "subj": "Produk Domestik Bruto (Lapangan Usaha)",
+                "updt_date": "2017-03-09 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=RI75pC5nEi25GseUo%2F3D3GZHQWF3UkZ2YW5WV0tvZkNFa1N4TmxOdnBXcW9SRUJyY3UzRkJ3WDh5UVRUZnFjcXQyRG14Y3JkcFF0UXFLcFU%3D&tokenuser="
+            },
+            {
+                "table_id": 1834,
+                "title": "Pinjaman Neto Menurut Sektor (triliun rupiah), 2008–2014",
+                "subj_id": 104,
+                "subj": "Neraca Sosial Ekonomi",
+                "updt_date": "2017-03-08 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=HUUws3Fr5cQbGKcahWk5v1JpNG1CclZvcGpTejZJU2hoUlJEbUdEOCtzYWJKN0lYSlJCSVFFL3pmaXZvY1R6NUtPWFc5N29vdDR5amVHbGw%3D&tokenuser="
+            },
+            {
+                "table_id": 1833,
+                "title": "Investasi Nonfinansial Menurut Sektor (triliun rupiah), 2008–2014",
+                "subj_id": 104,
+                "subj": "Neraca Sosial Ekonomi",
+                "updt_date": "2017-03-08 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=IoW05VcMQMfHa1fA44qOe08zTVBld3RlSzBHYUZvSnB4NkYyZjRrZHdVV1M3MXZoRGFkdE9kaEkweW9kaVFiNHl0T1g0UjJuMkFHVXhpVSs%3D&tokenuser="
+            }
+        ]
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 48,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 1179,
+                "title": "Anggaran Pendapatan Negara (miliar rupiah), 2007-2017",
+                "subj_id": 101,
+                "subj": "Pemerintahan",
+                "updt_date": "2017-11-20 00:00:00",
+                "size": "0.03 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=QBVpKejuNlXwNW1y2JoZG29BYmkrNFlreTh5amlzNzZKcTBWbDQxSDQ0ZzQvam9yc094NUhIVmVadjlMWjZWeEl3UnZLdy9BSDRvSUVJSFA%3D&tokenuser="
+            },
+            {
+                "table_id": 1876,
+                "title": "Posisi Kredit Usaha Mikro, Kecil, dan Menengah (UMKM) 1 pada Bank Umum (miliar rupiah), 2012-2016",
+                "subj_id": 13,
+                "subj": "Keuangan",
+                "updt_date": "2017-11-17 00:00:00",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=eaDe9agnGSmy7i4C%2FD8Yck5qVnF2NW11MFEyWENWWlRwTW5VbXV4QmVlMWhLNWxTajZKNUxtN2FtbjlVUXBZWTJWQkVSZDlSUHpkaFY5dEY%3D&tokenuser="
+            },
+            {
+                "table_id": 1865,
+                "title": "Perkembangan Beberapa Agregat Pendapatan dan Pendapatan per Kapita Atas Dasar Harga Berlaku, 2010-2016",
+                "subj_id": 11,
+                "subj": "Produk Domestik Bruto (Lapangan Usaha)",
+                "updt_date": "2017-11-17 00:00:00",
+                "size": "0.03 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=u1RRGspv4Cp6FBetgVZ9cHNtMEVnQ29FSmdmSHFlamVSUzJvYS9JTkZqenJOQmlneFlyT0xFMytiSkJKZXM2aTVlcU9XQlBmRDBXYW8wbm8%3D&tokenuser="
+            },
+            {
+                "table_id": 1531,
+                "title": "Persentase Penduduk Berumur 15 Tahun Ke Atas yang Melek Huruf Menurut Golongan Umur dan Daerah Tempat Tinggal, 2000-2016",
+                "subj_id": 28,
+                "subj": "Pendidikan",
+                "updt_date": "2017-11-17 00:00:00",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=4tKUHPB9g9sgyRM4QxoCKTVST3ZQWlJSak1CYm5UQU13MnArZ24vajU5VDY0SElkN1hwaEptY00rb3lPK0lRMHVMK3dDL09wVmNvU2lDQ3o%3D&tokenuser="
+            },
+            {
+                "table_id": 1850,
+                "title": "Indeks Harga Konsumen per Kelompok di 82 Kota <sup>1</sup> (2012=100)",
+                "subj_id": 3,
+                "subj": "Inflasi",
+                "updt_date": "2017-11-16 00:00:00",
+                "size": "0.06 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=GZKhhdyx5T%2Fb5q3bTA2knU1CUkYrb1huODk0QUw5RDF5OGk5dHhpSVJWK1RleldkSkdVSXRBSEFkaWtVWUhudXNYdUZjSGFKTXBWbDhoQ0Y%3D&tokenuser="
+            },
+            {
+                "table_id": 916,
+                "title": "Indeks Harga Konsumen per Kelompok dan Subkelompok, Gabungan 82 Kota (2012=100)",
+                "subj_id": 3,
+                "subj": "Inflasi",
+                "updt_date": "2017-11-16 00:00:00",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=osrQGAHcJjKS0%2FuHQOLb00hDOHZBZ01XMlpiWUZwWklmNlRQR0JoQUlCYnI5TE4vS0MwSTJIMS9BWXRYRnJwOHo2dXF2SU1sdXRVN0g2bE0%3D&tokenuser="
+            },
+            {
+                "table_id": 912,
+                "title": "Tingkat Inflasi Gabungan 82 Kota <sup>1</sup> (2012=100)",
+                "subj_id": 3,
+                "subj": "Inflasi",
+                "updt_date": "2017-11-16 00:00:00",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=CXbBurOYfMnXmUFOJuxIkm1iSEN2S0l1UDZYRlp3NzQwcXlXL3NFVkJFQU1Jd0wwVFdQWFd5aG1xMnV6NVpaY3YvaElRM2ZyZnFxSkZPU2Q%3D&tokenuser="
+            },
+            {
+                "table_id": 1960,
+                "title": "Kecepatan Angin dan Kelembaban di Stasiun Pengamatan BMKG, 2011-2015",
+                "subj_id": 151,
+                "subj": "Iklim",
+                "updt_date": "2017-11-15 00:00:00",
+                "size": "0.03 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=VvxjINWjgUSh5ma6j0LGfjhqdVgvK25YR3R4akJCTWQxcWdJNTNaU05xKzlPRlp0NEQ0d3ptWlgycmNpdnhhZVpJd3Z1ZHIyeTlKWm13NG0%3D&tokenuser="
+            },
+            {
+                "table_id": 1985,
+                "title": "Luas Daerah Pengaliran dan Debit dari Beberapa Sungai yang Daerah Pengalirannya Lebih dari 100 km2, 2015",
+                "subj_id": 153,
+                "subj": "Geografi",
+                "updt_date": "2017-11-14 00:00:00",
+                "size": "0.07 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=kNEAEqNRJlzan9PGyCKeKW5wKy9mWWM0bGRpbm42Qm53YlhZR2d3dFl4RmhDdStpcDRwMWN6d0NkUkMxTncyVGh3Zi9aNXBkN0lMVzBNRWo%3D&tokenuser="
+            },
+            {
+                "table_id": 1984,
+                "title": "Rata-rata Harian Aliran Sungai, Tinggi Aliran, dan Volume Air di Beberapa Sungai yang Daerah Pengalirannya Lebih dari 100 km2, 2015",
+                "subj_id": 153,
+                "subj": "Geografi",
+                "updt_date": "2017-11-14 00:00:00",
+                "size": "0.06 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=hURe%2Fr44RxPgS%2BkPgjwxAGRhUzVWMnBlTVcyNzhYd3NQbFBJRXVhUEpoMFY3OCt2Wm4xNmtxSFZBdTNIQnhrZG9mVWM1bnI2VmhyaG9Mano%3D&tokenuser="
+            }
+        ]
+    ]
+}

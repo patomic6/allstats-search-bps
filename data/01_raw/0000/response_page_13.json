@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 13,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 942,
+                "title": "Rata‑Rata Pengeluaran per Kapita Sebulan di Daerah Perkotaan Menurut Kelompok Barang dan Golongan Pengeluaran, 2013-2024",
+                "subj_id": 5,
+                "subj": "Konsumsi dan Pengeluaran",
+                "updt_date": "2024-11-26 10:51:24.550772",
+                "size": "0.14 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=PWoPMhPjp%2FW1aWssQUMCEzNVMDdTWkhKenAzejlwT0dYTm9rb3VtazFCL2RKeEdmWlBRNVRTQ3M4Qm5ObzRlc1BkT3FQOTYySTJTaUpyT3A%3D&tokenuser="
+            },
+            {
+                "table_id": 937,
+                "title": "Persentase Pengeluaran Rata-rata per Kapita Sebulan Menurut Kelompok Barang, Indonesia, 1999, 2002-2024",
+                "subj_id": 5,
+                "subj": "Konsumsi dan Pengeluaran",
+                "updt_date": "2024-11-26 10:08:35.667232",
+                "size": "0.06 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=9OahMQb5xL9wJZjoSd7b%2BERmZEZ3OUF0NHhXbUVOWTIvVFJBbm0yWEc5S1krUFdteWl2ZWdXZFc5YldLTllxMFZwcndtRFYwV1kwUjQ0OEc%3D&tokenuser="
+            },
+            {
+                "table_id": 2256,
+                "title": "Posisi Kredit/Pembiayaan (Rupiah dan Valuta Asing) pada Bank Umum Menurut Kelompok Bank dan BPR/BPR Syariah (Rupiah) kepada Pihak Bukan Bank (miliar rupiah), 2014–2023",
+                "subj_id": 13,
+                "subj": "Keuangan",
+                "updt_date": "2024-10-18 09:43:50",
+                "size": "0.01 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=jAAshwHdMEc%2BtRlufteVBTRsMWR0bTEyWkpiK3k0L0xSSkQ0Qk1wYzFVSTQyQjQwN01nd0RqS1cvZGRDMHpmWTVLVEE0cGRmaldobmNOVUQ%3D&tokenuser="
+            },
+            {
+                "table_id": 2015,
+                "title": "Impor Kedelai menurut Negara Asal Utama, 2017-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-09-24 15:43:02",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=tI7o7LjBg2sHNyvH35uTXlpTTXh6cmNSR2lHN28wV2hqYzlCQm81b0dwanZtdytXMTFZbEJ5cTM4UUg5KzFzaWhTdVhQQTJDSWdLbWlaV2g%3D&tokenuser="
+            },
+            {
+                "table_id": 1812,
+                "title": "Sistem Neraca Sosial Ekonomi Indonesia Tahun 2022 (84 x 84)",
+                "subj_id": 104,
+                "subj": "Neraca Sosial Ekonomi",
+                "updt_date": "2024-08-30 00:00:00",
+                "size": "0.09 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=Ov49a%2B6%2BppPdMzxGuoCX0jhZTUNDbjRFUHJUWGcwL3NFY09RSmdoQjFEUmg4SVJ3Ulc0RGJnbXlRVmNJVU9XQUxWSWNlOEY2dkNlejRCL3E%3D&tokenuser="
+            },
+            {
+                "table_id": 1186,
+                "title": "Sistem Neraca Sosial Ekonomi Indonesia Tahun 2022 (55 x 55)",
+                "subj_id": 104,
+                "subj": "Neraca Sosial Ekonomi",
+                "updt_date": "2024-08-30 00:00:00",
+                "size": "0.07 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=szRaAj0USsfCgKHLAqWqKUwxQ1dnRTFXU3BEdXV6eXFmQlc1dXI5bW5TTUtNdWRkSzMwS1ovdjZjUG9hVXBzRlluNjc1KzZ2dFlHV2FlNnk%3D&tokenuser="
+            },
+            {
+                "table_id": 1185,
+                "title": "Sistem Neraca Sosial Ekonomi Indonesia Tahun 2022 (9 x 9)",
+                "subj_id": 104,
+                "subj": "Neraca Sosial Ekonomi",
+                "updt_date": "2024-08-30 00:00:00",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=MKlf%2BCzeJpMzmODOdbUKp3h2RDhRU3NWRmdiWk15UXN1dXJKMGd4OUluUDRkMTRSdy8wRjlzQ015cXpKeDNXQ3BoYnRTOFdQRHdiSEFYRmI%3D&tokenuser="
+            },
+            {
+                "table_id": 2019,
+                "title": "Ekspor Tanaman Obat, Aromatik, dan Rempah-Rempah menurut Negara Tujuan Utama, 2012-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-08-12 12:51:01",
+                "size": "0.03 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=h6iUebOk3I2wiZ2g6resoThKNGF4N0YwUUhCQm83N29XMFhsbHNlbk1HOS83L1F6LzFhZVhtdWlSc0V2MG1lZlZ1WHM0a0d4RmJWWERsc0k%3D&tokenuser="
+            },
+            {
+                "table_id": 1032,
+                "title": "Ekspor Bijih Tembaga Menurut Negara Tujuan Utama, 2012-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-08-12 10:53:03",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=SsBFztce5nLCqiUkgO4o3mhVM05SUy9VQis1OFk1V3p1S1NKemJrZTc2RjZvbTFRMVNpZEFhUCtjcFUrVU41MTNmVDFPamhiZ2xZVytGam8%3D&tokenuser="
+            },
+            {
+                "table_id": 1010,
+                "title": "Nilai Ekspor Menurut Negara Tujuan Utama (Nilai FOB: juta US$), 2000-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-07-26 12:19:05",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=SJrvtofS0asb329s5sEIMWxKbERvSEppcW55My9HOVh3cWUrUHNWMWtZWmh3dHNGckVWTjZla3JiTFY3clNublVzZ09jNC8yenEwWjlLTmI%3D&tokenuser="
+            }
+        ]
+    ]
+}

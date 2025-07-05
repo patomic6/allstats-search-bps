@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 30,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 2143,
+                "title": "Penduduk Berumur 15 Tahun Ke Atas yang Bekerja Menurut Provinsi dan Status Pekerjaan Utama, 2021",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2021-12-30 12:54:48.039589",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=QdowBhSxi2cotKwLoiFFzUNMMzhhRW40WDEyelNaTHZObkM3YXdVTzBkY1pTN2FRZ212K08rUGM3Z2RGTHg0dGhLNTB5OUhzV2NaTU1zc0E%3D&tokenuser="
+            },
+            {
+                "table_id": 1545,
+                "title": "Persentase Rumah Tangga yang Menempati Rumah dengan Dinding Terluas Bukan Bambu/lainnya, 1993-2021",
+                "subj_id": 29,
+                "subj": "Perumahan",
+                "updt_date": "2021-12-30 09:09:28.741182",
+                "size": "0.11 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=FAw1jfbGcWANLzjbnHdL6zNRczRCMWtJNi9keFhPU0h5V1EyZFlnd0JDVnRsaDZuL2NyR3hjWGs5VjZ1cm8yNDgyZ0VPOGUrSDc0YkZxTS8%3D&tokenuser="
+            },
+            {
+                "table_id": 1267,
+                "title": "Jumlah Penduduk  Hasil Sensus Penduduk (SP) dan Survei Penduduk Antar Sensus (SUPAS) menurut Provinsi, 1971 - 2015",
+                "subj_id": 12,
+                "subj": "Kependudukan",
+                "updt_date": "2021-12-02 21:55:17.862292",
+                "size": "0.02 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=nproQ4ylsj2XMVWOwF0G2E1HZnU5WXNwOUMySlhIbzBZREI1Sk9oOFlPV0pZUlVvYklCZTVtVHZFZEZjT3RJWE02Y2VFN2ZOQTFESHhEci8%3D&tokenuser="
+            },
+            {
+                "table_id": 966,
+                "title": "Rata-Rata Pengeluaran per Kapita Sebulan Menurut Kelompok Barang (rupiah), 2013-2021",
+                "subj_id": 5,
+                "subj": "Konsumsi dan Pengeluaran",
+                "updt_date": "2021-11-02 14:57:55",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=Ckk69hhnt5p4dRHzGa1Bt1NuamZ5ZDhyLzdTMmg1OGRhNFFOamNvYWNMcGZSMTlyTWM3eEp4WnNiZG5HVzZvd3lTL2UvTmhETmJXZjJKaFU%3D&tokenuser="
+            },
+            {
+                "table_id": 2125,
+                "title": "Tabel Inter Regional Input-Output Indonesia Transaksi Domestik Atas Dasar Harga Produsen Menurut 6 Kelompok Pulau dan 52 Industri, 2016 (Juta Rupiah)",
+                "subj_id": 105,
+                "subj": "Input output",
+                "updt_date": "2021-06-03 19:55:14.675169",
+                "size": "1.38 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=OHFoYPNTvsKj0yoYGyIZPGpaZDRHVG9NRXBtNlhvdnZBOUw0YVZ1OWFJa1c3MERIdHVmZWdhWjVCclRPNzY0TEZiU3pEVlZ0dkZlaC80SXk%3D&tokenuser="
+            },
+            {
+                "table_id": 2124,
+                "title": "Tabel Inter Regional Input-Output Indonesia Transaksi Domestik Atas Dasar Harga Produsen Menurut 6 Kelompok Pulau dan 17 Lapangan Usaha, 2016 (Juta Rupiah)",
+                "subj_id": 105,
+                "subj": "Input output",
+                "updt_date": "2021-06-03 14:53:27",
+                "size": "0.33 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=exYAD0rfKK8AZ%2Bbssp6%2BxTI2cjBHQmRHaUx1a3lQUURZcTRVVjkzSkg2bGxOeHlYUzlTZXRmQnpFL1pLZUl2c2N0UWxaUkkyQlRVcjJFRno%3D&tokenuser="
+            },
+            {
+                "table_id": 2127,
+                "title": "Tabel Inter Regional Input-Output Indonesia Transaksi Domestik Atas Dasar Harga Produsen Menurut 34 Provinsi dan 17 Lapangan Usaha, 2016 (Juta Rupiah)",
+                "subj_id": 105,
+                "subj": "Input output",
+                "updt_date": "2021-06-03 14:52:20",
+                "size": "15.1 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=ZHmzWLW%2Frj%2FqFCBBt3XD8jFJalA1aFBMMXhIZEV5ZVZFRC9GWWRoYWVmUVdlUG5pSjhUUjZwM3AvazlRWFVzYWVDSHltMC9LSmhhbWRKNVo%3D&tokenuser="
+            },
+            {
+                "table_id": 2128,
+                "title": "Tabel Inter Regional Input-Output Indonesia Transaksi Domestik Atas Dasar Harga Produsen Menurut 34 Provinsi dan 52 Industri, 2016 (Juta Rupiah)",
+                "subj_id": 105,
+                "subj": "Input output",
+                "updt_date": "2021-06-03 08:52:20",
+                "size": "34.9 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=lXYe1q217BKA1fztQCCubU55VlR1TnlUTlcyQzl0YWNUUURxOU9tNGdMOXFDUERPL1RoWVAzMlBOanBuTXVkam92K3MyeGkwbURDcG5OL2c%3D&tokenuser="
+            },
+            {
+                "table_id": 2123,
+                "title": "Tabel Input-Output Indonesia Transaksi Domestik Atas Dasar Harga Produsen (52 Industri), 2016 (Juta Rupiah)",
+                "subj_id": 105,
+                "subj": "Input output",
+                "updt_date": "2021-04-30 19:51:26.028238",
+                "size": "0.11 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=jsyPkhzQKOefZ18oxeMth2NvODBLRXlhMWNaaW9CUWgwMS9UTnU2Y1lBVkY4Uk5qQUgzYkhGQnd4ejBGc2c0Nml3ZytneUMrOVNBTFpxMmM%3D&tokenuser="
+            },
+            {
+                "table_id": 2122,
+                "title": "Tabel Input-Output Indonesia Transaksi Domestik Atas Dasar Harga Produsen (17 Lapangan Usaha), 2016 (Juta Rupiah)",
+                "subj_id": 105,
+                "subj": "Input output",
+                "updt_date": "2021-04-30 19:49:27.789392",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=Z%2FYDSeXVlPgEkAJALxBNunIydEtwZW53VEhMeW1vNlhtNXJ5UFpNcjR0UitVV1Bwb0ZWdFY2QWtxYUgvbHRocDFrUWFpbElJV2RuQklYWTY%3D&tokenuser="
+            }
+        ]
+    ]
+}

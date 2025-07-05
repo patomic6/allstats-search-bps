@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 56,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 1156,
+                "title": "Ringkasan Neraca Arus Dana, 2013*), (Miliar Rupiah)",
+                "subj_id": 100,
+                "subj": "Neraca Arus Dana",
+                "updt_date": "2015-12-07 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=HHpBlgM%2BJFRsYRDNh2y%2FaW16UGorb3NzK2NUdTBPTlF3c0RWT21DREpNdjFYaVMrRjhIekVoM2l5cVBxclFXRE9XTzJISVo3eVZHQUFvWEU%3D&tokenuser="
+            },
+            {
+                "table_id": 1155,
+                "title": "Ringkasan Neraca Arus Dana, Triwulan II, 2013*), (Miliar Rupiah)",
+                "subj_id": 100,
+                "subj": "Neraca Arus Dana",
+                "updt_date": "2015-12-07 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=C2sB1HhcGKjMiv60tePfN0NlUVhvOUdFRGdjRStOeDI3TXFHQUxQWHdibEZiMWU2TjBzWUJjV1gxc1Ezd3JiQTU4TlV3OW9JRTFZK1BJVzU%3D&tokenuser="
+            },
+            {
+                "table_id": 1154,
+                "title": "Ringkasan Neraca Arus Dana, Triwulan I, 2013*), (Miliar Rupiah)",
+                "subj_id": 100,
+                "subj": "Neraca Arus Dana",
+                "updt_date": "2015-12-07 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=u5VSYvFsWDeOF6c65UiBy1JlSjdRZmxzN0pZNk56bVVadDhpZUtoL0ZneEpjMUxDRk1ZQTgxbFk2T0tNZWZCcGNHeXlwak1qakVaUHpOWnA%3D&tokenuser="
+            },
+            {
+                "table_id": 1152,
+                "title": "Ringkasan Neraca Arus Dana, Triwulan IV, 2012), (Miliar Rupiah)",
+                "subj_id": 100,
+                "subj": "Neraca Arus Dana",
+                "updt_date": "2015-12-07 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=XmRTKPB1Gp%2Bge6y5jJNGSGVzQkJjV0JTdXJoV0Q4MkF4eS9RaWg2QWhhOHAwNXZ1dGE2bVNOSXFZM1U3REdPS3YrOVBJcFVabCtnelc5cXY%3D&tokenuser="
+            },
+            {
+                "table_id": 1887,
+                "title": "Nilai Produksi dan Biaya Produksi per Hektar Usaha Tanaman Bawang Merah dan Cabai Merah, 2014",
+                "subj_id": 55,
+                "subj": "Hortikultura",
+                "updt_date": "2015-10-08 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=kdv0CGYufhaB1BnzS5ojFW5UWWw3SjMrVm45UlBGcG5jeFV5ZytTRTlxd29YR3pOYng2UlJEV3l1dVRGeDNpZE5uNG1Ld3dOaUtySm82Tm4%3D&tokenuser="
+            },
+            {
+                "table_id": 1884,
+                "title": "Transaksi Domestik Atas Dasar Harga Produsen pada 9 Sektor Ekonomi (miliar rupiah), 2005",
+                "subj_id": 105,
+                "subj": "Input output",
+                "updt_date": "2015-10-07 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=9XXmoYiuQ0snKugWk3Rp91pmQzFrQmhlQ3F1NXZWNTlhNXFUK28rUW5Yc1FzS0hBd2Z5Z3NTaFRYRUpXQWZabSszcC9Fc24zeitKUXlNaGY%3D&tokenuser="
+            },
+            {
+                "table_id": 1350,
+                "title": "Tekanan Udara dan Penyinaran Matahari di Stasiun Pengamatan BMKG, 2003-2010",
+                "subj_id": 151,
+                "subj": "Iklim",
+                "updt_date": "2015-09-29 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=Qr4u53gOWsDxmijDZ0aYvWlnZklPSnJ1R2VmMVR2WTQvNkloQ3BKcHZLSzMxbUdObXFhNVpXT3h2VG1nbzl4dG9PcFE1U2tGb2FNNG9ZVXg%3D&tokenuser="
+            },
+            {
+                "table_id": 1347,
+                "title": "Suhu Minimum, Rata-Rata, dan Maksimum di Stasiun Pengamatan BMKG (oC), 2000-2010",
+                "subj_id": 151,
+                "subj": "Iklim",
+                "updt_date": "2015-09-29 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=qbMmx7Iitsd8Fyhsrs8lNzA5Y05icWNCdS8zL045R040bVRuQ3g5ZytqbHpPUE1sV0QxQVVlU3lrTnV6ODFnN2FBQWpuRlo1QWU1QVdDQU0%3D&tokenuser="
+            },
+            {
+                "table_id": 1855,
+                "title": "Nilai Produksi dan Biaya Produksi per Musim Tanam per Hektar Budidaya Tanaman Padi Sawah, Padi Ladang, Jagung, dan Kedelai, 2014",
+                "subj_id": 53,
+                "subj": "Tanaman Pangan",
+                "updt_date": "2015-09-25 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=F4lbgiI7yF2390Jt4HjDeE1ZaWc0Y0pxcFF6SDdFK0t1WGlWTm1LMzdMWk1wMmxJV3RURVFSUUVWYmp4eFZYNmpSYloyQld5YkYzdmZ1aHM%3D&tokenuser="
+            },
+            {
+                "table_id": 1853,
+                "title": "Nilai Produksi dan Biaya Produksi per Hektar Usaha Perkebunan Kelapa Sawit dan Tebu, 2014",
+                "subj_id": 54,
+                "subj": "Perkebunan",
+                "updt_date": "2015-09-25 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=2XGQcGqnPk6%2FVZtf4InfmmRTckhjYjQ1enRsUm9FSHJDbnI2TFRGdDNqWFV3ajMzSFpmU3YyK0lTRlovMy9UMWdGdFpkSkJnWk83aHZZbjA%3D&tokenuser="
+            }
+        ]
+    ]
+}

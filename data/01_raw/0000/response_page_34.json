@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 34,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 2085,
+                "title": "Rekap Dokumen RPB Provinsi",
+                "subj_id": 27,
+                "subj": "Sosial Budaya",
+                "updt_date": "2020-03-28 07:16:46.239159",
+                "size": "0.03 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=clUkbRuSPSW%2BKXpbDbCtuHJhcFB1SXRzeFZoWDhmajUwNWJtRlZ6NzRUZmRtK2ZVUUZqK1FHbmJ0TXBUeFA0TWpFTm11R3R6N1huTGQ1Rng%3D&tokenuser="
+            },
+            {
+                "table_id": 901,
+                "title": "Inflasi Indonesia Menurut Kelompok Pengeluaran, 2006-2019",
+                "subj_id": 3,
+                "subj": "Inflasi",
+                "updt_date": "2020-02-04 10:50:00.868809",
+                "size": "0.08 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=28S0hk1pRlv1i2M033l0EnhuYzlScUZRWCtORXJWWXhpb1ptTWdhSm0wdGpENGhWd2hNS1dpZTlrYUhsSExVZzd2eEFReS9PVFY2eVhQUTk%3D&tokenuser="
+            },
+            {
+                "table_id": 2071,
+                "title": "Rata-rata UpahGaji Bersih Sebulan Buruh/Karyawan/Pegawai Menurut Provinsi dan Lapangan Pekerjaan Utama, 2019",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2020-01-09 15:20:50",
+                "size": "0.06 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=XtrdoiUvRm2w91cHTV73izVJaDJnUzVKNzZlYzVpdEM3cVg5eUFxUERReEt3QzlYbXZZeVR5cm5PVENpbGhVV2N1TFlOd0pOTlZhWHhLL1A%3D&tokenuser="
+            },
+            {
+                "table_id": 2070,
+                "title": "Rata-rata UpahGaji Bersih Sebulan Buruh/Karyawan/Pegawai Menurut Provinsi dan Jenis Pekerjaan Utama, 2019",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2020-01-09 10:00:55.428688",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=1RMQmW9thkGiW4G1e84bMXh2bVN3Mk84dnBMeHpGUkNXcmc1cjlwTzkwY05QNDU0LzY2NW9MbWhVRjVXMVNJRHJDU255NmlSTlZaOUxIV3E%3D&tokenuser="
+            },
+            {
+                "table_id": 2069,
+                "title": "Rata-rata Upah/Gaji Bersih sebulan Buruh/Karyawan Pegawai Menurut Pendidikan Tertinggi dan Lapangan pekerjaan utama, 2019",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2020-01-09 09:48:52.65274",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=umLwCX3ye0sEPMySa%2FURAFV2M0tJWUVnZG9uVFFWQUMzZURUQnBHK3p5YXVWdnZQYnZFN3J0bm9sWDFEdG1nUVVrQVZSR2gxL0haSkhJbHM%3D&tokenuser="
+            },
+            {
+                "table_id": 2068,
+                "title": "Rata-rata Upah/Gaji Bersih sebulan Buruh/Karyawan Pegawai Menurut Pendidikan Tertinggi dan jumlah jam kerja utama, 2019",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2020-01-09 09:33:33.059205",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=SbVurNljwCvpVl7N%2FOwRSmNWcUEwQmJwbm1NQzkwRGV4MkNwaFo1NEE3ekU2aFUxM3U5Nkh0OHZPaDc5Z3owc1B3TkNvTEROeFJuZ3Ric0k%3D&tokenuser="
+            },
+            {
+                "table_id": 2067,
+                "title": "Rata-rata Upah/Gaji Bersih sebulan Buruh/Karyawan Pegawai Menurut Pendidikan Tertinggi dan jenis pekerjaan utama, 2019",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2020-01-09 09:13:01.319188",
+                "size": "0.03 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=Ttj477OlSgBoIn9d9OnPFDVVdFp1VkhacTc1V2E2TmJqbHI5c1lVeGNsOC9tYy9iLzRGVFk5Rmx3UU8rRmFGd2ZYbTlTL3RLeW5QOFNBa2U%3D&tokenuser="
+            },
+            {
+                "table_id": 2066,
+                "title": "Rata-rata UpahGaji Bersih sebulan Buruh/Karyawan Pegawai Menurut Kelompok Umur dan lapangan pekerjaan utama, 2019",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2020-01-09 08:36:51.807979",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=7dDPYzeSAECEDanQt9pX5Xo3MnNQNERrZitnQXg1NkcrMWVhWDE3WCsxVHVEWjBtSUR2R1Z0aVRlTExQUmpOdTBzaHZENkhXNzIzdnVlYk0%3D&tokenuser="
+            },
+            {
+                "table_id": 2065,
+                "title": "Rata-rata Upah Gaji Bersih Sebulan Buruh Karyawan Pegawai Menurut Kelompok Umur dan Jenis Pekerjaan, 2019",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2020-01-09 08:14:05.049355",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=fO0X1TDgdBirkum7DfMegGN4Y05YTk5lbTBpZFhvNHowSUl1a0tUa0QvaGU2UDZvTTlLRXNtTVRjdHdEV2x4ZkFkOHE0eW5lUEFrQWF4N0Q%3D&tokenuser="
+            },
+            {
+                "table_id": 2064,
+                "title": "Rata-rata Pendapatan Bersih Pekerja Bebas Menurut Provinsi dan Pendidikan Tertinggi yang Ditamatkan, 2019",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2020-01-08 16:01:21.467086",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=Zv1jVyVkT2gGhvtfilg2sUIwcTRaWWQxTDdUc3FCTURaRkRGNzAzTGpMeTB5OHVTV21scExpNDNhL1gzTTlxc0tKamZNcVRiVjhtbUY4Wko%3D&tokenuser="
+            }
+        ]
+    ]
+}

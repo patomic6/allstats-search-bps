@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 12,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 1617,
+                "title": "Persentase Penduduk yang Mempunyai Keluhan Kesehatan menurut Provinsi, Tipe daerah dan Jenis Kelamin, 2009-2024",
+                "subj_id": 30,
+                "subj": "Kesehatan",
+                "updt_date": "2024-11-26 14:41:07.304302",
+                "size": "0.09 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=YJLxua2bRUawphV7KemFlWFHNEJUblV2djlQb2dkemN0ODlTSGdLancxcWZrWnIvb01PNGd6MDE0L1hza1lRelBOQXlPOGtHQkNMU0E1MzE%3D&tokenuser="
+            },
+            {
+                "table_id": 962,
+                "title": "Rata-Rata Pengeluaran per Kapita Sebulan di Daerah Perdesaan  Menurut Kelompok Barang dan Golongan Pengeluaran, 2013-2024",
+                "subj_id": 5,
+                "subj": "Konsumsi dan Pengeluaran",
+                "updt_date": "2024-11-26 14:24:17.174014",
+                "size": "0.08 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=zApNsIr0B%2Fpe5ewzbHCDRUI3bGxnclJlcUlQUVZ5Nkg5c2ZJU3VSTTlUUURaVFJjek1IVmFVeXA2KzZRVC9xZ2lmYnhhdVpKeXJKajVFSWU%3D&tokenuser="
+            },
+            {
+                "table_id": 951,
+                "title": "Rata-Rata Konsumsi Kalori dan Protein per Kapita per Hari Menurut Provinsi, 2007-2024",
+                "subj_id": 5,
+                "subj": "Konsumsi dan Pengeluaran",
+                "updt_date": "2024-11-26 14:19:26.785705",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=m%2FIsxEeqwMVuCtf2VWdxNnJsem92YkE5aFlrZit0bnlscHkxWE1LdHkrM3BMZitOa3VQbURjbmRmZkhXbnhFbVNta2k3b3NUdFlPYUJacno%3D&tokenuser="
+            },
+            {
+                "table_id": 946,
+                "title": "Distribusi Pembagian Pengeluaran per Kapita dan Indeks Gini, 2010-2024",
+                "subj_id": 5,
+                "subj": "Konsumsi dan Pengeluaran",
+                "updt_date": "2024-11-26 14:12:18.012812",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=qyvgcGpAWWUbgiB%2BGwXodUtvNDQ0KzVKRWlQYnlLWjF5anZGdThHYStrbi9Nc1p4cDZkWkNxWGw1RW50T0lMM2hqWTRJK0VwdXhsVEQ2UXY%3D&tokenuser="
+            },
+            {
+                "table_id": 950,
+                "title": "Rata-Rata Konsumsi per Kapita Seminggu Beberapa Macam Bahan Makanan Penting, 2007-2024",
+                "subj_id": 5,
+                "subj": "Konsumsi dan Pengeluaran",
+                "updt_date": "2024-11-26 14:06:32.103427",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=v1L3CIHt1Fm64o%2FXvM1R71BTVGdWNFpNcXF1cFhBRzNVeld4Y29JNHJ2UkZ2RWZHZTVEZzllUlYxR3R4WC9qY3JUWE1RbkdybURrczM2bUo%3D&tokenuser="
+            },
+            {
+                "table_id": 945,
+                "title": "Rata‑Rata Pengeluaran per Kapita Sebulan Untuk Makanan dan Bukan Makanan di Daerah Perkotaan dan Perdesaan Menurut Provinsi (rupiah), 2011-2024",
+                "subj_id": 5,
+                "subj": "Konsumsi dan Pengeluaran",
+                "updt_date": "2024-11-26 11:46:31.552725",
+                "size": "0.07 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=iesxZergafbvqf%2BzvUw5nDJ3T2d6YXNsdUN5eGl4RURHR0RhSUUzVG9wRmR2ZEE4MDlZT0NWSXkwa3FxNlEvTzYyT2JKZWtielcwVWxkWk0%3D&tokenuser="
+            },
+            {
+                "table_id": 944,
+                "title": "Persentase Rata‑Rata Pengeluaran per Kapita Sebulan Untuk Makanan dan Bukan Makanan di Daerah Perdesaan Menurut Provinsi, 2007-2024",
+                "subj_id": 5,
+                "subj": "Konsumsi dan Pengeluaran",
+                "updt_date": "2024-11-26 11:36:54.237946",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=6AU%2BaKN6cZKWenw7Liv6r2dFV0dwS1VoV212TVNzTGNFbjY4U3pwQzFmOFZ5QjRCcGtDbEN0Zm5zOTZxM1hZbjFyZ3lYWFUxUG95bk5ZRWs%3D&tokenuser="
+            },
+            {
+                "table_id": 940,
+                "title": "Persentase Rata‑Rata Pengeluaran per Kapita Sebulan Untuk Makanan dan Bukan Makanan di Daerah Perkotaan Menurut Provinsi, 2007-2024",
+                "subj_id": 5,
+                "subj": "Konsumsi dan Pengeluaran",
+                "updt_date": "2024-11-26 11:19:01.660513",
+                "size": "0.06 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=LtD1rb3Mi4JJ3E3MMjqGJVREbWo0eldPRVNHMklJU2l1UzNPZzhYMm96OUxaNkNaT3RwWGQ0K2dhcksra1hOU1hSM3VzR2pCMi9EMmFNdGk%3D&tokenuser="
+            },
+            {
+                "table_id": 941,
+                "title": "Rata‑Rata Pengeluaran per Kapita Sebulan Untuk Makanan dan Bukan Makanan di Daerah Perdesaan Menurut Provinsi (rupiah), 2007-2024",
+                "subj_id": 5,
+                "subj": "Konsumsi dan Pengeluaran",
+                "updt_date": "2024-11-26 11:07:28.657774",
+                "size": "0.06 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=HSJgOaZUldSd0D2QOdDedFBCQzlITVE5dCttdlQrdGNIZjJsN2FXK3JpMmFoVFNCWVRTSlpvQ0RKbkV1TXo3SmFGbWVRbWZJdTJpZHhTYzA%3D&tokenuser="
+            },
+            {
+                "table_id": 943,
+                "title": "Rata-Rata Pengeluaran per Kapita Sebulan Untuk Makanan dan Bukan Makanan di Daerah Perkotaan Menurut Provinsi (rupiah), 2007-2024",
+                "subj_id": 5,
+                "subj": "Konsumsi dan Pengeluaran",
+                "updt_date": "2024-11-26 11:01:43.277393",
+                "size": "0.06 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=lzIlNXELHRacOX1uDNNGtERDbmhJVTJnYWhlRXgxUDFqaG1oSmN6TWkrc25hdEc5eXpTWGYvVWx1dkZtOTdZK2h5SklWK1hPbjlrc2VOdzE%3D&tokenuser="
+            }
+        ]
+    ]
+}

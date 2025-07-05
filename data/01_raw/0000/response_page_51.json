@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 51,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 1832,
+                "title": "Tabungan Bruto Menurut Sektor (triliun rupiah), 2008–2014",
+                "subj_id": 104,
+                "subj": "Neraca Sosial Ekonomi",
+                "updt_date": "2017-03-08 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=6nTUYQ5pvrUrNAZC4fCq8EVQTnluQnJqTldjZmw2ZVQwUmF6aW9uVTYrVThxTncvUXBIWW11VUh5dmJua0RKTHU5V0VFRk9EcStyNGZoalo%3D&tokenuser="
+            },
+            {
+                "table_id": 1831,
+                "title": "Tabungan Bruto, Investasi Nonfinansial, dan Pinjaman Neto Triwulanan Sektor Domestik Lain (triliun rupiah), 2009–2015",
+                "subj_id": 104,
+                "subj": "Neraca Sosial Ekonomi",
+                "updt_date": "2017-03-08 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=pIyYxzR8PgVAfdom5y1dZmdKZnV3QUxFWVZZUCtyUjlmN1drOXEreW1kdG51cFJ6dVpINE1YNVprak1mdUZFYjZGaGxvRXlldHpFNE1FbEg%3D&tokenuser="
+            },
+            {
+                "table_id": 1830,
+                "title": "Tabungan Bruto, Investasi Nonfinansial, dan Pinjaman Neto Triwulanan Sektor Pemerintahan Umum (triliun rupiah), 2009–2015",
+                "subj_id": 104,
+                "subj": "Neraca Sosial Ekonomi",
+                "updt_date": "2017-03-08 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=gLU829DLO14km3IJwp%2FsKnB0aWhJaDNCZnEwc1Z1ZVFJVVJVcXFiSWwrOUZhWWZMTUY3cCtKWHBQSHRUL2R0eU5MdnN1c1JNVkpKdzNoQkw%3D&tokenuser="
+            },
+            {
+                "table_id": 1439,
+                "title": "Rata-Rata Upah Nominal Per Bulan Buruh Produksi di Bawah Mandor di Perusahaan Industri Besar dan Sedang Menurut Subsektor (ribu rupiah), 2000-2014",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2017-03-08 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=gNOYDFGF3z3Jud2x13q0DVZLY2lEUkp2TTVFRFNoakVvcEdndzFsWk5IMGp1dEpkK2hUOEtSaWdTcE1wdnV6d3lDVUxaRkdXSGNmZExtUXI%3D&tokenuser="
+            },
+            {
+                "table_id": 1437,
+                "title": "Rata-Rata Upah Nominal Per Bulan Buruh Produksi/Pelaksana di Bawah Mandor/Supervisor Menurut Lapangan Usaha dan Wilayah (ribu rupiah), 2000-2014",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2017-03-08 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=hJMIxQA5NIv7M%2BJ0Bl168jNZRm9xMnlaekxURldKZSs5TUUzUDZ3V0taTWxLblZVZWsvbXRvZmJ4SklsdExQOWpxL1p2TFRBYk5CcVhTZmc%3D&tokenuser="
+            },
+            {
+                "table_id": 1243,
+                "title": "Laju Pertumbuhan Produk Domestik Bruto Beberapa Negara di Beberapa Negara Menurut Harga Konstan, 2000-2015",
+                "subj_id": 11,
+                "subj": "Produk Domestik Bruto (Lapangan Usaha)",
+                "updt_date": "2017-03-08 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=Szgy6Pyv7N68x3P7xV2cqUdTSnU0ZVBSU0JTNDFmeE1TQTRYa1hrZ3VTRzZaY1QwdFN5Wlpnd05lSVBqdVJ6dWVoRHRkSFQ3OFgrdFFGM3k%3D&tokenuser="
+            },
+            {
+                "table_id": 1829,
+                "title": "Tabungan Bruto, Investasi Nonfinansial, dan Pinjaman Neto Triwulanan Sektor Perbankan (triliun rupiah), 2009–2015",
+                "subj_id": 104,
+                "subj": "Neraca Sosial Ekonomi",
+                "updt_date": "2017-03-07 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=9CZ%2FYgjj4tAbwGJ4sDch0U9Bei9sL0lZWmRkdTZWR3VaNld4YnFTajIvVS83dTFYOUpKOGp5dlFrMjJQUTlJbndaenJ2WEFnM3o5TUFqTzI%3D&tokenuser="
+            },
+            {
+                "table_id": 1828,
+                "title": "Tabungan Bruto, Investasi Nonfinansial, dan Pinjaman Neto Triwulanan Sektor Bank Sentral (triliun rupiah), 2009–2015",
+                "subj_id": 104,
+                "subj": "Neraca Sosial Ekonomi",
+                "updt_date": "2017-03-07 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=sF7NRRLzsa7MzWCdzZZffjVCQlA2bEczYVF1OUJKVU1TTUsrR3laUDlNcDIvNm53eU4rME02T2Jra1dRNC9qZ2JMUGp5TU5YTHRNQmRHUnU%3D&tokenuser="
+            },
+            {
+                "table_id": 1827,
+                "title": "Tabungan Bruto Domestik, Investasi Nonfinansial Domestik, dan Tabungan Luar Negeri Triwulanan (triliun rupiah), 2009–2015",
+                "subj_id": 104,
+                "subj": "Neraca Sosial Ekonomi",
+                "updt_date": "2017-03-07 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=6sGm3LkcLaX7eYLcKrCMbnFPeE0vRDBmYzJxeWp1cE85SWgyUmlCMHgvZjNHUS9iNWowbVJpNVgrcE5ZTjlxcU9ndm1IUHF0Nk50S3ExRGU%3D&tokenuser="
+            },
+            {
+                "table_id": 1463,
+                "title": "Indeks Harga Perdagangan Besar Menurut Kelompok Penggunaan Barang dan Sektor, 2000-2015",
+                "subj_id": 20,
+                "subj": "Harga Perdagangan Besar",
+                "updt_date": "2017-03-07 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=wl5PECpAgUqZK%2F4mq9rNNUdkdWJER0dxQlpXM1NCQmRwVWxkbUxkaVZVQW5LU0h5MlJwWUVoRDhrV25Wamg5VTdZb2dlUGc1QUFNUGJkZks%3D&tokenuser="
+            }
+        ]
+    ]
+}

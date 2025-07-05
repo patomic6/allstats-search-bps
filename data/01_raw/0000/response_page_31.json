@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 31,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 2119,
+                "title": "Konkordansi Klasifikasi Tabel Inter Regional Input-Output Indonesia, 2016 (52 Industri - 17 Lapangan Usaha)",
+                "subj_id": 105,
+                "subj": "Input output",
+                "updt_date": "2021-04-30 15:30:57.807148",
+                "size": "0.06 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=gGGvGdo%2BcxZNKBExFLRKOmlaSmJla2xSSlRiQlBJbUJaL3NXZXFwaTZ6UFplendiODNqVkxlempFaW90eFlpdzNZS1FJbE5WcCtYdGxOUzI%3D&tokenuser="
+            },
+            {
+                "table_id": 2118,
+                "title": "Tabel Input-Output Indonesia Transaksi Total Atas Dasar Harga Pembeli (185 Produk), 2016  (Juta Rupiah)",
+                "subj_id": 105,
+                "subj": "Input output",
+                "updt_date": "2021-04-29 12:12:14.80999",
+                "size": "0.33 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=5jrpnD3fLRsk5EsmjIbh2VE5a01wM1pXaDl1UThLN0xLdWJXOVBwdTZiSEM5UVJxNWxLZldYSHNZVXF3RTd6Rk5QR2wrL0dSM1dld2gzTWI%3D&tokenuser="
+            },
+            {
+                "table_id": 2114,
+                "title": "Tabel Input-Output Indonesia Transaksi Total Atas Dasar Harga Pembeli (17 Produk), 2016  (Juta Rupiah)",
+                "subj_id": 105,
+                "subj": "Input output",
+                "updt_date": "2021-04-29 08:16:09.460393",
+                "size": "0.09 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=MCDces0gyG7MsoEDEMkZ2nR2TWVKQXQwcjIxbmNGNWdMbDBnYUxGOU9kdDRnYVF2VzA4bFcyK1Nzb09WZnJIeWxJcmtoS21qTXJZbzNCY1I%3D&tokenuser="
+            },
+            {
+                "table_id": 2117,
+                "title": "Tabel Input-Output Indonesia Transaksi Total Atas Dasar Harga Dasar (185 Produk), 2016  (Juta Rupiah)",
+                "subj_id": 105,
+                "subj": "Input output",
+                "updt_date": "2021-04-29 08:10:11.93436",
+                "size": "0.34 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=Gj7ste0M5fLp5xg2upsB%2FXNGdHZIdlFUSzhGUUJCTlFzMlBWMGM0cVFUOG41ZWxEOEdBeTJWUnJHSGtOdXBPZWZoM0psbjJkQmFKUkM0a2M%3D&tokenuser="
+            },
+            {
+                "table_id": 2113,
+                "title": "Tabel Input-Output Indonesia Transaksi Total Atas Dasar Harga Dasar (17 Produk), 2016 (Juta Rupiah)",
+                "subj_id": 105,
+                "subj": "Input output",
+                "updt_date": "2021-04-29 08:07:02.824159",
+                "size": "0.09 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=3mCl4dBMuANbcgDazRrnqmhlZ0FuNkRlRk9uamd2NlJzamcrb0RWek90REpQUXJGclZTMGFyNlc2RDZHZW43UHUwUm4wcXFlMjBhUVI5c3M%3D&tokenuser="
+            },
+            {
+                "table_id": 2115,
+                "title": "Konkordansi Klasifikasi Tabel Input-Output Indonesia, 2016 (185 Produk - 17 Produk) ",
+                "subj_id": 105,
+                "subj": "Input output",
+                "updt_date": "2021-04-29 08:04:44.960294",
+                "size": "0.06 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=kCXNhSRMGky19m2MnI0StHNQRTVGSDB1OWZub1NFcm1oTzhaTGQyc1JvaDRiTFJac3BWNW43UFNjeFpjUk5PQzJmb0ZGdXgvRFM2c0lMbUE%3D&tokenuser="
+            },
+            {
+                "table_id": 2116,
+                "title": "Tabel Input-Output Indonesia Transaksi Domestik Atas Dasar Harga Dasar (185 Produk), 2016  (Juta Rupiah)",
+                "subj_id": 105,
+                "subj": "Input output",
+                "updt_date": "2021-04-29 08:04:11.652794",
+                "size": "0.33 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=qqJ9%2BnzNeWCe3bQaGdfSSU04L2VuOVpkNUJtb3oxVDUyVlhoaFJUOGt4bXBNRXN0U3NlbStQTGFyTk01MUlzVHNvejhBNllLZ0MvYmtjNmw%3D&tokenuser="
+            },
+            {
+                "table_id": 2112,
+                "title": "Tabel Input-Output Indonesia Transaksi Domestik Atas Dasar Harga Dasar (17 Produk), 2016  (Juta Rupiah)",
+                "subj_id": 105,
+                "subj": "Input output",
+                "updt_date": "2021-04-29 08:01:56.284064",
+                "size": "0.08 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=W%2FljVoOrKwVvjz8HOFAJgVFDU21CblBOMmwwQlpGeWgyWEZJV0NzTnNFbE1EZEpHRUpERm9qd0JIak5UaklhZytxNXB0aFlHTzFnT2RpNnc%3D&tokenuser="
+            },
+            {
+                "table_id": 2106,
+                "title": "Rata-rata Pendapatan bersih Berusaha Sendiri menurut Provinsi dan Pendidikan yang Ditamatkan, 2020",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2021-02-22 10:30:45.349937",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=%2F9%2BynzgWEhgJ1Eo49ET2u3ZMdVRhVVU2c3VwZ1EyTFBvOXJPRHZrRHdzdDVJVWdkSjc3MjdtYitSUWdlQms3cm9IRGNPRC84SVFjTVlmRWY%3D&tokenuser="
+            },
+            {
+                "table_id": 2103,
+                "title": "Rata-rata Pendapatan Bersih Pekerja Bebas Menurut Provinsi dan Pendidikan Tertinggi yang Ditamatkan, 2020",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2021-02-22 10:27:10.657596",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=cHRNoAAZpDRvmM6NQ%2FoQDzRoM0JkNDRtZUhiMUhBVVpJSUhZTW94aWFiYUhMTXl0b3RrblhzQU54b3NqMllPREljSXhDdWtaWHBnVTBaWGY%3D&tokenuser="
+            }
+        ]
+    ]
+}

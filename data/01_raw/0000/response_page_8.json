@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 8,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 1537,
+                "title": "Indikator Perumahan 1993-2024",
+                "subj_id": 29,
+                "subj": "Perumahan",
+                "updt_date": "2024-12-11 08:58:32.769264",
+                "size": "0.06 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=RTtCwaryl9GoVO6m%2B2NrN0NYSGsvVkpWdnRoVWRZWnZSK2NsL28wZkpBc01pWWV5eDRjY1hGb2h2QlNWODAxMXBIQ1luTHJnbW1nSm8xc2U%3D&tokenuser="
+            },
+            {
+                "table_id": 2242,
+                "title": "Persentase Penduduk Usia 7-23 Tahun Menurut Jenis Kelamin, Kelompok Umur Sekolah, dan Partisipasi Sekolah, 2015-2024",
+                "subj_id": 28,
+                "subj": "Pendidikan",
+                "updt_date": "2024-12-11 08:48:13.831302",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=F1EKEl%2BU9uZVet2huuMwZmNKMUxMZFRsVDd4Y2dlb3pNZFNGNWpTdXhaVHg0SDh3RXU0NnJDbGxUZ1dDUWswaVozMXdaVktsTjhZOVdLL2w%3D&tokenuser="
+            },
+            {
+                "table_id": 2154,
+                "title": "Rata-rata Konsumsi dan Pengeluaran Perkapita Seminggu Menurut Komoditi Makanan dan Golongan Pengeluaran per Kapita Seminggu di Provinsi Sulawesi Tengah, 2018-2024",
+                "subj_id": 5,
+                "subj": "Konsumsi dan Pengeluaran",
+                "updt_date": "2024-12-11 08:42:51.791015",
+                "size": "1.08 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=wqj0W3Ng4RIY81zNXu4QYkVHMFVvdnR6a01QUEt4T0pGSXk5MzdXNnZ3Tm1KME1YVUpkRmt2dUwwYWt6NzVaOEJ0VkdzSFhKVVJPZUNhVis%3D&tokenuser="
+            },
+            {
+                "table_id": 2153,
+                "title": "Rata-rata Konsumsi dan Pengeluaran Perkapita Seminggu Menurut Komoditi Makanan dan Golongan Pengeluaran per Kapita Seminggu di Provinsi Sulawesi Selatan, 2018-2024",
+                "subj_id": 5,
+                "subj": "Konsumsi dan Pengeluaran",
+                "updt_date": "2024-12-11 08:40:04.161728",
+                "size": "1.17 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=zMfStBjdTkrAS6di2bjsJHdhWlR1bmpnUENQSHd6RGJIL0pEZlh5V0JmWVJndWVoam55aHlNWm45TmpOWFV6YmdYZXI1N25BSlVSUFh1UWc%3D&tokenuser="
+            },
+            {
+                "table_id": 2150,
+                "title": "Rata-rata Konsumsi dan Pengeluaran Perkapita Seminggu Menurut Komoditi Makanan dan Golongan Pengeluaran per Kapita Seminggu di Provinsi Sulawesi Barat, 2018-2024",
+                "subj_id": 5,
+                "subj": "Konsumsi dan Pengeluaran",
+                "updt_date": "2024-12-11 08:36:51.819647",
+                "size": "0.83 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=KNmNuLObqmvuliqmwHhJQ29nK2Rma2g2WjZoUG53ZzloRVdGME9uWXJUd01EdGdmNjkzTEMvWVdxWkh5eXZBZFBjK09BS2l0Ym5RUGtYSDQ%3D&tokenuser="
+            },
+            {
+                "table_id": 2176,
+                "title": "Rata-rata Konsumsi dan Pengeluaran Perkapita Seminggu Menurut Komoditi Makanan dan Golongan Pengeluaran per Kapita Seminggu di Provinsi Riau, 2018-2024",
+                "subj_id": 5,
+                "subj": "Konsumsi dan Pengeluaran",
+                "updt_date": "2024-12-11 08:31:44.111894",
+                "size": "1.03 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=1lT7MujjVjoATiMLMOKjLm90VjByaDM5OWVZQ0YxSFp0VWtLOWhtWDl5K1A1K3VZQUFGRlV4WEpEcGExOE9aLytTY3hiTXdOOEtFQlp2aGg%3D&tokenuser="
+            },
+            {
+                "table_id": 2161,
+                "title": "Rata-rata Konsumsi dan Pengeluaran Perkapita Seminggu Menurut Komoditi Makanan dan Golongan Pengeluaran per Kapita Seminggu di Provinsi Nusa Tenggara Timur, 2018-2024",
+                "subj_id": 5,
+                "subj": "Konsumsi dan Pengeluaran",
+                "updt_date": "2024-12-11 08:26:47.32382",
+                "size": "1.11 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=DcsPJSl2xDOKEfm2336%2BSmptTFNXZ3d4QytsanpqVFNoREJHWDFLR1dIK1pQeFZKMW95TEhqZGF6TlRWWGRmTSsvMXNhcjlNR1FOVnBKZXI%3D&tokenuser="
+            },
+            {
+                "table_id": 2162,
+                "title": "Rata-rata Konsumsi dan Pengeluaran Perkapita Seminggu Menurut Komoditi Makanan dan Golongan Pengeluaran per Kapita Seminggu di Provinsi Nusa Tenggara Barat, 2018-2024",
+                "subj_id": 5,
+                "subj": "Konsumsi dan Pengeluaran",
+                "updt_date": "2024-12-11 08:24:37.9461",
+                "size": "1.14 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=E15FEPXm8q2Y4zp3b6JGnHp2NVhPemY2UFZ1bVpaempsZjVFc3VDUENSWWthcXFqUVkvSnJOMmc4MG1HeEh2MHlkQmJJM29xNFgybTlwUUM%3D&tokenuser="
+            },
+            {
+                "table_id": 2172,
+                "title": "Rata-rata Konsumsi dan Pengeluaran Perkapita Seminggu Menurut Komoditi Makanan dan Golongan Pengeluaran per Kapita Seminggu di Provinsi Lampung, 2018-2024",
+                "subj_id": 5,
+                "subj": "Konsumsi dan Pengeluaran",
+                "updt_date": "2024-12-11 08:21:52.545468",
+                "size": "1.09 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=NwCbKydAq2r3iEUPTB4kglpzT1JBNG0wNURSTTg4RVRudFVRNlNZVStOSVdJOWNNQ1JwT1pFSEg4TGFIbzI5ZFVRcWNrbzhOY0IxWFZKVC8%3D&tokenuser="
+            },
+            {
+                "table_id": 2170,
+                "title": "Rata-rata Konsumsi dan Pengeluaran Perkapita Seminggu Menurut Komoditi Makanan dan Golongan Pengeluaran per Kapita Seminggu di Provinsi Kepulauan Riau, 2018-2024",
+                "subj_id": 5,
+                "subj": "Konsumsi dan Pengeluaran",
+                "updt_date": "2024-12-11 08:17:56.047437",
+                "size": "0.96 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=y4ltlPWhjuCjqMtq1AnLICtaaC9OS2NIb0pWYmUxU3p1blBsVGlmNmVvYWVuNEVxNzFlSVN2UkNBTmgwTkltVXhHNUg2V09JUk00RjZtT3U%3D&tokenuser="
+            }
+        ]
+    ]
+}

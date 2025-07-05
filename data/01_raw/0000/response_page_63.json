@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 63,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 1519,
+                "title": "Proporsi Penduduk Berumur 10 Tahun ke Atas yang Menonton Acara\r\n  Televisi Selama Seminggu Terakhir menurut\r\n  Provinsi, Tipe Daerah dan Jenis Kelamin, 2012",
+                "subj_id": 27,
+                "subj": "Sosial Budaya",
+                "updt_date": "2014-08-20 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=e13VCNS5pJpPVLfAyTzgMkhINkdZejBVRVpDNHNOZ3RCZkpnYUVyMXR0cVo2ZWJjbWxHSFE0SHo5K3hCNXNSRUZ1ZS9YR3hGeVBGM3JqaGM%3D&tokenuser="
+            },
+            {
+                "table_id": 1518,
+                "title": "Proporsi Penduduk Berumur 10 Tahun ke Atas yang Mendengarkan Siaran Radio Selama Seminggu Terakhir menurut Provinsi, Tipe Daerah dan Jenis Kelamin, 2012",
+                "subj_id": 27,
+                "subj": "Sosial Budaya",
+                "updt_date": "2014-08-20 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=JdqT61b2G72dIngA1NRuUFlscUswU0FaYlZyM2cyRTlIQW5TcEtZaGFIdUZiSTFYQzk5TDFwMHR4KzVYVGdlMVBnSG5WRldXS1I0TWVncDI%3D&tokenuser="
+            },
+            {
+                "table_id": 1430,
+                "title": "IHK, Upah Nominal, Indeks Upah Nominal dan Riil Buruh Industri Berstatus di bawah Mandor Menurut Wilayah, 2008-2014 (2007=100)",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2014-08-19 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=QzBpmhz9AoOUk4Z17f1u30R0U3dYV3VmbzZiVkErMFR2NUN3WS9vMDJyRUMzWjZuQU9kWjFxNFBYS3RqN21IdGQvMG50QUt3VWg4ZjBsYy8%3D&tokenuser="
+            },
+            {
+                "table_id": 1355,
+                "title": "Persentase Rumah Tangga yang Memiliki AC Menurut Provinsi dan Perilaku Menyalakan AC Dibawah 25 C, 2013",
+                "subj_id": 152,
+                "subj": "Lingkungan Hidup",
+                "updt_date": "2014-05-02 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=7ngvEr5n5zwM1z1O5wIi0GF0TGhDVHF0Q1NKQ3l5N0JBUVZ2TVJlL3dQVXM5aW0vZExOazNtbkZQb21OVlIvRUs3UFRUbTRoWFFSTDBTNnA%3D&tokenuser="
+            },
+            {
+                "table_id": 1353,
+                "title": "Persentase Rumah Tangga Menurut Provinsi dan Keberadaan Tanaman Keras/Tahunan di Pekarangan Rumah, 2013",
+                "subj_id": 152,
+                "subj": "Lingkungan Hidup",
+                "updt_date": "2014-05-02 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=Ypjzhme4I7Fcv2Xbl9%2FAlTR3VHZlQ0dwc1lGcHRMVFF5dGNVMlhINXNJV3dPMjhZUlROZ2RaWnVobTk4d1JqRHRDLzhFUlBIRVJtWjMzQjU%3D&tokenuser="
+            },
+            {
+                "table_id": 1148,
+                "title": "Ringkasan Neraca Arus Dana, 2011*), (Miliar Rupiah)",
+                "subj_id": 100,
+                "subj": "Neraca Arus Dana",
+                "updt_date": "2014-03-27 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=csiWimiBpbJqbMd1f9PPKkw2MHRobUFoSnhKNEZ1bWN5elBKK1N6eDAwN0JMRXlzWlNzdG51QktRbzg1YXN3dk1wS2xzcTlqQjlhV0RPV2w%3D&tokenuser="
+            },
+            {
+                "table_id": 1147,
+                "title": "Ringkasan Neraca Arus Dana, Triwulan IV, 2011*), (Miliar Rupiah)",
+                "subj_id": 100,
+                "subj": "Neraca Arus Dana",
+                "updt_date": "2014-03-27 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=2EpFA2HEgPCr%2BsUkpcYBXzFpejU0YVEzOXdPVlUvQ1NXS040SWpzeW9KQnBsQm11bzIwUmY4MWtycHByRUlEL1RwZXRFNFVnZVlGWSt2WkY%3D&tokenuser="
+            },
+            {
+                "table_id": 1146,
+                "title": "Ringkasan Neraca Arus Dana, Triwulan III, 2011*), (Miliar Rupiah)",
+                "subj_id": 100,
+                "subj": "Neraca Arus Dana",
+                "updt_date": "2014-03-27 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=opeZ6kp3P5TmSCv%2F%2FlTunU1CbDh2U2I0ZUh0RmY0RkhCbGNlRlNBdE80VU9vSFREeTc4V0xnNWIvblpqZEVxc1gzb1V6bXZlakw3bkxsMWc%3D&tokenuser="
+            },
+            {
+                "table_id": 1145,
+                "title": "Ringkasan Neraca Arus Dana, Triwulan II, 2011*), (Miliar Rupiah)",
+                "subj_id": 100,
+                "subj": "Neraca Arus Dana",
+                "updt_date": "2014-03-27 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=CQV1hNVxSJ2i7MGhQrFRRW13Nk5vcVAvZTk5TEJPZkNTQno1bHJTc0lPMlpmK1RQRnlCZVg0UDVEWXFFQ3J0eTBjVU1SMnpyZnNjOEthK0k%3D&tokenuser="
+            },
+            {
+                "table_id": 1144,
+                "title": "Ringkasan Neraca Arus Dana, Triwulan I, 2011*), (Miliar Rupiah)",
+                "subj_id": 100,
+                "subj": "Neraca Arus Dana",
+                "updt_date": "2014-03-27 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=lOFug6lgzIqgO9RPFZUKBHlLN1QzSUZCbHhSVXJ1aGtYTGxIK3orRUp1cFU3RG1KWDg0U1phdHF4V040UlVDaGt5K2hDRDFYdng5dm50eG4%3D&tokenuser="
+            }
+        ]
+    ]
+}

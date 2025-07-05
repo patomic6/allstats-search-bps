@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 2,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 1934,
+                "title": "Penduduk Berumur 15 Tahun Ke Atas yang Bekerja Selama Seminggu yang Lalu Menurut Golongan Umur dan Jumlah Jam Kerja Seluruhnya, 2008 - 2024",
+                "subj_id": 6,
+                "subj": "Tenaga Kerja",
+                "updt_date": "2025-04-10 15:36:33",
+                "size": "0.08 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=zhOkux98u5w3u9sY9U0kcExTNzEvc2dQM2xtbWNFM1prNWI2RktKdUROOWhXQTdqanU3bWgrRlhYS0U1RTZ0L2JyUlBGcnV5Vy9keXpxOTg%3D&tokenuser="
+            },
+            {
+                "table_id": 2181,
+                "title": "Total Ekonomi - Neraca Institusi Terintegrasi ( triliun rupiah), 2016 - 2023",
+                "subj_id": 178,
+                "subj": "Neraca Institusi Terintegrasi",
+                "updt_date": "2025-03-27 17:55:58",
+                "size": "0.46 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=MY2ZA6lue%2BJwRx%2FXd7qkaHoxVUYrS292Zk01MzJTZXhWY2QzM3BaWHB6a2ZyQzZYZTRZSUdJaDFIVjlER2RtbFFoSTBkcUsra2RicENvb2Y%3D&tokenuser="
+            },
+            {
+                "table_id": 2185,
+                "title": "Institusi Rumah Tangga – Neraca Institusi Terintegrasi ( triliun rupiah), 2016 – 2023",
+                "subj_id": 178,
+                "subj": "Neraca Institusi Terintegrasi",
+                "updt_date": "2025-03-27 15:13:49",
+                "size": "0.22 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=jXX6AIHsmxzyYglwMIsM9lZsUmxxOEEyMyt4bXhOMDJ1RjEzeTY2UE9PWE5yRWE3Nm5IRUdUOWxyR3ZFSWhXTGNZNVJZeUFYeVhPSDRIeDU%3D&tokenuser="
+            },
+            {
+                "table_id": 2187,
+                "title": "Institusi Luar Negeri – Neraca Institusi Terintegrasi ( triliun rupiah), 2016 – 2023",
+                "subj_id": 178,
+                "subj": "Neraca Institusi Terintegrasi",
+                "updt_date": "2025-03-27 14:35:02",
+                "size": "0.19 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=E7Lew7y6NjfLYSXF825KUzZXYkJkQ21EaUwrOWVXcEpHajBTSzVlN09va1lZRzhuQWlGd2J5a0dmSVoxeXB6aG56eXhZOEY5dGhSNTJxK0s%3D&tokenuser="
+            },
+            {
+                "table_id": 2183,
+                "title": "Institusi Korporasi Finansial – Neraca Institusi Terintegrasi ( triliun rupiah), 2016 – 2023",
+                "subj_id": 178,
+                "subj": "Neraca Institusi Terintegrasi",
+                "updt_date": "2025-03-27 14:19:05.709846",
+                "size": "0.21 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=l16rC6K0wMOXvKeJoQVXgk9qWmc0TkFiSDlremFsQVJvMXJmcnkxb3kwVWRqdmt3cTBlSitUOVRWclRTRnNkUTl6SmIxOHJsVDdxQldxOE4%3D&tokenuser="
+            },
+            {
+                "table_id": 2182,
+                "title": "Institusi Korporasi Non Finansial – Neraca Institusi Terintegrasi ( triliun rupiah), 2016 – 2023",
+                "subj_id": 178,
+                "subj": "Neraca Institusi Terintegrasi",
+                "updt_date": "2025-03-27 13:53:30.731234",
+                "size": "0.35 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=QUgL1t67pJE2LRzJT0HD03ZYdWVxOWgrYUlIWEUyRVd5c0RvdGJNU3BWbThicGYrVWxuNml3YWZ5OVlsRVVucmJTUC9DSDlNQ01qUXJxWHc%3D&tokenuser="
+            },
+            {
+                "table_id": 2186,
+                "title": "Institusi Lembaga non-profit yang melayani Rumah Tangga – Neraca Institusi Terintegrasi (Triliun Rupiah), 2016 – 2023",
+                "subj_id": 178,
+                "subj": "Neraca Institusi Terintegrasi",
+                "updt_date": "2025-03-27 00:00:00",
+                "size": "192.5 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=JVAYFq0dkh0akTE55z%2BUu284RjNvdmFCdENid2dBNmdUSklvYXVkN2QvclZVYzlNVUdrN095cnB5eUx5cDJzS1ovMTc3ZGlURlI0SXRycFk%3D&tokenuser="
+            },
+            {
+                "table_id": 2184,
+                "title": "Institusi Pemerintah – Neraca Institusi Terintegrasi (Triliun Rupiah), 2016 – 2023",
+                "subj_id": 178,
+                "subj": "Neraca Institusi Terintegrasi",
+                "updt_date": "2025-03-27 00:00:00",
+                "size": "198 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=JwpEwDb%2BVbvmsqkiBJBQklhaV3ZlSzk2OGdqemwxblF5SW1jWjFORTVsQ3lNZlF0YjJScXRzQk9jMFEzbGliT2QzZXNsMTNVMHRYY0gwOVo%3D&tokenuser="
+            },
+            {
+                "table_id": 1814,
+                "title": "Sistem Neraca Sosial Ekonomi Indonesia Tahun 2022 dalam Format SNA 1968 (44 x 44)",
+                "subj_id": 104,
+                "subj": "Neraca Sosial Ekonomi",
+                "updt_date": "2025-03-06 10:32:15.935828",
+                "size": "0.03 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=q4pPPUO%2BTlygCYzDQIikeE5NM3ZWRWtEdUtyUzJGV0dtSzVpb05iYWUvdGxPRU16dHhiSExxc3JSNjlOejFOSEw2clZmVVRwSXVOb21JeHM%3D&tokenuser="
+            },
+            {
+                "table_id": 1815,
+                "title": "Sistem Neraca Sosial Ekonomi Indonesia Tahun 2022 dalam Format SNA 1968 (65x65)",
+                "subj_id": 104,
+                "subj": "Neraca Sosial Ekonomi",
+                "updt_date": "2025-03-06 10:29:33.570601",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=TYWM%2BB7QeIsbToSdVlqqfGZta1VxRkt5TnRjcUdFUkZPR29RN2ZYb09qWHRSZWs1cGM5aS9DZGY4YnlBeTlnOFR4RUpmazcxaGZqRjJRQ0c%3D&tokenuser="
+            }
+        ]
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 57,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 1852,
+                "title": "Nilai Produksi dan Biaya Produksi per Trip Usaha Penangkapan Ikan di Laut Menggunakan Kapal Motor dan Perahu Motor Tempel, 2014",
+                "subj_id": 56,
+                "subj": "Perikanan",
+                "updt_date": "2015-09-25 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=WWVC5WkhCf5MujKc%2B88Uc29PWStEbEQrcGR3ZnUyTjRpdm5BU1loMFArbjA5K0ZScEpHZTk2Vm45c1lBbFU5Tk4rSGw0VnpFdG1KZjErSHI%3D&tokenuser="
+            },
+            {
+                "table_id": 911,
+                "title": "Indeks Harga Konsumen per Kelompok di 66 Kota (2007=100), 2000-2012",
+                "subj_id": 3,
+                "subj": "Inflasi",
+                "updt_date": "2015-09-23 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=PJU3YI9H917Q0iI35yw%2BOThod2VBdmp4dmpvRzh5akZnYUIzOHBuRGkyamRwTEVFNmJCM0pPTDJoYnV4aStTT3pwVktKenpSRjluMkliTzY%3D&tokenuser="
+            },
+            {
+                "table_id": 1841,
+                "title": "Nilai Produksi dan Biaya Produksi Rumah Tangga Usaha Peternakan Menurut Jenis Ternak, 2014",
+                "subj_id": 24,
+                "subj": "Peternakan",
+                "updt_date": "2015-09-21 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=1rzjWpkLVAmMN64TrqwRiDlTYVl5RC9scllZWFFDNDUrY3F0UTgxb3M3Rm1DKzNvRDhkTnRiNC96RGJQbVp0dTE5WFVIWlpXSjJSMzF2alo%3D&tokenuser="
+            },
+            {
+                "table_id": 1818,
+                "title": "Rata-Rata Pendapatan Kapital per Kapita Menurut Golongan Rumah Tangga (ribu rupiah), 2000, 2005, dan 2008",
+                "subj_id": 104,
+                "subj": "Neraca Sosial Ekonomi",
+                "updt_date": "2015-09-10 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=mcFBV7am1pxaxzCTFA0wa3dJbkhqV2V2MnRZWlZ4dTlCdE9kVzFySGQ1aSt4b0dGd0tGczNXUTRjaEpmN3YzM3lvM2FZOEE0SzZlOVZCSXg%3D&tokenuser="
+            },
+            {
+                "table_id": 1804,
+                "title": "Anggaran Belanja Pemerintah Pusat Berdasarkan Fungsi (miliar rupiah), 2013–2015",
+                "subj_id": 101,
+                "subj": "Pemerintahan",
+                "updt_date": "2015-09-09 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=IGijKor6Y9lEICJO%2FaNOxnV3ZkFidkMyaDh0SmxYRTk3QnV1ekRNdWdUU0tEWERlZEhCRmpoVVhBemhDQVpqVmRCb3NDZU54S1dmNjFFYS8%3D&tokenuser="
+            },
+            {
+                "table_id": 1178,
+                "title": "Anggaran Pendapatan dan Belanja Negara (miliar rupiah), 2007-2015",
+                "subj_id": 101,
+                "subj": "Pemerintahan",
+                "updt_date": "2015-09-09 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=DYE9%2BLHfJdpdiZHH8rvox2FYU3FRdjBRY0VGNnRyTENDQ2Q0TzByZUVURW5LdWxXWm15bzRwbHV3MjVjbVFHQTNvMnRtNEU0WnNvazFkbWs%3D&tokenuser="
+            },
+            {
+                "table_id": 1453,
+                "title": "IHK dan Rata-rata Upah per Bulan Buruh Peternakan dan Perikanan di Bawah Mandor (Supervisor), 2012-2014 (2012=100)",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2015-07-31 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=PVd1RPlaXA3aZIWTHiJHQHdra0lVTXBWcGowdC8vaEJPcFJsUjJiQkpab0dDK1I2NjRub000bkdmMmZNTDYwQkxUMmR6clZFaDl3U3VQNEw%3D&tokenuser="
+            },
+            {
+                "table_id": 1452,
+                "title": "IHK dan Rata-rata Upah per Bulan Buruh Perdagangan di Bawah Mandor (Supervisor), 2012-2014 (2012=100)",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2015-07-31 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=1vYAdE2eokBumL%2B%2BSmU3WWdacmlpeG5UQTJtWW5oRlNJWkphWG1EZmIvUWpYeVV3SllYZnEvdnVuVWppQ2Q5bWZEVk00S1UvV2pJVGppN3U%3D&tokenuser="
+            },
+            {
+                "table_id": 1451,
+                "title": "IHK dan Rata-rata Upah per Bulan Buruh Pertambangan di Bawah Mandor (Supervisor), 2012-2014 (2012=100)",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2015-07-31 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=f7krAqVGQ52YTH3gomW2x0RoQXJtdWRqY1U4MStqRXlzU0JvVXFBaGdiT0ZPTnduckxJMmRKVUtONkhFd3g4VnRkWkcxWitXRytHNFlueGE%3D&tokenuser="
+            },
+            {
+                "table_id": 1450,
+                "title": "IHK dan Rata-rata Upah per Bulan Buruh Hotel di Bawah Mandor (Supervisor), 2012-2014 (2012=100)",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2015-07-31 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=OVfX4NqHOL01jeHxQ%2BDwoHNsSUZpSUYxVG0vUHNjRTN0dllzR1JWZ1RRQjFGbHNsWHBhUS9sSkdOTVNuOTljOENYUE9wVTJzcGhTOERqZ04%3D&tokenuser="
+            }
+        ]
+    ]
+}

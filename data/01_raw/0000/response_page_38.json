@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 38,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 2046,
+                "title": "Rata-rata Upah/Gaji Bersih Sebulan Buruh/Karyawan/Pegawai Menurut Pendidikan Tertinggi yang Ditamatkan dan Jumlah Jam Kerja Seminggu dari Pekerjaan Utama (Rupiah), 2018",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2019-03-06 10:24:30.542873",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=NlhA1YwtQSRFLreGkKcP9Hd4Zkl3VTlCOTl3V1l3a2pKWnFDSGZJL2tySUFjSTU2NXVzaFA1QlRCYWdRdmNEOTlzaXEvcGo5OENjTmlUaGI%3D&tokenuser="
+            },
+            {
+                "table_id": 2045,
+                "title": "Rata-rata Upah/Gaji Bersih Sebulan Buruh/Karyawan/Pegawai Menurut Pendidikan Tertinggi yang Ditamatkan dan Jenis Pekerjaan Utama (rupiah), 2018",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2019-03-06 10:23:02.152667",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=7xqeMJhN9vhBeHzYTbzALEdwWmdnbVlMUTdhZVJsOG8vTkRseVlvRXMrbG5ubUNxbURabC8vUE8xckJBcHlGRCtuVjVTM1QzcERkR01nUHc%3D&tokenuser="
+            },
+            {
+                "table_id": 2044,
+                "title": "Rata-rata Upah/Gaji Bersih Sebulan Buruh/Karyawan/Pegawai Menurut Kelompok Umur dan Lapangan Pekerjaan Utama di 17 Sektor (Rupiah), 2018",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2019-03-06 10:21:34.259804",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=eKk1kjaiqu8LACTpf2G21HhveDhMT29UZFI5S1daVXE3TTh1azIrS0prcEV0Zk9zVi9yd3V5SGU4ZnZsaEtnRHhQK2tJWndmT1M2aytFK3I%3D&tokenuser="
+            },
+            {
+                "table_id": 2043,
+                "title": "Rata-rata Upah/Gaji Bersih Sebulan Buruh/Karyawan/Pegawai Menurut Kelompok Umur dan Jenis Pekerjaan (Rupiah), 2018",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2019-03-06 10:20:18.451131",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=aEpxwB9WHBfoIorhHqfkEzVFRkJMZllwZzJpL3g1WjFYTTFwOTdIMGRQb2xNN0tXdC9qYVJpeDJJaVF4Y2JueDBvZkdiUEd2bXljQkoyeE4%3D&tokenuser="
+            },
+            {
+                "table_id": 2042,
+                "title": "Rata-rata Pendapatan Bersih Pekerja Bebas Menurut Provinsi dan Pendidikan Tertinggi yang Ditamatkan (ribu rupiah), 2018",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2019-03-06 10:18:54.601171",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=3mrlTjNafNN1cBiCcEa8dUo5eE9RT2VzN2hDRU14SmV0cXFhaXhlUk10bnFabWptWXpucTFMdXQ0bG5IUzhsUjdFQkVuOHkwTVhEN1hOUXA%3D&tokenuser="
+            },
+            {
+                "table_id": 2041,
+                "title": "Rata-rata Pendapatan Bersih Pekerja Bebas Menurut Provinsi dan Lapangan Pekerjaan Utama (ribu rupiah), 2018",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2019-03-06 10:13:20.28852",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=Ipkf8Svm2Agca5MK0ihGhURZRzBHSC9hTm5hRDNlNUd0VDBHYzZEY2RURDRUakFHZW9oYlprTFlhNE9iellIMVF0NWJWL0k2TTNQem05US8%3D&tokenuser="
+            },
+            {
+                "table_id": 2040,
+                "title": "Rata-rata Pendapatan Bersih Pekerja Bebas Menurut Provinsi dan Kelompok Umur (ribu rupiah), 2018",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2019-03-06 10:11:20.666708",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=Pf83xYYiY%2FkHdAMONxFysUJ3ZGtuOGpsYkt5SC95QWZVUVM2SURLLzJ5VmpzT3BpWEMrU3hIUzVySTVXQjNMTlhsRWVXRHNCc1Nadjh0SWU%3D&tokenuser="
+            },
+            {
+                "table_id": 2039,
+                "title": "Rata-rata Pendapatan Bersih Berusaha Sendiri menurut Provinsi dan Pendidikan yang Ditamatkan (ribu rupiah), 2018",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2019-03-06 10:10:11.571682",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=uwSjUSmsYSDp4NkGj%2B%2FbZWlPYnJrc0RjK3hMdkFRTzF6U0Fuc1hSU0RBZVc5UGdKKzBTWlBDdDVlZklpVm9MM2Q2L1FxTnN6ek1WZnpzUUk%3D&tokenuser="
+            },
+            {
+                "table_id": 2038,
+                "title": "Rata-rata Pendapatan Bersih Berusaha Sendiri Menurut Provinsi dan Lapangan Pekerjaan Utama (ribu rupiah), 2018",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2019-03-06 10:08:47.531955",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=cZuhZpUDQmeX0XaiBjuiVmJOSjVFUU1DRkxxVS9RYzFVbUdxb1JYaEdkWEpXQWNSNlNYUlJvZkxlelFuK2xMNXkvdUZGSTF2QXZMSEhNU1g%3D&tokenuser="
+            },
+            {
+                "table_id": 2037,
+                "title": "Rata-rata Pendapatan Bersih Berusaha Sendiri Menurut Provinsi dan Kelompok Umur (ribu rupiah), 2018",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2019-03-06 10:07:38.848246",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=wLelS4nKgxP4Mts4jLzQajFrd2E2STdBdEQzdzJCQWRYT1k4aE1zMlZCZnVWMGFTNUdmSnAzQ2dwQ0VIYkNHK004eVR5VHcvZmxMa2VVNk4%3D&tokenuser="
+            }
+        ]
+    ]
+}

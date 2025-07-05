@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 69,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 1130,
+                "title": "Ringkasan Neraca Arus Dana, Triwulan II, 2008, (Miliar Rupiah)",
+                "subj_id": 100,
+                "subj": "Neraca Arus Dana",
+                "updt_date": "2012-02-13 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=w7yp4OY9i%2Flh77HlCAtC9zlYYU5CZmxycDZ1MStGZUpnWmJTSXVXdUo5UGZid05NaUhxZHJmaWl0T1pRaUlveWJrazNGaDJBeDdIOVhIY3o%3D&tokenuser="
+            },
+            {
+                "table_id": 1299,
+                "title": "Rata-rata Harga Valuta Asing Terpilih menurut Provinsi 2010",
+                "subj_id": 13,
+                "subj": "Keuangan",
+                "updt_date": "2011-03-25 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=sz47RX3pupdRsjNrtqAvjVg2bVZWOWdSTGlYZXlaQitSYm5CMFNjVkVKWCtWcGgzdEE3V2ZEdnpicG1UdEwxZjBtNWpvbEY0WmZPR0I2MG0%3D&tokenuser="
+            },
+            {
+                "table_id": 1300,
+                "title": "Rata-rata Harga Valuta Asing Terpilih menurut Provinsi 2009",
+                "subj_id": 13,
+                "subj": "Keuangan",
+                "updt_date": "2010-08-26 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=lHuqdjZRU2h2QI6XC9mfm0FIdDQ1VUlPcHdBVldRd1lkM2EzcEx5bG9TcG82aXIwOWNkZzAzYXN2anJ6cDU3Q3BickQ1bUxmMDNudUF1Mjg%3D&tokenuser="
+            },
+            {
+                "table_id": 1129,
+                "title": "Ringkasan Neraca Arus Dana, Triwulan I, 2008, (Miliar Rupiah)",
+                "subj_id": 100,
+                "subj": "Neraca Arus Dana",
+                "updt_date": "2010-02-05 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=vPWSTOegj4nIejCxII%2BqCCtSai9wbDcwSHlLS0wzNmdOdTVqTjdCK050OG03c29lUzlrM0JHaVV2NVJKUUJrWWVqVkNGR3IzVjJ5R3U2eDY%3D&tokenuser="
+            },
+            {
+                "table_id": 1103,
+                "title": "Ringkasan Neraca Arus Dana, 2002, (Miliar Rupiah)",
+                "subj_id": 100,
+                "subj": "Neraca Arus Dana",
+                "updt_date": "2010-01-27 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=q59iVG1pPF02j1iewLuOxjRMamhwQjRGaUkxT0N6WURHM2Z3bnRRWndYQTlVUjEzY3YwSXNpMkpkRktqQW1JKzdMVmQyYStRQ0hmMHlTUno%3D&tokenuser="
+            },
+            {
+                "table_id": 1102,
+                "title": "Ringkasan Neraca Arus Dana Triwulan Keempat, 2002, (Miliar Rupiah)",
+                "subj_id": 100,
+                "subj": "Neraca Arus Dana",
+                "updt_date": "2010-01-27 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=js3%2F35cr0%2BgNtAQcawDNNjZlNlFDL2VwSHRRUXBWNHhuc0EzSXhYcGQ3RnBrNk9zLy8vclhhUzRBS2FEeEQ1WU56UXdxSCtyaFhoV1NHemQ%3D&tokenuser="
+            },
+            {
+                "table_id": 1101,
+                "title": "Ringkasan Neraca Arus Dana Triwulan Ketiga, 2002, (Miliar Rupiah)",
+                "subj_id": 100,
+                "subj": "Neraca Arus Dana",
+                "updt_date": "2010-01-27 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=bZQsif1OZ%2FX%2FiztLhfMmelpaVUpEUW9paFN1SnVmTTNmTXA1N2p6STdMb1NrNnFaMGFPZ1ozRTM2Q01URWMvK2JQQ2tzWHJ1RXVHVTNMcHo%3D&tokenuser="
+            },
+            {
+                "table_id": 1100,
+                "title": "Ringkasan Neraca Arus Dana Triwulan Kedua, 2002, (Miliar Rupiah)",
+                "subj_id": 100,
+                "subj": "Neraca Arus Dana",
+                "updt_date": "2010-01-27 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=Fw%2Bghjlc%2BgQscwC7l9%2FeQmRMd01UZFZLd1RvSlg2ekdYc05LaG4zUnVtMWJNNWlSdFRlNXNURzhPVC9IU2ZmMjVUTW5xdXRXdXRFc0lmRXg%3D&tokenuser="
+            },
+            {
+                "table_id": 1099,
+                "title": "Ringkasan Neraca Arus Dana Triwulan Pertama, 2002, (Miliar Rupiah)",
+                "subj_id": 100,
+                "subj": "Neraca Arus Dana",
+                "updt_date": "2010-01-27 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=nX85jpHzUU81wfHk0%2FKsw1p5YWtaY3VNSzVBSDRqclA2YjhGdC9jSHhpUGwvY3dWbC9SbEt2RmpJVEljcHBTS3lGT2UwbmxoM2djYk4xd0U%3D&tokenuser="
+            },
+            {
+                "table_id": 1561,
+                "title": "Balita (0-59 Bulan) Menurut Status Gizi, Tahun 1998-2005",
+                "subj_id": 30,
+                "subj": "Kesehatan",
+                "updt_date": "2010-01-20 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=7HAaADbhp3mTcfTR%2FA%2BgvWllUmV1SDVjSTJLMWFPcWNaTjl3T0FEayt3Y1NzVHIwd0xrOHBPYjdWcUtiTHJZU3NsdXNkTzFRVDE2RGw0TjM%3D&tokenuser="
+            }
+        ]
+    ]
+}

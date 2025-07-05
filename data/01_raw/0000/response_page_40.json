@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 40,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 1997,
+                "title": "Rata-rata Pendapatan Bersih Berusaha Sendiri menurut Provinsi dan Pendidikan yang Ditamatkan (ribu rupiah), 2017",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2019-03-06 09:25:23.926888",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=vlkyNalAYyPri66q72tAAmJuenBzd1VVZ2lzWDM3M3ZpcGRiSm5TVm42QlVSV3hpOW10R0VQSysxUytQRnY5YlZFdEl1QmtvSzc4YkpsSng%3D&tokenuser="
+            },
+            {
+                "table_id": 1952,
+                "title": "Rata-rata Pendapatan Bersih Berusaha Sendiri menurut Provinsi dan Pendidikan yang Ditamatkan (ribu rupiah), 2016",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2019-03-06 09:24:31.891208",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=LiKaDrmlHZ88riT1Rps0MktmVUt1MVJCUnVIV2pNcDVCcmRudmJsM2tiNTNnWFVnbnVKODRYQ2VLWENTQTAxVnhpb2JSbnpUWlpzOXNBNUU%3D&tokenuser="
+            },
+            {
+                "table_id": 1998,
+                "title": "Rata-rata Pendapatan Bersih Berusaha Sendiri Menurut Provinsi dan Lapangan Pekerjaan Utama (ribu rupiah), 2017",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2019-03-06 09:21:34.656358",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=t%2BUUQ%2BcSx5xyWnKicuCRTXl1V29GNjM1YnNJSzhpOHNlK1hDQkdsdDhMOVhoR01xNWw3UzhGSWg3S3AvVmdoN2JJQkpaQUxrb0xydjFaWW4%3D&tokenuser="
+            },
+            {
+                "table_id": 1953,
+                "title": "Rata-rata Pendapatan Bersih Berusaha Sendiri Menurut Provinsi dan Lapangan Pekerjaan Utama (ribu rupiah), 2016",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2019-03-06 09:20:59.711478",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=LNTxVA1dXxZ6wWhqPaWl0HI0SEM3dkZRUGkya3hTODVEM3IvY0lvTWxoWlNVcWI5dUJhclZHRk9hVk05aUgvVkdIUU5vYzFYUGp5SWJGQlQ%3D&tokenuser="
+            },
+            {
+                "table_id": 1999,
+                "title": "Rata-rata Pendapatan Bersih Berusaha Sendiri Menurut Provinsi dan Kelompok Umur (ribu rupiah), 2017",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2019-03-05 13:49:31.637903",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=mqOrk%2BjtC2z9c3WE%2Bzy1WzRXSEVvV0YrZHplaDVzRFo3Zk5BK2ZCa3EzSjlEa0xKSmp1eEtUdDFscjBzS3FBZGl1SklRclB5NGVOa0x5a1M%3D&tokenuser="
+            },
+            {
+                "table_id": 1760,
+                "title": "Banyaknya Desa/Kelurahan Menurut Jenis Bahan Bakar untuk Memasak yang Digunakan oleh Sebagian Besar Keluarga dan Keberadaan Agen/Penjual Bahan Bakar, 2014 & 2018",
+                "subj_id": 168,
+                "subj": "Potensi Desa",
+                "updt_date": "2019-02-08 15:41:35.647982",
+                "size": "0.06 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=UxO84wCDgSs6mJ2STnIJ7mJDS2VYbjMxMDJMU1dabVpIcG1OaVJYTjZia1k4QzA1SnRQNHBtVk5ybkxqSktEMXRaTTFpUUZHeDVZRGhJYks%3D&tokenuser="
+            },
+            {
+                "table_id": 1769,
+                "title": "Banyaknya Desa/Kelurahan Menurut Keberadaan Kelompok Pertokoan, Pasar, dan Kios Sarana Produksi Pertanian (Saprotan), 2014 & 2018",
+                "subj_id": 168,
+                "subj": "Potensi Desa",
+                "updt_date": "2019-02-08 14:12:52.454145",
+                "size": "0.06 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=K6Pst9Ty2Rax%2FCIP7228o0dLa01vSGhkOVZwSDFscldjamZuWHhIeERZVUF6K1lTc3ZtdG9SRWdUQTNWTnZya3MzWk1sWHQxUnk5VnNwME4%3D&tokenuser="
+            },
+            {
+                "table_id": 1759,
+                "title": "Banyaknya Desa/Kelurahan Menurut Keberadaan Keluarga Pengguna Listrik dan Sumber Penerangan Jalan Utama Desa, 2014 & 2018 ",
+                "subj_id": 168,
+                "subj": "Potensi Desa",
+                "updt_date": "2019-02-07 15:36:38.848309",
+                "size": "0.06 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=xkX84plXtVTeLe8PZEoglTFvNlFIaEpoeWtxNm5JUzBPM1I2cjFLWWxmazlHNXh0d3kvckxrYkdodnhZTEpxbFh5Rm11K1BxRjFCRTBEczk%3D&tokenuser="
+            },
+            {
+                "table_id": 1710,
+                "title": "Jumlah Perahu/Kapal Menurut Provinsi dan Jenis Perahu/Kapal, 2000-2016",
+                "subj_id": 56,
+                "subj": "Perikanan",
+                "updt_date": "2019-01-10 11:21:33.645376",
+                "size": "0.08 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=yAH7QN6%2F4G7FfCcJAzYfyllJZllsTmZ1SkppSFNTVHBiM21Ec2l3YXRJbndxK0pDaWExZmZQcGc0ZEp6N0dnaTE3c25MaU9nS0Q2UDl2NEg%3D&tokenuser="
+            },
+            {
+                "table_id": 1387,
+                "title": "Jumlah Kunjungan Wisatawan Mancanegara ke   Indonesia Menurut Pintu Masuk, 1997-2017",
+                "subj_id": 16,
+                "subj": "Pariwisata",
+                "updt_date": "2018-11-01 14:16:17.178649",
+                "size": "0.03 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=MFDDvsfp%2B4O6qNbCpg%2BqHWZyNE9FSENRbGlmMnp3QXFVaFZvQzNxb2dHSWl3Tm5ZQlhEcUNBQjAxWks2alVUWnFNRitmNUphMFh3WGplWlA%3D&tokenuser="
+            }
+        ]
+    ]
+}

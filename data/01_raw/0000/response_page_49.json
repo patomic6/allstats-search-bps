@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 49,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 1961,
+                "title": "Suhu Minimum, Rata-Rata, dan Maksimum di Stasiun Pengamatan BMKG (oC), 2011-2015",
+                "subj_id": 151,
+                "subj": "Iklim",
+                "updt_date": "2017-11-14 00:00:00",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=mm4BKoDbXzhHZiXZyHYuY3RVRWZKemNxTHRBcTZjQldQaEtxUkNGdUdWVGNaU0dhd0dEMEU0WDFycGRMU0JTZzFWWEJPTkhQVUJGeXRqSVg%3D&tokenuser="
+            },
+            {
+                "table_id": 1840,
+                "title": "Jumlah Perguruan Tinggi 1, Mahasiswa, dan Tenaga Edukatif (Negeri dan Swasta) di Bawah Kementrian Agama Menurut Provinsi 2013/2014 - 2015/2016",
+                "subj_id": 28,
+                "subj": "Pendidikan",
+                "updt_date": "2017-11-14 00:00:00",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=E37r3TYDk5SNFed2JTzN3UFiZE5aNUg4Vk1QRnRyUGVwbmNMKzBxZ0VGY1dUVDVzSVhFdUc5UGh1UGdXSk5HMmJFNTNkc2lCbk1FelBGRkk%3D&tokenuser="
+            },
+            {
+                "table_id": 1838,
+                "title": "Jumlah Sekolah, Guru, dan Murid Sekolah Menengah Kejuruan (SMK) di Bawah Kementrian Pendidikan dan Kebudayaan Menurut Provinsi tahun ajaran 2011/2012-2015/2016",
+                "subj_id": 28,
+                "subj": "Pendidikan",
+                "updt_date": "2017-11-14 00:00:00",
+                "size": "0.03 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=Oiij%2F9iApQlPuVUfN8s2eHBrR29qbDJTME1PSjNRRGpmamdCMXIwdW9RcjdtUnZxOFV3ZGRJU2ZTUUlBNFdxOEpLY1RBQVdxRVdMbStOK1g%3D&tokenuser="
+            },
+            {
+                "table_id": 1836,
+                "title": "Jumlah Sekolah, Guru, dan Murid Madrasah Tsanawiyah (MTs) di Bawah Kementrian Agama Menurut Provinsi tahun ajaran 2011/2012-2015/2016",
+                "subj_id": 28,
+                "subj": "Pendidikan",
+                "updt_date": "2017-11-14 00:00:00",
+                "size": "0.03 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=woiwjZ7KX70KFQtqspyc8jFPN2lsYjk2TjdhYnVQVHg3a2VaTklIOWlJV25kWWdGdURla3hzK1EvSnJUWmVUbWtGZDRsb1NOaUwyY1I5THQ%3D&tokenuser="
+            },
+            {
+                "table_id": 1810,
+                "title": "Jumlah Sekolah, Guru, dan Murid Sekolah Dasar (SD) di Bawah Kementerian Pendidikan dan Kebudayaan Menurut Provinsi Tahun Ajaran 2011/2012-2015/2016",
+                "subj_id": 28,
+                "subj": "Pendidikan",
+                "updt_date": "2017-11-14 00:00:00",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=BZGgazNXA%2BCCke%2FDINCRY09mQW9IK3dxVVhKY29BNy9pZ1JtbUp0d0dsUXM3Z0c1MHdFZjRUWGlsRkpERXJ1Z3AwcWNXUVdwOEVzd1c4OHc%3D&tokenuser="
+            },
+            {
+                "table_id": 1809,
+                "title": "Jumlah Sekolah, Guru, dan Murid Taman Kanak-Kanak (TK) di Bawah Kementrian Pendidikan dan Kebudayaan Menurut Provinsi tahun ajaran 2011/2012-2015/2016",
+                "subj_id": 28,
+                "subj": "Pendidikan",
+                "updt_date": "2017-11-14 00:00:00",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=VWp1Z8fb1vFYc9lryxqMx0lhQ3VjZUFmRXB2Z1ZXSWhkWDZienVESFlGYkw5Q2Y1bkFqM3FUeG1VaVNlcStmemxwV3RzUXpLODBqbGlPSEk%3D&tokenuser="
+            },
+            {
+                "table_id": 1534,
+                "title": "Jumlah Sekolah, Guru, dan Murid Madrasah Aliyah (MA) di Bawah Kementerian Agama Menurut Provinsi, tahun ajaran 2005/2006-2015/2016",
+                "subj_id": 28,
+                "subj": "Pendidikan",
+                "updt_date": "2017-11-14 00:00:00",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=DgVMtNZiEkIXoIG%2FddaiQ2dKajNVY2VWS29hU2k4eWl4SGMyWHlFUkxDUzVYQUpxQzZLWFAxbnlSZnpwZ1Jad1BoVWZyRG41ckRha1ljaEI%3D&tokenuser="
+            },
+            {
+                "table_id": 1361,
+                "title": "Persentase Rumah Tangga Menurut Provinsi dan Sumber Air Minum 2000-2016",
+                "subj_id": 29,
+                "subj": "Perumahan",
+                "updt_date": "2017-11-14 00:00:00",
+                "size": "0.09 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=J3n5rCz9CjFoUj74g7v4TEhzOVduQmRNMVJTeXlYUmh0THZNVnhqekxGdGsyZmlRZXF6NE5ZemJSdktubVBjSngxdVEvREdhaGxESEd1SGk%3D&tokenuser="
+            },
+            {
+                "table_id": 1349,
+                "title": "Jumlah Curah Hujan dan Jumlah Hari Hujan di Stasiun Pengamatan BMKG, 2000-2010",
+                "subj_id": 151,
+                "subj": "Iklim",
+                "updt_date": "2017-11-14 00:00:00",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=thLflPascHJx1%2BP7nY0uLysraGoveWppS1AxNnJaNmVQNVczQ0dVZVNLSyt0dmhMVVpZZzRKUVA3QTdrNkM1UEhiRDk1anEvcGE1aHJFRDA%3D&tokenuser="
+            },
+            {
+                "table_id": 964,
+                "title": "Rata-Rata Pengeluaran per Kapita Sebulan di Daerah Perkotaan dan Perdesaan Menurut Kelompok Barang dan Golongan Pengeluaran per Kapita Sebulan, 2013-2016",
+                "subj_id": 5,
+                "subj": "Konsumsi dan Pengeluaran",
+                "updt_date": "2017-11-01 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=Y2PS63CzIqcJ73O6ZOQudjg1YXlFVFN6UXJMUnJ6ejRaaDVGcUhQSDMzdkw2dU04TDVzU0tVYm5JNWpETmJ5QjVSVG10SHpwNUdFd0QxL2Q%3D&tokenuser="
+            }
+        ]
+    ]
+}

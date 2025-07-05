@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 28,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 1309,
+                "title": "Posisi Tabungan pada Bank Umum Menurut Jenis Tabungan<sup>1</sup> (miliar rupiah), 2000-2021",
+                "subj_id": 13,
+                "subj": "Keuangan",
+                "updt_date": "2022-02-24 17:27:45",
+                "size": "0.03 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=PCyM0qgEOo1JTxJnqEZwsEYwb0g5V3pmTmZXcmY4dFQ2TXNpR0o2WkNvM0l6THVYaVVsalc3UUQ1Z0pUZ0RtWjhWUlUzYkZCRS83cU1sSFE%3D&tokenuser="
+            },
+            {
+                "table_id": 2001,
+                "title": "Pemberian Kredit oleh Lembaga-Lembaga Keuangan Lainnya (miliar rupiah), 2015-2021",
+                "subj_id": 13,
+                "subj": "Keuangan",
+                "updt_date": "2022-02-24 13:45:13",
+                "size": "0.03 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=6%2B6yFse0eF9zdIW%2BQhDpr2ROdWc1Yy9JajNpc1ErVU13cEZaSGpZc1BYaStxRTNISW5KdHUySXA2UkJVeVhmVXZkN1l0T2JONlJjQm5FdlQ%3D&tokenuser="
+            },
+            {
+                "table_id": 2082,
+                "title": "Bank dan Kantor Bank, 2014-2021",
+                "subj_id": 13,
+                "subj": "Keuangan",
+                "updt_date": "2022-02-22 15:02:15",
+                "size": "0.03 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=nIP4xAmsRchE1I10%2FYt28nlXZFpkZTZBaUg1alFzUXdNazhZNnJrblBtaStXaXlFZmFaUy9VbllGbnp0cXJiOHJwSGhmSE83anJPUmdRcnc%3D&tokenuser="
+            },
+            {
+                "table_id": 1707,
+                "title": "Jumlah Rumah Tangga Perikanan Budidaya Menurut Provinsi dan Jenis Budidaya, 2000-2016",
+                "subj_id": 56,
+                "subj": "Perikanan",
+                "updt_date": "2022-02-04 12:59:14.377922",
+                "size": "0.07 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=w3G50jXKafrvMMIenpRJiVc3THd1aDZFVkxEcXg4c1FnSERjcWppZEYwZTQ3QnhPbk42NkZ4R1FrWWhZQURDdnUweEo4OWU0MnhxRmZoQXY%3D&tokenuser="
+            },
+            {
+                "table_id": 1851,
+                "title": "Nilai Produksi dan Biaya Produksi per Hektar per Siklus Usaha Budidaya Rumput Laut, Bandeng, dan Udang Windu, 2014",
+                "subj_id": 56,
+                "subj": "Perikanan",
+                "updt_date": "2022-02-04 12:52:43.685556",
+                "size": "0.03 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=Mqu9T2ss00RAomJ32Q0SvGlKMldDdVVPeGRtMmI1KzJnYVgvVWFPbTBxQ3hoOVU3aHBJcStBN0tXZ3RVeTlUQWJBRW1kVmJBYVFQRldwYms%3D&tokenuser="
+            },
+            {
+                "table_id": 1712,
+                "title": "Luas Area Usaha Budidaya Perikanan Menurut Provinsi dan Jenis Budidaya (ha), 2005-2016",
+                "subj_id": 56,
+                "subj": "Perikanan",
+                "updt_date": "2022-02-04 12:46:49.145759",
+                "size": "0.09 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=8q2IWA4E9V1I0y2qj5Ec%2FHF5SE5hSkJDRkZ1TGpLMVBxWDgwem45WGR6eUw4emcybDgreWVMbXZ6Qk1QK3VGS1VpZ2NHQjg5S2cwMWxBazc%3D&tokenuser="
+            },
+            {
+                "table_id": 1704,
+                "title": "Jumlah Perahu/Kapal, Luas Usaha Budidaya dan Produksi menurut Sub Sektor Perikanan, 2002-2016",
+                "subj_id": 56,
+                "subj": "Perikanan",
+                "updt_date": "2022-02-04 12:30:32.532393",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=lolH9Gny7CDKtBpae%2Fh9lG1OY1ZaOG5OQ3kzQ3V4UmE2YW81L0tjUUUyNWtrZlRxajZEdk5GZTVqLzRwcFJUcGRzY3VCZFFMbFNRS0xiRzA%3D&tokenuser="
+            },
+            {
+                "table_id": 2134,
+                "title": "Rata-rata Upah/Gaji Bersih sebulan Buruh/Karyawan Pegawai Menurut Pendidikan Tertinggi dan Jumlah Jam Kerja Utama, 2021",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2021-12-31 08:40:26.394541",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=IMfEm0vh4P4pttFtmCvWA29sZFFrMFNNVlJPOG1qejV6RERFMk1oT1dJOE1XeHZQR01vWFlCMmh3WkNiNU81NHhUeUNxSVowWkNLclQ3Tzk%3D&tokenuser="
+            },
+            {
+                "table_id": 2132,
+                "title": "Rata-rata Upah/Gaji Bersih Sebulan Buruh/Karyawan/Pegawai Menurut Kelompok Umur dan Jenis Pekerjaan, 2021",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2021-12-30 13:50:47.704369",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=%2Fp%2BYEIOguOk5o%2BTgyKLkTFcwYkVEZ3FzNW9laXN6blJhS0hLcGJsNGFaZkNFdGYwSFdGOEJFbUU1ZWU3QTJ6UDBYeEJlSW5sckQ5WWx4bzU%3D&tokenuser="
+            },
+            {
+                "table_id": 2130,
+                "title": "Rata-rata Upah/Gaji Bersih Sebulan Buruh/Karyawan/Pegawai Menurut Provinsi dan Lapangan Pekerjaan Utama, 2021",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2021-12-30 13:47:38.302637",
+                "size": "0.06 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=e7CIx6MSDAa48DCVO4IlwEh1MEhvTEo0M2NTOVovbm5YaWx3S0hDUWpPN3AzNWN4UFpsNkwvMlRyb2RDTHQvSXFCVzJlSU9sSW0yRzViM2M%3D&tokenuser="
+            }
+        ]
+    ]
+}

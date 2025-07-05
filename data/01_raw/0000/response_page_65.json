@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 65,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 1312,
+                "title": "Pembayaran Utang Luar Negeri Indonesia (juta US$), 2006-2012",
+                "subj_id": 13,
+                "subj": "Keuangan",
+                "updt_date": "2014-01-15 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=O8ir0jvwoV7lOyUS%2FXVcEERlcTdtbzlEOU5XZEpVQU9VL0RLcEU0L01zWU8vQ01RMzhJZ1lveDJGUDNkY3g4SUZMdEpjaER0TlRxVkFmTkg%3D&tokenuser="
+            },
+            {
+                "table_id": 1466,
+                "title": "Upah Nominal dan Riil Buruh Tani di Indonesia (Rupiah), 2008-2013 (2007=100)",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2014-01-06 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=FbbGC%2BLZuCd57m6RXirPXzkxTE14b2VwNHNmVWo2NjF3YnhjNDY2L0lHZVFObWowZkNlODRyNURkeTRnOXV0LzNJdUY5RFVZTWxDcGxob0M%3D&tokenuser="
+            },
+            {
+                "table_id": 1735,
+                "title": "Kata pengantar",
+                "subj_id": 81,
+                "subj": "Survei Sosial Ekonomi Nasional",
+                "updt_date": "2013-08-28 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=zyvRP7%2BCei57XHSDsriadEZlRG1Uc01UN2VHQWdEZlZ4OEd0SUxvWmlUZld4d3dCT1M0WVdEYVBBNmYzaUxDNzR2Mmw3Z0ZLZ213RER0eGo%3D&tokenuser="
+            },
+            {
+                "table_id": 1297,
+                "title": "Rata-rata Harga Valuta Asing Terpilih menurut Provinsi, 2012",
+                "subj_id": 13,
+                "subj": "Keuangan",
+                "updt_date": "2013-01-31 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=p6qokLxowh2JfcWJunrMbStycG1uZTI2alRYVTkvcEloOFgrb0w4MU9sWS9MaW9aL2FodUd2cmtZT2hBcGtDQkN4K1Q2bElrNVVmcG45YlU%3D&tokenuser="
+            },
+            {
+                "table_id": 1608,
+                "title": "Persentase Penduduk Berumur 15 tahun Ke Atas menurut Jenis Kegiatan Seminggu Yang Lalu, 2009-2012",
+                "subj_id": 40,
+                "subj": "Gender",
+                "updt_date": "2013-01-30 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=WzpHST7uGqv5si01TOhfkDYvOHJNcCtCY2xISmJWSktqYUNhaW5IN3JFQ1JzZ0Q4OXpUWll5TWRaMTNUZ0U0SVlOZVhJV0QrOE83TktqMkQ%3D&tokenuser="
+            },
+            {
+                "table_id": 1138,
+                "title": "Ringkasan Neraca Arus Dana, 2009, (Miliar Rupiah)",
+                "subj_id": 100,
+                "subj": "Neraca Arus Dana",
+                "updt_date": "2013-01-25 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=K%2FxCrF8otozHnTi8vf7CN0tBL2Y2azJ6ZUNRYTN3UGlVZitnWU1tWjN2dzI2UDVDbHVkR0NBTXdXTnFuZXRRRGhRZDhmZDQzdHNITDVrL0k%3D&tokenuser="
+            },
+            {
+                "table_id": 1137,
+                "title": "Ringkasan Neraca Arus Dana, Triwulan IV, 2009, (Miliar Rupiah)",
+                "subj_id": 100,
+                "subj": "Neraca Arus Dana",
+                "updt_date": "2013-01-25 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=ZlZj7BbQ9FqS5Pxy1J33zW5Ta2lCQmNzcGZPdkhqdjB2TUJlVk1PRjJLR3ZQSTY1NUtINHR6b2xDM0FjZU1BR1dhUjJmb2pvNWVNcmxLd2Q%3D&tokenuser="
+            },
+            {
+                "table_id": 1136,
+                "title": "Ringkasan Neraca Arus Dana, Triwulan III, 2009, (Miliar Rupiah)",
+                "subj_id": 100,
+                "subj": "Neraca Arus Dana",
+                "updt_date": "2013-01-25 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=%2B8vmBnzONkCpiIW5GdzSF0M5SUZTRzNhQzJFWExIZWc4T1ZaQnI1NkJIYURjRlBpeHZDOUlGRUpYdjJ0VVp3MkM0V2hxYnFLclp4b2JVZDA%3D&tokenuser="
+            },
+            {
+                "table_id": 1135,
+                "title": "Ringkasan Neraca Arus Dana, Triwulan II, 2009, (Miliar Rupiah)",
+                "subj_id": 100,
+                "subj": "Neraca Arus Dana",
+                "updt_date": "2013-01-25 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=bi7x7a27BvHnJMDbglef%2B1ZacDZ0cmhjS041MkE5VURja3AwVmNHNGkydlowZG5VcHBONFVJR2dNSzlBWWdrTElDc0lJN1pFUWplbVRIWlg%3D&tokenuser="
+            },
+            {
+                "table_id": 1134,
+                "title": "Ringkasan Neraca Arus Dana, Triwulan I, 2009, (Miliar Rupiah)",
+                "subj_id": 100,
+                "subj": "Neraca Arus Dana",
+                "updt_date": "2013-01-23 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=PS7PeidTMakbYO%2FFQi3K83U3b05qcytZRFhmZElqQXNoSXNHbEs0UG1GSkx4STljYzJmWHVPYVExMjdDSncyQ1d3aGNzVlhlSVZkNWRYVFY%3D&tokenuser="
+            }
+        ]
+    ]
+}

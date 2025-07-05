@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 14,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 1008,
+                "title": "Nilai Ekspor Menurut Pelabuhan Utama (Nilai FOB: juta US$) 2000-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-07-26 12:09:53",
+                "size": "0.06 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=mV7YgPwfBh8aiOB30r1jmXFDV2s1OE9abWtLdCtDczZnTzBwU0ZrZXdiRnZOLzVOY1Z5NGtoM2kzRnNqMFF4T2tCVVJnZUN3UUpzS2NvZXE%3D&tokenuser="
+            },
+            {
+                "table_id": 1004,
+                "title": "Nilai Ekspor dan Impor Migas (juta US$) 1996-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-07-26 11:59:17",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=%2F2OKZAETo4m%2BYBTe1ZExjE44bkM0S0s3WkFGeE55NU14TWFVNGxNbjF1S3Y2VWpoYjBic0c3NGlYQWpBNEJRM1FYbFBRTW1pYUM4V0dJbm8%3D&tokenuser="
+            },
+            {
+                "table_id": 1009,
+                "title": "Volume Ekspor Menurut Negara Tujuan Utama (Berat bersih: ribu ton), 2000-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-07-26 10:28:24",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=hDL4cnxkpXzZKQLTm8mZ0U15STk4Uk93OWpWTDNtMmV0MytjUXhCTUFkdzh2UWRqa0lacmc0Q3QrWWlKWTcwNmpGL0E0Q21zaGhJS2kzWlg%3D&tokenuser="
+            },
+            {
+                "table_id": 1007,
+                "title": "Volume Ekspor Menurut Pelabuhan Utama (Berat bersih: ribu ton) 1996-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-07-26 10:19:00",
+                "size": "0.06 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=OCYg5OTmCAEy1qnl4%2BfhL1JXWFl4VWVQSEZDSEpJNVNpZzlWNW1OdzBqM1JhRmtxMXZmNW9mK3hiMHJaM3JHSDE5NExvQVNEK1NZWmhJTmI%3D&tokenuser="
+            },
+            {
+                "table_id": 1034,
+                "title": "Ekspor Batu Bara Menurut Negara Tujuan Utama, 2012-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-07-26 10:03:42",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=CDvqcluyHTpDy4N5JJVIy1JRMFBmcTRMNlMxS3J5NmNFUGxxRjdpYkoxOGIwd0NvNjI1ZjN1TWF2dHE0d3pUOUdSa2l0bHdwNForVDVCVkI%3D&tokenuser="
+            },
+            {
+                "table_id": 2028,
+                "title": "Ekspor Barang Perhiasan dan Barang Berharga Menurut Negara Tujuan Utama, 2012-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-07-25 15:54:14",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=UP3jiSLr%2Btgysao29mE9tVNyeml6b3NqUGl5clJ4bytmMDF3a1ZkcDEzdWVpd3ZLN0lXbFhUenl4K1FXdzFpMC9xay9DU3J1UVB4YjZsTm8%3D&tokenuser="
+            },
+            {
+                "table_id": 2033,
+                "title": "Ekspor Besi/Baja Menurut Negara Tujuan Utama, 2012-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-07-25 15:47:45",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=tNEg6Vz0vd2H6x3kt%2Fz7knYySU1BUnFEQ2lteXEzT1oxeXdyWitGRFRjb3FYMlYzd3NtUVcyOFlrOUt5bEVaU2VPR1RyWDhsV0IrUlFaMXA%3D&tokenuser="
+            },
+            {
+                "table_id": 2020,
+                "title": "Ekspor Buah-Buahan Tahunan menurut Negara Tujuan Utama, 2012-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-07-25 15:34:12",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=%2FYPNtNnP7uqhrUrDLUOghVR0YnVGb1NUaVRieXFIbUpyVmhtbWNIU2hKRysrN2ZRNmlsQ2paZGQ4N21qVWdybGxscmtlUGxKWExzVGoycXA%3D&tokenuser="
+            },
+            {
+                "table_id": 1013,
+                "title": "Ekspor Gas Alam Menurut Negara Tujuan Utama, 2000-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-07-25 15:25:05",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=Xi8sBwaljXAV4ePHKdK921lwTHhaMVMyREFwRmY2SUR5UTc4b2ljem5VR2FoODZ0ZlVrcG05bTVIR0Q1TDFwcy9EQktaRXZURnJZUExKRmY%3D&tokenuser="
+            },
+            {
+                "table_id": 1012,
+                "title": "Ekspor Hasil Minyak Menurut Negara Tujuan Utama, 2000-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-07-25 15:13:33",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=bnZaEg78yJvanYzp7hgKHVpHT05LNTI3RlNQR0s3NTFMY2JuRy9QQnp0U2d1TWkrNUFXVnhpSDBLL0dVdXM1enpnZCt1dm1Zd0xOZy9OTlA%3D&tokenuser="
+            }
+        ]
+    ]
+}

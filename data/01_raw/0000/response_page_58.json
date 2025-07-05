@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 58,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 1449,
+                "title": "IHK dan Rata-rata Upah per Bulan Buruh Industri di Bawah Mandor (Supervisor), 2012-2014 (2012=100)",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2015-07-31 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=hrMKZ%2FRRliPiWXtI3yIUnHJwLzdGL0hPbUkyUzBHMmp3ZGNyZGpwUmhIRUVZbTMyUTUwcm0vajNwTTB3enJCR3JkeTlyeFRHdFMwQmRZOVQ%3D&tokenuser="
+            },
+            {
+                "table_id": 1448,
+                "title": "IHK dan Rata-rata Upah per Bulan Buruh Peternakan dan Perikanan di Bawah Mandor (Supervisor), 2007-2014 (2007=100)",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2015-07-31 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=mGGgIyM4Rb2EmFVJEuXc0ytHdXVaNVZWM3M4SU9MbzAxd3FsdlFkZ2w0T3BkSFVibUVIRnZ0S3pGUUQ0aGZhZXBKbnNaY0ZjKzB0a1FjTjk%3D&tokenuser="
+            },
+            {
+                "table_id": 1447,
+                "title": "IHK dan Rata-rata Upah per Bulan Buruh Perdagangan di Bawah Mandor (Supervisor), 2007-2014 (2007=100)",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2015-07-31 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=7i9o7mVSdDoS2cscwOv%2FhG5sbGQ0ZVhSK1lsQnphOTI0ZmQ5QldUUkpGVkdxZ2g4ZWM3T1BZN1F2dXdjaXJqaTAvS2Zsd1FUcCtmdVg4blE%3D&tokenuser="
+            },
+            {
+                "table_id": 1446,
+                "title": "IHK dan Rata-rata Upah per Bulan Buruh Pertambangan di Bawah Mandor (Supervisor), 2007-2014 (2007=100)",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2015-07-31 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=yA%2FioEn4%2BEy8KMiduzMa4Gc2MjZxRGMvZlZzTWpneHBQTGtrVUVsWXFFcE4xbGtZTnAremtQVmU1cGJIZHlucVllVUw2Tkhid0FKdEZVRXA%3D&tokenuser="
+            },
+            {
+                "table_id": 1445,
+                "title": "IHK dan Rata-rata Upah per Bulan Buruh Hotel di Bawah Mandor (Supervisor), 2007-2014 (2007=100)",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2015-07-31 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=%2BJL5fimuWxDwUUZh5ymn0nZxNkxOUXNoUSs2anl3MktlNHZWWExZTUZEQXRQRlJIQXU0bEwvNlFnVUtxZnNyZ3V6bEhsMTRmcUNVWWkvR04%3D&tokenuser="
+            },
+            {
+                "table_id": 1444,
+                "title": "IHK dan Rata-rata Upah per Bulan Buruh Industri di Bawah Mandor (Supervisor), 2007-2014 (2007=100)",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2015-07-31 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=RjP8PL%2BlRKjmsVBV5eeVSFRwL3hWSzFFT01CcElRdEpFUWFMdjBsb1hwRmVwN3YvMENVS2VHZzJVVHhxOEZvYVNlbkhHbFJVRmRacjVmWWg%3D&tokenuser="
+            },
+            {
+                "table_id": 1443,
+                "title": "IHK dan Rata-rata Upah per Bulan Buruh Pertambangan di Bawah Mandor (Supervisor), 1996-2014 (1996=100)",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2015-07-31 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=%2F2iVcFgcixpv6RloGKFeV1diZ0NRWlI5OEdZMjhnV25XMWJFZ3IrUmFMYnpQdFEwRXB6MWQ2NWc5M0ZoRTRvYUFMdVVvZ0tUb0JYbEpRN3g%3D&tokenuser="
+            },
+            {
+                "table_id": 1442,
+                "title": "IHK dan Rata-rata Upah per Bulan Buruh Hotel di Bawah Mandor (Supervisor), 1996-2014 (1996=100)",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2015-07-31 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=9r8FuIaQP7GKOB%2B3VhN4WmhKYU1zelhqUnIrdFRtY2doTVZIUGNPVHkwdG52bzdUNFVQNkdkWm1mRThQdWd0a2IvME8wRzBsdEhwdFhxWHc%3D&tokenuser="
+            },
+            {
+                "table_id": 1441,
+                "title": "IHK dan Rata-rata Upah per Bulan Buruh Industri di Bawah Mandor (Supervisor), 1996-2014 (1996=100)",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2015-07-31 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=hkqPGkhmnKH8W4Y8NtVzwXN0aWRuR3JpV1dubk1qTjRad1N2YTlQbEs4aUpjVlFzV2tFalAzVjl6VW9OaFZUTGx5ZTYvQ040YTUxdVUvY2Q%3D&tokenuser="
+            },
+            {
+                "table_id": 1436,
+                "title": "Rata-rata Upah Nominal, Indeks Upah Nominal dan Indeks Upah Riil Per Bulan Buruh Industri Pengolahan di Bawah Mandor, 2013-2014 (2012=100)",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2015-07-31 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=1Dj7ymt20tHSkAboALBBj3NXUC9kSHlJbE1OK1J2RkFMTnNhR2lvWXVGTmt6V295d2hGbDNVTjhDZEpFWWJEb1lWbWk0amE0cDc4SVY2QWI%3D&tokenuser="
+            }
+        ]
+    ]
+}

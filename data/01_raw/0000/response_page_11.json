@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 11,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 2152,
+                "title": "Rata-rata Konsumsi dan Pengeluaran Perkapita Seminggu Menurut Komoditi Makanan dan Golongan Pengeluaran per Kapita Seminggu di Provinsi Sulawesi Tenggara, 2018-2024",
+                "subj_id": 5,
+                "subj": "Konsumsi dan Pengeluaran",
+                "updt_date": "2024-12-09 15:38:02.293175",
+                "size": "1.12 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=cbHcw1YxUNNxleth2wPf8ER3U25jZVN0bTQ2VFV5R2Z4bFZYckVOREFMelBjWm9KRzkxWmNUa24wMmZCWFVId0ZPRmdXUjZtbmhnalN3a0Y%3D&tokenuser="
+            },
+            {
+                "table_id": 2149,
+                "title": "Rata-rata Konsumsi dan Pengeluaran Perkapita Seminggu Menurut Komoditi Makanan dan Golongan Pengeluaran per Kapita Seminggu di Provinsi Maluku, 2018-2024",
+                "subj_id": 5,
+                "subj": "Konsumsi dan Pengeluaran",
+                "updt_date": "2024-12-09 15:28:06.214824",
+                "size": "1.02 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=swqLp0bxz40kwQPh1CHlVEdOWVU4WG5PaVVzSVl3ZG1uMlFMempmdHhTNzlteHdZRW9jaTJ4d2F2MlBCcTV1Uy9DWk5EbWZVNTA4ekRncnQ%3D&tokenuser="
+            },
+            {
+                "table_id": 2148,
+                "title": "Rata-rata Konsumsi dan Pengeluaran Perkapita Seminggu Menurut Komoditi Makanan dan Golongan Pengeluaran per Kapita Seminggu di Provinsi Maluku Utara, 2018-2024",
+                "subj_id": 5,
+                "subj": "Konsumsi dan Pengeluaran",
+                "updt_date": "2024-12-09 15:23:10.475548",
+                "size": "0.97 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=7bsbMVoG%2BLK5Rsb12wfBTlNWd0k0SUkrRS9HQU1yR3RWai9uaDJ4bjk3anF0eVZnYVJvSDRHVGNydGJrS1YzRmtWU2dZZmlRdmFkNk9mUnE%3D&tokenuser="
+            },
+            {
+                "table_id": 2144,
+                "title": "Rata-rata Konsumsi dan Pengeluaran Perkapita Seminggu  Menurut Komoditi Makanan  dan Golongan Pengeluaran per Kapita Seminggu di Provinsi Aceh, 2018-2024",
+                "subj_id": 5,
+                "subj": "Konsumsi dan Pengeluaran",
+                "updt_date": "2024-12-09 15:15:22.775106",
+                "size": "1.07 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=X9c9Go2tT1kIciMpQt5%2B8WVYY2JoQ3FmNVN2N3ZUa2FqQms4SG51ZURJRXJMcHE5UzdXcVdHU2ZDY1JwanJjdWJZdG9iS1RxK2RUSDVSKzY%3D&tokenuser="
+            },
+            {
+                "table_id": 1613,
+                "title": "Angka Partisipasi Sekolah (APS) Penduduk Umur 7-18 Tahun Menurut Klasifikasi Desa, Jenis Kelamin, dan Kelompok Umur, 2009-2024",
+                "subj_id": 28,
+                "subj": "Pendidikan",
+                "updt_date": "2024-12-09 14:56:30.169313",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=id8AnUfEOTnZTODVWvFCTWFEdHNNdXl1UUtsYU4vRFd4TDBvelZFakxDWnByM2c2dC8vbnpJU1pOcnBpSXZ3R0ZxdkxRU1hISis1OHozdFo%3D&tokenuser="
+            },
+            {
+                "table_id": 1610,
+                "title": "Persentase Penduduk Umur 15 tahun ke Atas Menurut Klasifikasi Desa, Jenis Kelamin, dan Jenjang Pendidikan Tertinggi yang Ditamatkan, 2009-2024",
+                "subj_id": 28,
+                "subj": "Pendidikan",
+                "updt_date": "2024-12-09 14:51:19.712611",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=ERq5qo0G8VktyUdOTPl5sEhtd09NQVl1bTZ1VGJXUkNaUTFYUDRCVUdjMUVFeExxWkFtemlOdWxWazQrb0ZxeWNqNFhJNm1ORHNpbHhYbU0%3D&tokenuser="
+            },
+            {
+                "table_id": 1525,
+                "title": "Indikator Pendidikan, 1994-2024",
+                "subj_id": 28,
+                "subj": "Pendidikan",
+                "updt_date": "2024-12-09 14:47:26.954061",
+                "size": "0.06 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=jWeGybIvc7LRTNDz%2BffvGk5Ra1ZSalBIYTVUMFpveUtJWHR6eWFLOVFiREEyZDNjQTJWZlBkaFg3T3ZtQzVoUEhOeTd0QThtYVJyRFBtbVM%3D&tokenuser="
+            },
+            {
+                "table_id": 1609,
+                "title": "Angka Melek Aksara Penduduk Umur 15 Tahun ke Atas Menurut Provinsi, Klasifikasi Desa, dan Jenis Kelamin, 2009-2024",
+                "subj_id": 28,
+                "subj": "Pendidikan",
+                "updt_date": "2024-12-02 13:54:10.62336",
+                "size": "0.12 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=Ui8JEYL4oAIxKgTkeUz0sytURERxRDBEWEFhWG55QUZGVzBnM1FmWE5PNms5VDBLK3pvQlV5M0w5VGxyZWhCdnUwTzBnR01FQ0QvQmhwVjk%3D&tokenuser="
+            },
+            {
+                "table_id": 1603,
+                "title": "Persentase Rumah Tangga menurut Provinsi, Jenis Kelamin Kepala Rumah Tangga, dan Banyaknya Anggota Rumah Tangga, 2009-2024",
+                "subj_id": 40,
+                "subj": "Gender",
+                "updt_date": "2024-11-29 14:08:15",
+                "size": "0.3 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=d5NhLdHHi7t3t%2B18VPUDyjk5Ty9rZCt6b0NRMXZHUXl3Y2lmQ201cDhsS3EwakxUVXdaNjR3MUErM0dHUWtmZEhWNDVkbVN4RFdUeXI3Y0g%3D&tokenuser="
+            },
+            {
+                "table_id": 1986,
+                "title": "Rata-rata Harian Konsumsi Protein Per Kapita dan Konsumsi Kalori Per Kapita Tahun 1990 - 2024",
+                "subj_id": 5,
+                "subj": "Konsumsi dan Pengeluaran",
+                "updt_date": "2024-11-26 14:46:15.981287",
+                "size": "0.03 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=ZByz9ydV%2Fo7bkJ2k258l9Ew1Mmdkb1RIVGRtbzNtQVJKMzQzYlRQK3JmeWVXdmViMjhiZitkSmxNQitaWlV2SHBpdCtwVXZqY3A5OGRQaGI%3D&tokenuser="
+            }
+        ]
+    ]
+}

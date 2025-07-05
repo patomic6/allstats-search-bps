@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 54,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 1906,
+                "title": "Penduduk Berumur 15 Tahun Ke Atas Menurut Provinsi dan Jenis Kegiatan Selama Seminggu yang Lalu, 1997-2007",
+                "subj_id": 6,
+                "subj": "Tenaga Kerja",
+                "updt_date": "2016-04-04 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=oFwsVHrHY6c%2BD7l1Xlxs8zVJMENXL2hRMDA0cDNoZFhselJvanhPbFo0R0U0Mm9Ib0RicFp0NzB1VUxxOFMraHRpaVB0U05Sd2ZpNGtkTkI%3D&tokenuser="
+            },
+            {
+                "table_id": 1903,
+                "title": "Penduduk Berumur 15 Tahun Ke Atas Menurut Golongan Umur dan Jenis Kegiatan Selama Seminggu yang Lalu, 1997 - 2007",
+                "subj_id": 6,
+                "subj": "Tenaga Kerja",
+                "updt_date": "2016-04-04 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=jWUt7ThiqmiBqAPqPIevDUMzZ2JIVURURVRMUy9xMkdmOWFKM1A1dGpCMWRSTTE5dGdMcFE1c0E2RWI0bkVXVVlJL1JaR0diQUREbDVQWHI%3D&tokenuser="
+            },
+            {
+                "table_id": 975,
+                "title": "Penduduk Berumur 15 Tahun Ke Atas Menurut Provinsi dan Jenis Kegiatan Selama Seminggu yang Lalu, 1986-1996",
+                "subj_id": 6,
+                "subj": "Tenaga Kerja",
+                "updt_date": "2016-04-04 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=xeWm5mcXcQgTKPhSO5f2T2lUUitOUGgvNDIyRld5OVdsRnlNSTM0dUJnMTk1Y1VYSUFIdmlKek5rV01TRkkzUVRqT2lndGlSNzFDbWZsY3E%3D&tokenuser="
+            },
+            {
+                "table_id": 974,
+                "title": "Penduduk Berumur 15 Tahun Ke Atas Menurut Golongan Umur dan Jenis Kegiatan Selama Seminggu yang Lalu, 1986-1996",
+                "subj_id": 6,
+                "subj": "Tenaga Kerja",
+                "updt_date": "2016-04-04 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=bZ2pFMjhetxm0tF6BtZ7YWdJUlV6cnRQY3RVU2pPM2lIRTRqRXdndDVDRThwMG5aTWtITzhwODlxbHpkT0pSdTg1ekZkRGFabjdwQVhvVzQ%3D&tokenuser="
+            },
+            {
+                "table_id": 1794,
+                "title": "Rata-Rata Harga Valuta Asing Terpilih menurut Provinsi 2015",
+                "subj_id": 13,
+                "subj": "Keuangan",
+                "updt_date": "2016-02-24 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=f9DlRzbJmAEoMQ6LAHPOi2k1cmhjSXlka1lpRzA0T09BQ21idWk5Y1c4T25QVUluYVpCQUVhY0VSdmcvK1B0ZFNUWExIUGVkcGlLZjJ5Zno%3D&tokenuser="
+            },
+            {
+                "table_id": 1898,
+                "title": "Klasifikasi 17 Sektor Tabel Input-Output Indonesia 2010",
+                "subj_id": 105,
+                "subj": "Input output",
+                "updt_date": "2016-01-13 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=a%2FaviUWjnRc%2Bg%2F%2FxqwFCvjhtZE5XK25tblVIcEVRQ1BqTERWcmVYaStDK3lheXFQdUJVa0xQZlZOaDVoSmRtcytXazlZREpMeDdTZHJ1TCs%3D&tokenuser="
+            },
+            {
+                "table_id": 1895,
+                "title": "Transaksi Total Atas Dasar Harga Pembeli, 2010",
+                "subj_id": 105,
+                "subj": "Input output",
+                "updt_date": "2016-01-13 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=GQmAWs2g18hXHjKJsgwqRk1Iemd6a0tzVTFaOU9Ec1hRaGVYd2tuaW1VWTk2MHpwUWNXcWdoU0lQK216VDFrRTdiU2ZRUEpkdEsxQU1TajY%3D&tokenuser="
+            },
+            {
+                "table_id": 1153,
+                "title": "Ringkasan Neraca Arus Dana, 2012 (Miliar Rupiah)",
+                "subj_id": 100,
+                "subj": "Neraca Arus Dana",
+                "updt_date": "2016-01-06 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=DDl2TIyop%2B6vXWS8KS0ZMG1TTlFraFVySE5tYTN0WGFYKzJTdlNzR1JQN2d6a0RrWGgwSmlCL1h3czB1VmFCa2ZXK3dxaWVIY2djdi95S1c%3D&tokenuser="
+            },
+            {
+                "table_id": 1151,
+                "title": "Ringkasan Neraca Arus Dana, Triwulan III, 2012 (Miliar Rupiah)",
+                "subj_id": 100,
+                "subj": "Neraca Arus Dana",
+                "updt_date": "2016-01-06 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=px3nSILBMmBzt40EuwpnxjJYWm1YS2VraXNWb3dzSmZYcmMzblJkSFlZdEQwbXZaanFVVVoyS1lmaWZaR3dRY2p0b1dBNmJKNWlMeGVXeTM%3D&tokenuser="
+            },
+            {
+                "table_id": 1150,
+                "title": "Ringkasan Neraca Arus Dana, Triwulan II, 2012 (Miliar Rupiah)",
+                "subj_id": 100,
+                "subj": "Neraca Arus Dana",
+                "updt_date": "2016-01-06 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=J5fa%2FbmLH6%2B5w9mNctFmVXZYK3dTNkpjSDFWb3pIMFFpbzhBcEFJVHFxOHNmeVFYNlZqMHFnN3J6TWZ6VXd6aVRRYjMxbk50a3E2Z0pwWHY%3D&tokenuser="
+            }
+        ]
+    ]
+}

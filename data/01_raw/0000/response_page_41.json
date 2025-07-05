@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 41,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 1967,
+                "title": "Data Anggaran Pendidikan dari Direktorat PAPBN, Kementrian Keuangan",
+                "subj_id": 28,
+                "subj": "Pendidikan",
+                "updt_date": "2018-08-15 11:59:45.504876",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=W1TC5PjHgJOJbwwf%2B2XMpnFCeE5BcEc5T3NEZFNzUUkyMlBuRVZ0a0tnMjNjWk5YMHg2R0pwRVhCSkpvRjhrZitCNVBGOHh6ZnUxYkxWV1c%3D&tokenuser="
+            },
+            {
+                "table_id": 2007,
+                "title": "Persentase Guru Berkualifikasi Minimal S1 Pada Satuan Tingkat Pendidikan (Persen), 2012/2013 - 2016/2017",
+                "subj_id": 28,
+                "subj": "Pendidikan",
+                "updt_date": "2018-07-24 12:39:05.552938",
+                "size": "0.03 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=4GXROKPXNg1GOZCxqy5nDHdzc3lPc2dKaFpjOUx4ektpRzg0VW5CSFk0OXYyZXdBbjlNV3NleXlkTUdrOUxWMnRyYUFmMWxnNnlSL0pwMW0%3D&tokenuser="
+            },
+            {
+                "table_id": 2006,
+                "title": "Persentase Merokok Pada Penduduk Usia ≤ 18 Tahun Menurut Karakteristik (Persen), 2015-2016",
+                "subj_id": 30,
+                "subj": "Kesehatan",
+                "updt_date": "2018-06-28 11:27:06.411",
+                "size": "0.03 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=Kkv8daIt0jm2N6WHduQaW29TdEc0cmJDelFSV3lVYXZ2TTNoZXhldXhtdVFhckhkUm9iNzBjTVl1V09ZRitSQ25VUDBMYkc1R3IyeU15QWI%3D&tokenuser="
+            },
+            {
+                "table_id": 1339,
+                "title": "Rekapitulasi Neraca Perusahaan Asuransi Menurut Jenis Usaha per 31 Desember (miliar rupiah), 2000 - 2016",
+                "subj_id": 13,
+                "subj": "Keuangan",
+                "updt_date": "2018-06-28 08:59:37.245759",
+                "size": "0.06 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=b9QJi5rKwJfBSqF7MvE%2Bj0FkNzJvMlIwVEF3UU14cEJsQmVXQXpGWGNFTGdJNjg3VExTd3Y1OXUyWmNKazdMK3A4TUlVb2pVUkNJZU5kczQ%3D&tokenuser="
+            },
+            {
+                "table_id": 2002,
+                "title": "Pinjaman Investasi Bank-Bank Umum dalam Rupiah Menurut Sektor Ekonomi (miliar rupiah), 2016 dan 2017\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+                "subj_id": 13,
+                "subj": "Keuangan",
+                "updt_date": "2018-06-25 00:00:00",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=O6xmsj5lWhEG5LI4pYpDR0w5OFc1T0VmQlRPSUViODVNeHY3a01HY3RWVXF3ZnQ4ODc0akZYdEF5QkgyMFBXT1lXSEx5eWZGcWUxY2NxL3U%3D&tokenuser="
+            },
+            {
+                "table_id": 1966,
+                "title": "Rata-Rata Harga Valuta Asing Terpilih menurut Provinsi 2017",
+                "subj_id": 13,
+                "subj": "Keuangan",
+                "updt_date": "2018-06-25 00:00:00",
+                "size": "0.07 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=Hnc7nNZtF6gEkTGXzMErnGZ0SVBNZkI4a0JoNWNLZXoxM3hRdVRDM043bHc2bzBsYlh4U1hzQVc0S0dLeXBxTjRZZi9wUm9uTTRRVXVzZm4%3D&tokenuser="
+            },
+            {
+                "table_id": 1856,
+                "title": "Bank dan Kantor Bank, 2010–2017",
+                "subj_id": 13,
+                "subj": "Keuangan",
+                "updt_date": "2018-06-25 00:00:00",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=ddV23OZAri4D5kk3j3aPuTdIZU9ZYXBaNVNRRkhzdGVzZkpPSkR2Y3VjaDd2Vy9jMmxQUldXVktqcEF3VjgyTUpuRnB3WHdveE1FV1g3M08%3D&tokenuser="
+            },
+            {
+                "table_id": 1308,
+                "title": "Pemberian Kredit oleh Lembaga-Lembaga Keuangan Lainnya (miliar rupiah), 2000–2016",
+                "subj_id": 13,
+                "subj": "Keuangan",
+                "updt_date": "2018-06-25 00:00:00",
+                "size": "0.03 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=ev2pF9So039NFIaRz1nzZWFXcUZRa3ZKWnF0c2RRTEwwdlB2Tjh0QnMwVXp1UU5qbXE0MzdWZERuTjdmQjRZNkV1T1NQRU1OSzNYSElpTDY%3D&tokenuser="
+            },
+            {
+                "table_id": 2000,
+                "title": "Penduduk Berumur 15 Tahun Ke Atas yang Bekerja Menurut Provinsi dan Status Pekerjaan Utama, 2017",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2018-03-13 00:00:00",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=d6a0D9jjJe%2FogQdLQhvYhDdJaFBKdUVsOFlJTFhqN3pDSHpUU2MrYkJJTVJVZ284bUhMRlFPcnpmMUNmSXJWNTlHbXh2V3N5N0xocnB2UXg%3D&tokenuser="
+            },
+            {
+                "table_id": 1996,
+                "title": "Rata-rata Pendapatan Bersih Pekerja Bebas Menurut Provinsi dan Kelompok Umur (ribu rupiah), 2017",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2018-03-13 00:00:00",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=Ka76oKsszFsqwP9R6LrvtG5LNVMvVDRWUHZMaXZ1d3pjVzhSVEhSK3A5MWNrV1YwWTFJSWdzQmp0UGt6V1pVeWFZelhISjJqNFNYM05VMEc%3D&tokenuser="
+            }
+        ]
+    ]
+}

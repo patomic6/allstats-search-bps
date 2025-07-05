@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 61,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 1370,
+                "title": "Luas Daerah Pengaliran dan Debit dari Beberapa Sungai yang Daerah Pengalirannya Lebih dari 1.000 km2, 2000-2011",
+                "subj_id": 153,
+                "subj": "Geografi",
+                "updt_date": "2014-12-16 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=sMziqguEtNKNk7E5%2FB9a0kJoUUFYdlZOTHpQcGxYaDRKRm03TTdTd0VuY3ErKzMrQVp0UnA5NzdmU1pzZVc1WUc1dzNWRGhaNzV1VTZ3UEs%3D&tokenuser="
+            },
+            {
+                "table_id": 1569,
+                "title": "Kumulatif Kasus AIDS, Kasus Meninggal, Rate Kumulatif, dan Jumlah Kasus Baru AIDS Menurut Provinsi di Indonesia, 2008-2012",
+                "subj_id": 30,
+                "subj": "Kesehatan",
+                "updt_date": "2014-12-11 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=1o46KAm%2F%2BVVUtUvGLdQ6lm9tUWlkWVVxK3pOV1lyK3U4ZWVYQXgvbzA1cVY4bThrNHFNeTQxWjVPTjBoNEcwRVlQQ3FhRk10SytuaS8zZ1c%3D&tokenuser="
+            },
+            {
+                "table_id": 1517,
+                "title": "Angka Harapan Hidup Penduduk Beberapa Negara (tahun), 1995-2015",
+                "subj_id": 26,
+                "subj": "Indeks Pembangunan Manusia",
+                "updt_date": "2014-12-04 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=qgrMdriTQMZa57nuRGXHuWg5VTFQYVZBVmpkZXZSbzRJaWR3Mi9QaEcvTk4vSnBNazNCbjZrcVBDSFlqUDJ1S3NHZnNlMU9kL0x3M2c1ZXU%3D&tokenuser="
+            },
+            {
+                "table_id": 1628,
+                "title": "Produk Domestik Regional Bruto Tanpa Migas per Kapita Atas Dasar Harga Konstan 2000 Menurut Provinsi (ribu rupiah), 2000-2013",
+                "subj_id": 52,
+                "subj": "Produk Domestik Regional Bruto (Lapangan Usaha)",
+                "updt_date": "2014-10-08 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=OV28OKIGHyUw3E4Y%2FcbS%2BjhDeXFDQTVlMS9tTExIbUJaanl0S1BZNHVETmhac2h1VFdlT2gxWEUxSVdpdURYWU5wbFZFenBoMlZrU0lOU1A%3D&tokenuser="
+            },
+            {
+                "table_id": 1627,
+                "title": "Produk Domestik Regional Bruto Tanpa Migas Atas Dasar Harga Konstan 2000 Menurut Provinsi (miliar rupiah), 2000-2013",
+                "subj_id": 52,
+                "subj": "Produk Domestik Regional Bruto (Lapangan Usaha)",
+                "updt_date": "2014-10-08 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=S5sBg3aXBKpsRqklK4UeEjFoQjB4amN0ZmxNYkhrN25CaGNnS0pGb1RhSFFWV1h1U01XaDVmMGsyZjZMV0ppMXhFdm1rYVAwNFJKa09WV0o%3D&tokenuser="
+            },
+            {
+                "table_id": 1626,
+                "title": "Produk Domestik Regional Bruto Tanpa Migas Atas Dasar Harga Berlaku Menurut Provinsi (miliar rupiah), 2000-2013",
+                "subj_id": 52,
+                "subj": "Produk Domestik Regional Bruto (Lapangan Usaha)",
+                "updt_date": "2014-10-08 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=gc5iZFQZBNuF7W6KIL2PA2c1ZDVtQ09FZlozdnlXc2NpZFFHK0xKelBqQk1ZV0YrRTFqM0F6TS9STkxiM2poeSt6SXNZeEdvRGx2YW8zTzQ%3D&tokenuser="
+            },
+            {
+                "table_id": 1625,
+                "title": "Distribusi Persentase Produk Domestik Regional Bruto Atas Dasar Harga Berlaku Menurut Provinsi, 2000-2013 (Persen)",
+                "subj_id": 52,
+                "subj": "Produk Domestik Regional Bruto (Lapangan Usaha)",
+                "updt_date": "2014-10-08 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=X6pRYFyRRgrBddYV2nay1WhmYm9KUDZGaXpIL0VpcVdOWUdyb1NqekJIMTBHZTFEZXVUZHMrKytLVDVreVhvU1RKZjlhcStabDlPZGtCZ0I%3D&tokenuser="
+            },
+            {
+                "table_id": 910,
+                "title": "Indeks Harga Konsumen Beberapa Negara (2005=100), 2009-2012",
+                "subj_id": 3,
+                "subj": "Inflasi",
+                "updt_date": "2014-09-22 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=NY3hoVHvKp3xZDqV2jMaJkg1Nm1UOUVvYU1iS2dXOHNsYUFYQThPS0pkeUxDYVVwK0duZXFtdGVieFlzTmkxY3FsMFlzTlZ4M2V3WjJZT0c%3D&tokenuser="
+            },
+            {
+                "table_id": 955,
+                "title": "Rata-rata pengeluaran konsumsi perkapita menurut golongan rumah tangga (ribu rupiah), 2000, 2005, dan 2008",
+                "subj_id": 5,
+                "subj": "Konsumsi dan Pengeluaran",
+                "updt_date": "2014-09-09 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=4I0%2B4KsQfmXa7hltd39A6EgyekltU2lrUXo3ZU9FMTZSSHZPTDI0RVJKcUtMOTBXK2JwaXF1dHpZeWhLVWlKa1BhVG4xQ1RybVRZN0hjM08%3D&tokenuser="
+            },
+            {
+                "table_id": 954,
+                "title": "Nilai pengeluaran konsumsi menurut golongan rumah tangga (miliar rupiah), 2000, 2005, dan 2008",
+                "subj_id": 5,
+                "subj": "Konsumsi dan Pengeluaran",
+                "updt_date": "2014-09-09 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=vvXz3oT69US28FR4EeG9o2RFYnlqQlF1VUMwTFJBVmNmQXlHOUUxQWR6R3huRVdJNmJpQ0JUajVmMFNONkJsZGlOTlJac0dlMXkveGhZdWg%3D&tokenuser="
+            }
+        ]
+    ]
+}

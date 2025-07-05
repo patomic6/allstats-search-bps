@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 29,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 2135,
+                "title": "Rata-rata Upah/Gaji Bersih Sebulan Buruh/Karyawan Pegawai Menurut Pendidikan Tertinggi dan Jenis Pekerjaan Utama, 2021",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2021-12-30 13:44:56.088706",
+                "size": "0.03 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=4of7fPQ%2BiWnndA3tftpH3GRxVVVJZzFPdW1ZTDV6SG4rQ0JFVUFmZ1FXb2pHWjV5eEd1alRBK21HWEIvSVU1MU5UNi9HYUVSSTJWMFowSkE%3D&tokenuser="
+            },
+            {
+                "table_id": 2133,
+                "title": "Rata-rata Upah/Gaji Bersih sebulan Buruh/Karyawan Pegawai Menurut Pendidikan Tertinggi dan Lapangan Pekerjaan Utama, 2021",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2021-12-30 13:37:04.515498",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=MUb%2FcxrdZdgkipnyg82cCy9hTEwrN0lwaERtVVFWOUw5czJrNHUyc2lFNFVkaXByTW5yc0RFYmhWT28weEZLNDR6Q2FJNHAwYnhreFg4ckY%3D&tokenuser="
+            },
+            {
+                "table_id": 2136,
+                "title": "Rata-rata Upah/Gaji Bersih Sebulan Buruh/Karyawan Pegawai Menurut Kelompok Umur dan Lapangan Pekerjaan Utama, 2021",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2021-12-30 13:34:35.857437",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=56JVU9elWKUMdGhG1QyGuFBFRW5WVlJnaWhHT2I5UU1RaHN0bVN0T3BPdkF3TkFoQWwwZjUvT3pQY1dhY0RnUndrVUlKbWppb2padXhsWFo%3D&tokenuser="
+            },
+            {
+                "table_id": 2131,
+                "title": "Rata-rata Upah/Gaji Bersih Sebulan Buruh/Karyawan/Pegawai Menurut Provinsi dan Jenis Pekerjaan Utama, 2021",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2021-12-30 13:31:11.161828",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=RKKXYgssNwjdrnAFuuFfFE90eW50cU54b240dXRuVDBjWkl3dzBndndmd2xyMmNaSDVXMWUwVlhjQmN4dnhJNEVKUHpwMjNrZlZLYjU0OVE%3D&tokenuser="
+            },
+            {
+                "table_id": 2138,
+                "title": "Rata-rata Pendapatan Bersih Pekerja Bebas Menurut Provinsi dan Lapangan Pekerjaan Utama, 2021",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2021-12-30 13:27:54.047906",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=szJzMsrjF59Gg3nkcalKGUhMam54UmRWb1M5SklSdjF5Kzczbm14OEJWcFdpODdlN2szOGhNYWFpNXFGUTJNUnVLSVlSWmwwbG9va2NWcTc%3D&tokenuser="
+            },
+            {
+                "table_id": 2139,
+                "title": "Rata-rata Pendapatan Bersih Pekerja Bebas Menurut Provinsi dan Kelompok Umur, 2021",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2021-12-30 13:20:49.681177",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=nBVEZx2pJfBJR2Mv%2B1wkLXJ2aEZDNG0xRzkvTkpKQkhGUHhJU0dPTnlSMnM5cy9KNmJucVVBSkhxbkRlSmluTWVBMDVGTUlEcldNR2Q4M0o%3D&tokenuser="
+            },
+            {
+                "table_id": 2137,
+                "title": "Rata-rata Pendapatan Bersih Pekerja Bebas Menurut Provinsi dan Pendidikan Tertinggi yang Ditamatkan, 2021",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2021-12-30 13:16:49.83011",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=au%2F%2Fm9Sy1c5tAktd1JbO9m40UzNaMUF6aHV1UnhrTlpBbUYxSkZHMHd5VnVRanBSWHZoa0pYL3hrajM3MmRHeXY2VUNmWmRzV2NLU2t3cnQ%3D&tokenuser="
+            },
+            {
+                "table_id": 2140,
+                "title": "Rata-rata Pendapatan bersih Berusaha Sendiri menurut Provinsi dan Pendidikan yang Ditamatkan, 2021",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2021-12-30 13:13:16.23844",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=nHcwyVyqccsAGOFbZwickU9uTEk0RFpFRi9rOXJobWUvaGNBMXQ4WkJpWC9lcVFrYTZMMWQxeFR2WVJKSEZYNFBuU3h4dFhOdlVpVzh1em4%3D&tokenuser="
+            },
+            {
+                "table_id": 2141,
+                "title": "Rata-rata Pendapatan Bersih Berusaha Sendiri Menurut Provinsi dan Lapangan Pekerjaan Utama, 2021",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2021-12-30 13:08:56.459782",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=5kDqq9dFyQPozjoc5ltYrHlmTnR5SHlwV3NaZGFJV2V3VHBLcFdnWDhjanQzTC9lNWk0L2RSM3Mwb0I4ZEpSSEw3N1dNWEd0MWZIeTdQQ2g%3D&tokenuser="
+            },
+            {
+                "table_id": 2142,
+                "title": "Rata-rata Pendapatan Bersih Berusaha Sendiri Menurut Provinsi dan Kelompok Umur, 2021",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2021-12-30 12:58:49.318147",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=JRERLF19YyrBwCahd7Rn2GlBQ0doZVg1Z1FTcHM3THV3UmhHRFcxZnlGRklXeXdMNlk0aksxMGQrL1hiU1FtcUk4NVY5M0NqS3QwQzhxRnI%3D&tokenuser="
+            }
+        ]
+    ]
+}

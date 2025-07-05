@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 27,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 1968,
+                "title": "Anggaran Kesehatan dari Direktorat Penyusunan APBN - Direktorat Jenderal Anggaran, Kementerian Keuangan",
+                "subj_id": 30,
+                "subj": "Kesehatan",
+                "updt_date": "2022-06-02 10:46:50.415948",
+                "size": "2.97 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=L0lLDPIdLSoNJ0EFNud2mlo4UXpDUmxUZ0wzaktCSEtiUW9RbTZYb2hwbjIvV3c0T2lCOGRzZCt1cm9IdGFoSEpHUjZiVHFnNHVPY253T28%3D&tokenuser="
+            },
+            {
+                "table_id": 1971,
+                "title": "Laporan Hasil Ujian Nasional SMP, SMA, dan SMK",
+                "subj_id": 28,
+                "subj": "Pendidikan",
+                "updt_date": "2022-05-28 06:20:21.210722",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=WTjZor0NOhAPTPy%2BsCP3IWRyK1huMFhnQW9jTllNVWcyYnBRTFVKazVtbHJReDlYY0dHZGdRdThtTlVpMVlRL3NrWnBKY3ZPaEI2UVhHa2E%3D&tokenuser="
+            },
+            {
+                "table_id": 2008,
+                "title": "Statistik Pendidikan Tahunan",
+                "subj_id": 28,
+                "subj": "Pendidikan",
+                "updt_date": "2022-05-28 05:50:57.334637",
+                "size": "0.03 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=F8EZFDbJXmpYmzYUdmirc3Faam00VVhJQjZzZFlRK0hRc0xhS3lzOGVvbU5wUWJCWnpIbFd0N3hWbW5HMFhVY0pUaU1lSWdaVmUvN3paU3k%3D&tokenuser="
+            },
+            {
+                "table_id": 1711,
+                "title": "Produksi Perikanan Menurut Subsektor (ribu ton), 1999-2020*",
+                "subj_id": 56,
+                "subj": "Perikanan",
+                "updt_date": "2022-03-17 12:57:31.986823",
+                "size": "0.03 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=IGsdMoVE9ULHzFw7YCWC025xTVU0QzFhWGNPdkdWVEd0VjVFMDlzOEM0TkdZaDFBS0xEUnNRWFZJTUtzMmNvYlVUQ3FaeFhKaVlZb2MwSVE%3D&tokenuser="
+            },
+            {
+                "table_id": 1706,
+                "title": "Produksi Perikanan Budidaya Menurut Provinsi dan Jenis Budidaya, 2000-2020",
+                "subj_id": 56,
+                "subj": "Perikanan",
+                "updt_date": "2022-03-16 20:50:32.087289",
+                "size": "0.09 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=w8TFmd9YYjiTS7MCGTRCY2xVTXVWS2wyaWFtQkdGYWt3MGNQUEtqb2hObHVIOG1JK0VyblRyWGQ1VXNVNGdycmlXOTkzcXFRaEVBOGpSYjA%3D&tokenuser="
+            },
+            {
+                "table_id": 1705,
+                "title": "Produksi Perikanan Tangkap Menurut Provinsi dan Jenis Penangkapan, 2000-2020",
+                "subj_id": 56,
+                "subj": "Perikanan",
+                "updt_date": "2022-03-16 16:47:15.871372",
+                "size": "0.09 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=6cW0DXg2zkevcARHFDbrqlFIaTRYdGlOb2tiZXdwVHNna2JmSkNVNWxveHlQK2xWbVNUbTFIcHFaQTJxZDk4VU55RUtXdXN6TGRtNHZDQzA%3D&tokenuser="
+            },
+            {
+                "table_id": 1842,
+                "title": "Ringkasan Profil Usaha Konstruksi Perorangan, 2013 - 2020",
+                "subj_id": 4,
+                "subj": "Konstruksi",
+                "updt_date": "2022-03-08 09:16:25",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=4%2FFWpmebRN3jIYQgoQORiHRnMXpqODFVc3gzcEpOOUhVZjZUdHhPN3QzMzJOcWFGc0YxUFhpeTdCNlMvUENURWZaUlZRY3pkaEd3WXFGOGQ%3D&tokenuser="
+            },
+            {
+                "table_id": 1081,
+                "title": "Nilai Output Industri  Besar dan Sedang (miliar rupiah), 2012-2019",
+                "subj_id": 9,
+                "subj": "Industri Besar dan Sedang",
+                "updt_date": "2022-03-02 08:59:46",
+                "size": "0.06 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=SJLf%2B2XScPQhMGSEkkDqEnAyaUxZVUorL3JXMGxieEhHU3I0OFVaN1o5WW03ZjFCbFBKbUErTHRQSDY3ZGtUbnZndmZTa3FBMUpoQlY3YnU%3D&tokenuser="
+            },
+            {
+                "table_id": 2075,
+                "title": "Rekapitulasi Laporan Posisi Keuangan Perusahaan Asuransi-Konvensional Menurut Jenis Usaha per 31 Desember (miliar rupiah), 2016-2021",
+                "subj_id": 13,
+                "subj": "Keuangan",
+                "updt_date": "2022-02-25 13:28:25",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=jHmukVzKEHZ2%2Bc%2FBk215Y2d2ZUo3Q0JMbjRFTTNRd0YrSUlnSFkwNk42cTgyZk9SVGswa0NXWUQ3eHRpK0k4eDlMQ1hSbUxDMkh5RW94eDc%3D&tokenuser="
+            },
+            {
+                "table_id": 1340,
+                "title": "Rekapitulasi Laporan Posisi Keuangan Perusahaan Penyelenggara Program Asuransi Wajib dan BPJS Per 31 Desember (miliar rupiah) 2000-2021",
+                "subj_id": 13,
+                "subj": "Keuangan",
+                "updt_date": "2022-02-25 13:26:00",
+                "size": "0.06 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=MIWMY48RyACMLWyHUN9RVjIzbWRQODZEUnBGd2FhUDZXUTVyQ1ZZMkxmRXJ5Yk1YeUh0cFJhWWtrZnpyQ2w2QkcrM3JCTDN6VTNxWkhOdFc%3D&tokenuser="
+            }
+        ]
+    ]
+}

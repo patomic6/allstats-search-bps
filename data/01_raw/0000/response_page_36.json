@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 36,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 1709,
+                "title": "Jumlah Rumah Tangga Perikanan Tangkap Menurut Provinsi dan Jenis Penangkapan, 2000-2016",
+                "subj_id": 56,
+                "subj": "Perikanan",
+                "updt_date": "2019-09-16 14:37:42.047481",
+                "size": "0.08 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=Y5w8qf0DKA%2F57te1tMrl0jhJK013dEcyRXlxNkJidUxPaTRiSGpQQWRyK3dMSVl2NXB3T1JzcW5BdGYzVkJ3TWlHMCtTV3A4UVAxcjl0NWs%3D&tokenuser="
+            },
+            {
+                "table_id": 2057,
+                "title": "Tabel Input Output 185 Produk, 2010",
+                "subj_id": 105,
+                "subj": "Input output",
+                "updt_date": "2019-07-08 11:29:16.005034",
+                "size": "0.7 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=SeAX36dXD9s9R4H0X7vG62xxbDdCNzJkaDdzbG9Xa0ExNmZjclRSa214a09XS3Y4a2M3S0I3OXFXWDZDc0I2cEdNRERzaklmbUdTTGZQUG4%3D&tokenuser="
+            },
+            {
+                "table_id": 939,
+                "title": "Persentase Perkembangan Distribusi Pengeluaran",
+                "subj_id": 5,
+                "subj": "Konsumsi dan Pengeluaran",
+                "updt_date": "2019-07-08 10:44:56.345733",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=cH84FXU88i9zu89wq78qJFVxUnJmcHkrLzI0cDdZbEdGcEVyYnlIdlpSV2lIMzlLOXlNeHBXQkFEMHF2U0lRU3FSTm56TXZRMEIvdlNGZWk%3D&tokenuser="
+            },
+            {
+                "table_id": 1602,
+                "title": "Persentase Penduduk Berumur 10 Tahun ke Atas menurut Provinsi, Jenis Kelamin, dan Status Perkawinan, 2009-2018",
+                "subj_id": 40,
+                "subj": "Gender",
+                "updt_date": "2019-04-26 10:12:37.237011",
+                "size": "0.13 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=pEeHFpQFmA%2BZT%2BfbD22%2BPStyOHQvR1NOVWwxc25uTXpQN2dWcXZTMk4zUDRpa25Fd2QzZmJZZnphVU1BVU9SU0pUMWZZdTZ3YzE1MC9yT24%3D&tokenuser="
+            },
+            {
+                "table_id": 1374,
+                "title": "Jumlah Akomodasi, Rata-rata Pekerja dan Jumlah Tamu per Hari Menurut Provinsi, Tahun 2009-2018 (Akomodasi Lainnya)",
+                "subj_id": 16,
+                "subj": "Pariwisata",
+                "updt_date": "2019-04-23 09:03:04.82309",
+                "size": "0.07 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=dlK1xUT9aQ6HmnWljqLMSjl0cUp1aXFKZzl0dUdIY2F3MklvR2Rra1M5Q2J2eXl0YkF5MmJYRGU4Y09ETFRXakJGNjg0Yks0SVFLR1Myamo%3D&tokenuser="
+            },
+            {
+                "table_id": 1373,
+                "title": "Jumlah Akomodasi, Rata-rata Pekerja dan Jumlah Tamu per Hari Menurut Provinsi, 2009-2018 (Hotel Bintang)",
+                "subj_id": 16,
+                "subj": "Pariwisata",
+                "updt_date": "2019-04-23 09:02:25.867015",
+                "size": "0.07 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=103r9vMvUbxq8SusuX6nIjNTWWxVekNCQjA1Z0Nrc29hVEJwd2piKzdkTFJ1NXpOelBBb2svOWs3emxZQkJ2K2ZGNkljSG9wZEM3Q2FvZlI%3D&tokenuser="
+            },
+            {
+                "table_id": 1871,
+                "title": "Posisi Simpanan Masyarakat (Rupiah dan Valuta Asing) pada Bank Umum Menurut Kelompok Bank (miliar rupiah), 2010-2017",
+                "subj_id": 13,
+                "subj": "Keuangan",
+                "updt_date": "2019-04-16 09:38:49.456281",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=rwu3evOAx%2B1ZbiCAYhGQl0JZbjB2OUFrQjdmVGl5MGJUaTFnWXp1SEtZaTNEZGtaWTNsZFZuUFE3VjNwNkk5MWt3dzQxdzdRMlJmQVdmM0o%3D&tokenuser="
+            },
+            {
+                "table_id": 1316,
+                "title": "Posisi Simpanan Berjangka Rupiah pada Bank Umum dan BPR Menurut Golongan Pemilik (miliar rupiah), 2005-2018",
+                "subj_id": 13,
+                "subj": "Keuangan",
+                "updt_date": "2019-04-15 15:45:56.173509",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=SiMujC05JUnL18K6SpophExQUVZoWnhZdTJFN2JFTVQvYmUwbEJrR2x5QW9ESzhieUVYUWFzd20wNWUzaUJEbDRNOEloOTBiMkVtSkJzeEo%3D&tokenuser="
+            },
+            {
+                "table_id": 2004,
+                "title": "Posisi Kredit Usaha Mikro, Kecil, dan Menengah (UMKM)<sup>1</sup> pada Bank Umum (miliar rupiah), 2016-2018",
+                "subj_id": 13,
+                "subj": "Keuangan",
+                "updt_date": "2019-04-15 15:40:49.752924",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=UHU4cT7DYtU7pMxnMDfOPjZoQWd1RUF2bitMTHV5VDNxYzhZbXRmUXUzaVdSL3I3ZHZsWDZpY3NLRC9zMU9IbFJQQ1NxNzhVRE81M0w0R0c%3D&tokenuser="
+            },
+            {
+                "table_id": 1306,
+                "title": "Posisi Pinjaman Rupiah dan Valuta Asing yang Diberikan Bank Umum dan BPR Menurut Kelompok Bank (miliar rupiah), 2000-2018",
+                "subj_id": 13,
+                "subj": "Keuangan",
+                "updt_date": "2019-04-15 14:48:32.338578",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=PcBnw1QRDNiQ3WUQ6Gpe4Up4U3FySllRWktMMmQ0V1AycGVzY1NwWXpmOWhuTzh2a0YrenlMNjlXSU5FZkpsVDhZR1RvTWQrK2ZoOWFucCs%3D&tokenuser="
+            }
+        ]
+    ]
+}

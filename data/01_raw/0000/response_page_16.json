@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 16,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 2022,
+                "title": "Ekspor Sarang Burung menurut Negara Tujuan Utama, 2012-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-07-24 10:59:49",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=90FKa2EszGrp8YibMHPPGmpaTjQ5ZGNHWkFuSHpJMnVVRVpuNGk0RFpZV1hLQ3g1bGdhRGNkRWRJUEU1bWE0N2RhNzdNOUZ3RFE3bmRrVDc%3D&tokenuser="
+            },
+            {
+                "table_id": 2032,
+                "title": "Ekspor Sepatu Olahraga menurut Negara Tujuan Utama, 2012-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-07-24 10:30:29",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=QJhFLvII73039fdLIePpo2ZHb0kwY3NvZ3hKREVDdlJKVFhaUk9XQjhwejhZUktKbGhIaGN3eXZ5UVB4M0orLzhMeW4valA4WnhRSzJhWUM%3D&tokenuser="
+            },
+            {
+                "table_id": 2024,
+                "title": "Ekspor Ikan Segar/Dingin Hasil Tangkap menurut Negara Tujuan Utama, 2012-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-07-24 09:10:49",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=xvsCgODqml9Eoc%2B9P3IGsTFWbFRpRmNJWWErSmVhS1ROcVN2b2pBRTdmTWl4aW1VMkFNTWMxWmN3aU0wY2RrRWhvcmpmNG5EUGpRd3lJTVY%3D&tokenuser="
+            },
+            {
+                "table_id": 1014,
+                "title": "Ekspor Kopi Menurut Negara Tujuan Utama, 2000-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-07-23 15:48:21",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=o13snhRcFiXO6dDT1gmTLlZyU2FNSlc4bkZuSTVxTEd6UVdsQUVmRThiRzRCb3VzOXh6L01WNGpIVU1sbHRLVGU0eDNkV3VkcUdHSElZWHI%3D&tokenuser="
+            },
+            {
+                "table_id": 2030,
+                "title": "Ekspor Karet Remah Menurut Negara Tujuan Utama, 2012-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-07-23 15:22:02",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=6zJ5utY7npvz%2FCFPn3iWRkJPK1A2d3FqSGVqMzY0MGU1Vk9DWlFid0NCVjdjZ0J5WnpXSE5BZWhkMitkQTk1L0lCM042VGtXYWlpSEVGZkY%3D&tokenuser="
+            },
+            {
+                "table_id": 2029,
+                "title": "Ekspor Kimia Dasar Organik yang Bersumber dari Hasil Pertanian menurut Negara Tujuan Utama, 2012-2023",
+                "subj_id": 8,
+                "subj": "Ekspor-Impor",
+                "updt_date": "2024-07-23 15:12:22",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=7kP%2BqOcjXnGSootZt88zxHJ6b2FXWC95VGh6MEdTdzZSS1plVkVmZ1pzbmVId3BMaVpJZW9tQk1ZR3J5R1pVWEtSWVRPRitlTmprS1BGSVI%3D&tokenuser="
+            },
+            {
+                "table_id": 1177,
+                "title": "Jumlah Pegawai Negeri Sipil Menurut Masa Kerja dan Jenis Kelamin, 2004 - 2023",
+                "subj_id": 101,
+                "subj": "Pemerintahan",
+                "updt_date": "2024-07-05 16:01:07.087127",
+                "size": "0.23 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=e%2FoiK8Q65SySc9Bj3jSaVTl3dGpPSW0wdHZsUkR5U0FGcHg3cVdZWk43enFNWmtZRUEyOHkrbWJhenJpNm8yNVVtYmowS1k4WGdzbHZTTG8%3D&tokenuser="
+            },
+            {
+                "table_id": 2245,
+                "title": "Rata-rata Pendapatan Bersih Pekerja Bebas Menurut Provinsi dan Kelompok Umur, 2023",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2024-07-01 14:49:37.852034",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=M2H0JcjkS%2BxQ8y1rA%2B8r1nlZeDVpWjdUc3lpZ2NZb09YVytVaUZqUkxyQnlCRWJRTm81RWtCTHJlNk56RlVXUmNrUUlnK3BCNXhSZG5sS04%3D&tokenuser="
+            },
+            {
+                "table_id": 2244,
+                "title": "Rata-rata Pendapatan Bersih Berusaha Sendiri Menurut Provinsi dan Lapangan Pekerjaan Utama, 2023",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2024-07-01 14:38:04.460627",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=SJ%2FgDfRNVc5f9OJSomqsTForL3NoRVE3S2k3eFFud3ZjK2N0clQyd0I5ZFNaNzhlQmM0aTNkeXFnNXdjbC9RNGJUZlNLNm4ySEJFYzNLYlk%3D&tokenuser="
+            },
+            {
+                "table_id": 2243,
+                "title": "Rata-rata Pendapatan Bersih Berusaha Sendiri Menurut Provinsi dan Kelompok Umur, 2023",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2024-07-01 14:18:44.710941",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=8d9d6vyU3tlOhqzSpAyLvVVCTU5qUmhUb2xmYXJ3ajdXb3Y4OVZreWpXQ1VTeHBCazNhZkdOQ3JIWC9CdTVBQVRWTER1enBPUkg5RDVjbUY%3D&tokenuser="
+            }
+        ]
+    ]
+}

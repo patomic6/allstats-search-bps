@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 23,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 2221,
+                "title": "Angka Kematian Anak (Child Mortality Rate/CMR) Hasil Long Form SP2020 Menurut Provinsi/Kabupaten/Kota, 2020",
+                "subj_id": 12,
+                "subj": "Kependudukan",
+                "updt_date": "2023-07-18 10:17:50",
+                "size": "0.07 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=vuYVy5NUkUsEfop2j0GxFjhlN3JrZFRTWUkrazBGNEFqRk9FSWhFaHhaTUhMQmJCaUFjNzN6WG5zZFhieWkraVk0bXBGYmRxWjE2ckhQUDA%3D&tokenuser="
+            },
+            {
+                "table_id": 2220,
+                "title": "Angka Kematian Bayi/AKB (Infant Mortality Rate/IMR) Hasil Long Form SP2020 Menurut Provinsi/Kabupaten/Kota, 2020",
+                "subj_id": 12,
+                "subj": "Kependudukan",
+                "updt_date": "2023-07-18 09:35:15",
+                "size": "0.06 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=ckjQ3axVB576fD7Q5QgMaU1JNWZrY2tidmdQZlY2eUM2cVVNWmlvZnBxbkk1TVBuRFp1bjJBY0NualpPSWFlMGJhVi8yTDArcW5jd3hVeHg%3D&tokenuser="
+            },
+            {
+                "table_id": 2222,
+                "title": "Angka Kematian Balita (Under Five Mortality Rate/U5MR) Hasil Long Form SP2020 Menurut Provinsi/Kabupaten/Kota, 2020 ",
+                "subj_id": 12,
+                "subj": "Kependudukan",
+                "updt_date": "2023-07-18 09:08:17",
+                "size": "0.07 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=fwYeKS8Zf3j4SDAHl3uj8VhCNnZuVk5CaC8waWpDYkFxZzE2ZENyQ0ttbUZ2WkVYRTlhbU9vTjMzRXJFaWZKYXk0LzRwbGt3WnNSUnhLOHI%3D&tokenuser="
+            },
+            {
+                "table_id": 2213,
+                "title": "Angka Kelahiran Kasar (Crude Birth Rate) Hasil Long Form SP2020 Menurut Provinsi/Kabupaten/Kota, 2020",
+                "subj_id": 12,
+                "subj": "Kependudukan",
+                "updt_date": "2023-07-14 10:06:12",
+                "size": "0.07 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=vSmmXqOH5%2BFKDKq6a97%2FzjEvK3ArWWp4S1ZNMEd2cW5jUWRXcnNVcW4reUxLaTVyNEVCc1NyeHk4TEhCd3hPblhEbnZWZTExcGg2S0xTNlc%3D&tokenuser="
+            },
+            {
+                "table_id": 2215,
+                "title": "Angka Kelahiran Hasil Long Form SP2020 Menurut Kelompok Umur Ibu (Age Spesific Fertility Rate/ASFR) dan Provinsi/Kabupaten/Kota, 2020",
+                "subj_id": 12,
+                "subj": "Kependudukan",
+                "updt_date": "2023-07-14 10:05:37",
+                "size": "0.1 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=jzHMoDMNeQ1oA75coSNYFE1rbDBkd1lWUHdNSjEwOUpMQXhZRXYweFpZMEtPM0xWSjEwSG04NjdocEE0V1JpQnpzWU1hWTNTWnFMZ0h6dVc%3D&tokenuser="
+            },
+            {
+                "table_id": 2211,
+                "title": "Angka Kelahiran Total / Total Fertility Rate (TFR) Hasil Long Form (LF) SP2020 Menurut Provinsi/Kabupaten/Kota, 2020 ",
+                "subj_id": 12,
+                "subj": "Kependudukan",
+                "updt_date": "2023-07-14 10:05:00",
+                "size": "0.07 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=v17S1vE7bIM5M5K5UydkskJVM1UyOVFnZGxJRGdzZUdLZFBnQ3NLNTRRMWtSWWxTKzUvYVRzeW0xbUpTTGFsZWpZVWZoakdQKzc5Wmt5S2U%3D&tokenuser="
+            },
+            {
+                "table_id": 2200,
+                "title": "Rata-rata Pendapatan Bersih Berusaha Sendiri Menurut Provinsi dan Lapangan Pekerjaan Utama, 2022-2023",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2023-06-27 15:23:52.14954",
+                "size": "0.07 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=RRFseMFCny59BEkBE95j3DkxTUlLRy9Rb2pubXhyRXpab1hBOFZMdTZKeENaUDlLODBIR3l4RDhvSlBIa1RzNGNyNlpVMDZPRExMNGIwNk0%3D&tokenuser="
+            },
+            {
+                "table_id": 2198,
+                "title": "Rata-rata Pendapatan Bersih Pekerja Bebas Menurut Provinsi dan Kelompok Umur, 2022-2023",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2023-06-27 15:07:36.715293",
+                "size": "0.08 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=VPEwJ447Iw6dhN76xbku2S82bnRnSkh5SXZ5UG9YRlAvVHJhcEJCaVJlSXdpaXd0SG5EKzlTMFZwNnpMbUFLRUJOaXVOLytUSGN4TFlBdW4%3D&tokenuser="
+            },
+            {
+                "table_id": 2193,
+                "title": "Rata-rata Upah/Gaji Bersih sebulan Buruh/Karyawan Pegawai Menurut Pendidikan Tertinggi dan Jumlah Jam Kerja Utama, 2022-2023",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2023-06-27 14:26:29.753295",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=tmwO7qWchk%2BZKbBAQO8YWHc3ZXp6OEpyem9HV3Y3dTBOQkpCMmF0RU9oQWdQUHRiVkl0U2NybzczY1JqUi9WenhPQ3hkRkZidmpxVDRCT3A%3D&tokenuser="
+            },
+            {
+                "table_id": 2227,
+                "title": "Rata-Rata Upah/Gaji Bersih Sebulan  (rupiah) Buruh/Karyawan/Pegawai Menurut Pendidikan Tertinggi yang Ditamatkan dan Lapangan Pekerjaan Utama di 17 Sektor, 2023",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2023-06-27 14:13:38.783928",
+                "size": "0.02 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=BslfDeTlkZzz%2Fruy6HhgLlljRU1NanVXWU1icnZpWFdNbDJNb045SXhucEdSOGRwVktPZUxZRC9IMzRVQ1pXOWtHUzBvMkNXU1ZIVUl4aEk%3D&tokenuser="
+            }
+        ]
+    ]
+}

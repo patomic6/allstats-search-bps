@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 33,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 2097,
+                "title": "Rata-rata Upah/Gaji Bersih Sebulan Buruh/Karyawan/Pegawai Menurut Provinsi dan Lapangan Pekerjaan Utama, 2020",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2020-11-30 10:28:18.109416",
+                "size": "0.07 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=h9hd83knQrJ4jIHM968kGnhRcktISW9ySXA2Um82azN4cTRuMmNMUU1icngrcGU3cW1FL0Y5d3dlRDRLQnpxcjM0S2RxZXB6VzUvY0xyZXA%3D&tokenuser="
+            },
+            {
+                "table_id": 2111,
+                "title": "Laporan Survei Demografi dan Kesehatan Indonesia",
+                "subj_id": 30,
+                "subj": "Kesehatan",
+                "updt_date": "2020-10-21 11:45:39.824598",
+                "size": "0.03 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=Dq0V3ROjABacWHuYwS1WC08xWEs1bWNZYkFQOU9kckxNSkdOMTdVRmdQcTlSNUpJNGNmeXBWTldRUW8vQk9aNGpaQXJHeUNPRm9VOVQyeWg%3D&tokenuser="
+            },
+            {
+                "table_id": 2091,
+                "title": "Upah Nominal dan Riil Buruh Tani di Indonesia (Rupiah), 2019-2020 (2018=100)",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2020-10-16 05:37:09.335753",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=MU9jR4%2BLqoficRSWlBZWYEpEQ01OTFdaMTZjYmszUDJodlNINkdxOThscDRxRUhTV3ZsRUl1bzRxT201NHpvZDNTVjZiZGhNbVlZNFpRRUE%3D&tokenuser="
+            },
+            {
+                "table_id": 1276,
+                "title": "Persentase Penduduk Daerah Perkotaan Hasil Proyeksi Penduduk menurut Provinsi, 2015 - 2035",
+                "subj_id": 12,
+                "subj": "Kependudukan",
+                "updt_date": "2020-09-17 07:53:15.62459",
+                "size": "0.03 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=WSASRbwWE2B4YAoJ6xSqS1FpSjhxY2YvamZpWGduc2lDNTJ4SVpsRmhRM2tXY2dmZXJXdW1QWHpiTlp3cTdsb2FMYnlBQzJvQ3kyVGYzWm0%3D&tokenuser="
+            },
+            {
+                "table_id": 1097,
+                "title": "Produksi Beberapa Hasil Kilang Minyak dan Gas Menurut Jenis Hasil Kilang (barel), 2000-2018",
+                "subj_id": 10,
+                "subj": "Pertambangan",
+                "updt_date": "2020-06-17 19:38:24.678432",
+                "size": "0.03 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=kAfNP7cDn%2FVC8fwl7dEhkDNPU1VnaGxaSVU2eGtUNlNja0xJT3o4QjZ1N0I3bk0rNTg0WERqWjd4WGJFQ0duNGdtaDdvR01saEZDUTVmQ3E%3D&tokenuser="
+            },
+            {
+                "table_id": 1902,
+                "title": "Upah Nominal dan Riil Buruh Tani di Indonesia (Rupiah), 2009-2019 (2012=100)",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2020-05-18 09:29:12.873194",
+                "size": "0.07 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=qtirFr%2Bq2jeosSc%2BSmiF8zE2YzlpY0h3SVpTYm9xclh1VDFaWTNBWHNmNXZSamxlc0lTYm5XOXIxalZVZ05rSmw5OWU4M0lheWhsTURVUU0%3D&tokenuser="
+            },
+            {
+                "table_id": 2089,
+                "title": "Rasio laju peningkatan konsumsi tanah dengan laju pertumbuhan penduduk",
+                "subj_id": 153,
+                "subj": "Geografi",
+                "updt_date": "2020-04-13 11:32:39.038117",
+                "size": "0.03 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=0sPJ7CoyZXeCTC7TLG7GIFc4b0UwRkpxTnVSY0xSN1V0RGNiSm16dFFoZGFQbVMrVHJUWVpjVEc1R2NWUDNpVUdEVXJyQzh0VmV6QllWWTY%3D&tokenuser="
+            },
+            {
+                "table_id": 2088,
+                "title": "Jumlah Peserta Proper yang Mencapai Minimal Ranking Biru",
+                "subj_id": 101,
+                "subj": "Pemerintahan",
+                "updt_date": "2020-04-13 11:27:49.545768",
+                "size": "0.03 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=%2FP0GRru6GzRhc53TRrd1mVUxbW1zWVYzYzI1MmgvZEJZdmpBcXg4TG1LbnpuRDVkTCtud3dlY3llSU92MU9wZWNlZjBDaTM2bXRyZ1ppekY%3D&tokenuser="
+            },
+            {
+                "table_id": 2087,
+                "title": "Proporsi pemerintah kota yang memiliki dokumen strategi pengurangan risiko bencana",
+                "subj_id": 101,
+                "subj": "Pemerintahan",
+                "updt_date": "2020-04-07 13:51:32.831885",
+                "size": "0.02 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=Ajqm3ZfZYvLR6NhGGPe65GtQK0pyODFTY2tFVlFPSW14dXNhOUN3WnlXL0Z0VHdNS1JtRy93cFUvUW1jOXhEYlZtYTZubUk1bFJpMGtUK3o%3D&tokenuser="
+            },
+            {
+                "table_id": 2086,
+                "title": "Rekap Dokumen RPB Kabupaten/Kota",
+                "subj_id": 27,
+                "subj": "Sosial Budaya",
+                "updt_date": "2020-03-28 07:18:09.441496",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=gZP9bO%2BRgQQ5Y6qZRPAyc0ZuNDlaUGd4KzdYelYrdVNKbDkxK1hBTUJrVUlYemtidXltRkpWakNtSTAzR3dOOXFjbDNoOGE1cFFTYXNYR3g%3D&tokenuser="
+            }
+        ]
+    ]
+}

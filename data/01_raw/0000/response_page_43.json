@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 43,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 1950,
+                "title": "Rata-rata Upah/Gaji Bersih Sebulan Buruh/Karyawan/Pegawai Menurut Kelompok Umur dan Jenis Pekerjaan (Rupiah), 2016",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2017-12-21 00:00:00",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=UK8hokke%2Bfp20I9xTuGxVjdCeTQzQ3IwblZoU2hCemtROXcxamhteHFrL0ltd0xZWXBySHllR0hFZnJDMHNzN1pOSXNNc3pWQ0l1aitWaGk%3D&tokenuser="
+            },
+            {
+                "table_id": 1948,
+                "title": "Rata-rata Upah/Gaji Bersih Sebulan Buruh/Karyawan/Pegawai Menurut Provinsi dan Jenis Pekerjaan Utama (Rupiah), 2016",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2017-12-21 00:00:00",
+                "size": "0.06 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=CEJ83mXedOjKsQhx7xHqV0FCRFc0ODVncFE5bko0ZG51amY3bkxDTkUvSXNuV2oyd3ZBQmJleE9uN2dOVjFiZk1mQVF1RVdCRFgrekhhWDI%3D&tokenuser="
+            },
+            {
+                "table_id": 1947,
+                "title": "Rata-rata Upah/Gaji Bersih Sebulan Buruh/Karyawan/Pegawai Menurut Pendidikan Tertinggi yang Ditamatkan dan Jumlah Jam Kerja Seminggu dari Pekerjaan Utama (Rupiah), 2016",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2017-12-21 00:00:00",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=jURyM%2F%2FqHQWQxdxWazWT31RzS2lJRzBkODRyV1VOYTlhMmNZU1JvRm5WczlQWEFFZlhFQncvUTlxWjluNjh5cUR3M1F4OWdhS1E1azN0bkc%3D&tokenuser="
+            },
+            {
+                "table_id": 1980,
+                "title": "Struktur Ongkos Perkiraan Usaha Ternak dan Unggas di Rumah   Tangga dengan Pola Pemeliharaan Dikandangkan, 2017",
+                "subj_id": 24,
+                "subj": "Peternakan",
+                "updt_date": "2017-12-06 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=yqbS6cF7MI8dX0VLB6WjYnBBTmZUUWk5b1lnUDFwWlpxaWFwbkdvTEJOWkVVTXZRVlNYWlE2c2ZwSThDTStWWUw0cnl4UXhpb0RjYlcxVCs%3D&tokenuser="
+            },
+            {
+                "table_id": 1979,
+                "title": "Struktur Ongkos Riil Usaha Ternak dan Unggas di Rumah Tangga   dengan Pola Pemeliharaan Dikandangkan, 2017",
+                "subj_id": 24,
+                "subj": "Peternakan",
+                "updt_date": "2017-12-06 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=sQ1klVKUK%2FI7oAI33Eu4SEtsUTI0UktxTlFQQ3haa05mSGgrTVZMRnhkbkZ2YkpjbWtqYUMvNzk4RS9aTjNjUWtZVlBVZFZ2SUZGK3RUL1k%3D&tokenuser="
+            },
+            {
+                "table_id": 1978,
+                "title": "Struktur Ongkos Total Usaha Ternak dan Unggas di Rumah Tangga dengan Pola Pemeliharaan Dikandangkan, 2017",
+                "subj_id": 24,
+                "subj": "Peternakan",
+                "updt_date": "2017-12-06 00:00:00",
+                "size": " MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=LVnHoycqpRPvzGPjGeSGu2hZWkYrZnJ4WjJIQkp0NlhmR0FOcjkxK2Jscy8zenQ3UHZrdngrR0FiZGNPcERBbHpITm5hNG9yRUNtb0xLUFc%3D&tokenuser="
+            },
+            {
+                "table_id": 1858,
+                "title": "Kapasitas Terpasang, Tenaga Listrik yang Dibangkitkan, dan Listrik yang Didistribusikan Menurut Provinsi, 2014-2015",
+                "subj_id": 7,
+                "subj": "Energi",
+                "updt_date": "2017-11-24 00:00:00",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=47uDQWQPJal7O98Tweee1DZRaVRNTS84dDgrZWlwN0RwUW5WWjJnMTltNEN1QWVhaGNic21OVDZkWlN5RnhwM2VLVU5aTTZWaWNLNThGYmk%3D&tokenuser="
+            },
+            {
+                "table_id": 1883,
+                "title": "Posisi Utang Luar Negeri Pemerintah dan Bank Sentral Menurut Jenis Utang (juta US$), 2010-2016",
+                "subj_id": 13,
+                "subj": "Keuangan",
+                "updt_date": "2017-11-23 00:00:00",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=%2BqCtFFC4Ui%2Bg9RPD%2F6FNIHRIcDdnRkhsVjNybEErUXdLWklyS1dXTDc3azNJdE54QlVTYXAyWWdaQ2prNno4VDJ6eUtpU1RjK2NKd2Y5dkI%3D&tokenuser="
+            },
+            {
+                "table_id": 1866,
+                "title": "Perkembangan Produk Domestik Bruto dan Produk Domestik Bruto per Kapita Atas Dasar Harga Konstan 2010, 2010-2016",
+                "subj_id": 11,
+                "subj": "Produk Domestik Bruto (Lapangan Usaha)",
+                "updt_date": "2017-11-23 00:00:00",
+                "size": "0.03 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=CBmz1OprSxeo8a1mHOkvfHY3VVB1VUFMZFJRbUY2TDRzcnVRbGdXdmhadmxGRklROUkyQVludHp4ZWZCNlZHbER6SGF5RDdHT3ZTd1M5bFQ%3D&tokenuser="
+            },
+            {
+                "table_id": 1837,
+                "title": "Jumlah Sekolah, Guru, dan Murid Sekolah Menengah Atas (SMA) di Bawah Kementrian Pendidikan dan Kebudayaan Menurut Provinsi 2011/2012-2015/2016",
+                "subj_id": 28,
+                "subj": "Pendidikan",
+                "updt_date": "2017-11-23 00:00:00",
+                "size": "0.03 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=E6x%2FTdSfiG28FUW3IAh0gzdldHhIc0NrQ0c0VnBiSVduYk1PSVc3dUZaV09IY2M4bjk0NkdaWDZqdDhFSzVXRGRqaHZEZjNCd2w3ZXhEbzE%3D&tokenuser="
+            }
+        ]
+    ]
+}

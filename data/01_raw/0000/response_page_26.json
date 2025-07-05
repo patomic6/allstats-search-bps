@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 26,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 1360,
+                "title": "Persentase Rumah Tangga Menurut Provinsi dan Perlakuan Memilah Sampah Mudah Membusuk dan Tidak Mudah Membusuk, 2013-2014, 2021",
+                "subj_id": 152,
+                "subj": "Lingkungan Hidup",
+                "updt_date": "2022-10-04 11:03:09",
+                "size": "0.02 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=jwfwcE4Y2PaLUxKBNq3Pt2dnZkZqc2tSM1lVcnZWZ1BOM0I3a1pJU25ROXZXYjdsUmpoUTVlK21MQ0RiNjdZcllvWGl4VGYxL3dTc3VmeTU%3D&tokenuser="
+            },
+            {
+                "table_id": 1359,
+                "title": "Persentase Rumah Tangga Menurut Provinsi dan Kepemilikan  Kendaraan Bermotor, 2013-2014",
+                "subj_id": 152,
+                "subj": "Lingkungan Hidup",
+                "updt_date": "2022-10-04 10:55:34",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=%2B6PDc6P%2BDwpb4TixHVXGeEVKRDY5MUQ3Yi9GQkdHSU85blJzaVNKRVZxRWc3VytLUjJJSWRsZ0NFOXNZRTBhdGVlZzhxOFV3ZFNKOHM4ZHY%3D&tokenuser="
+            },
+            {
+                "table_id": 1358,
+                "title": "Persentase Rumah Tangga Menurut Provinsi dan KebiasaanMemanfaatkan Air Bekas untuk Keperluan Lain, 2013, 2014, 2017, 2021",
+                "subj_id": 152,
+                "subj": "Lingkungan Hidup",
+                "updt_date": "2022-10-04 10:52:28",
+                "size": "0.02 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=hr2Yqu3Nixx9w7kM0Jz3QjlmcU1KTnhqUXplU3NIVzYrTkkzWDdCZnEvQXpLTVhUeit5YjNEQWxsc21zNXRTbFdBQ3VjV3J3Vm9mNzZEQmw%3D&tokenuser="
+            },
+            {
+                "table_id": 1363,
+                "title": "Persentase Rumah Tangga Menurut Provinsi dan Fasilitas Tempat Buang Air Besar, 2000-2021",
+                "subj_id": 152,
+                "subj": "Lingkungan Hidup",
+                "updt_date": "2022-10-04 10:46:34",
+                "size": "0.07 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=hpe2HRZ2vhaHEPqkcAVWt2Z6Y3FWOWpTcWJQQ1QrL2JkMTVsMEljbXBJU0lMcTZHaXpCd2dVa3pCWDM0RU5leW1BaXBYUFROejBnYW10S0w%3D&tokenuser="
+            },
+            {
+                "table_id": 2050,
+                "title": "Persentase Rumah Tangga Menurut Provinsi dan Banyaknya Lampu Hemat Energi yang Terpasang di Rumah, 2013, 2017, 2021",
+                "subj_id": 152,
+                "subj": "Lingkungan Hidup",
+                "updt_date": "2022-10-04 10:42:39",
+                "size": "0.02 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=s0dijsFTVaZvFFnRDIXzjzREbm1RUlhqWXFNQndLTzEzeDNjSjlRdE9ldFREeENZN2dNUkpoQ01VVkY4UlJLQmRmUW1WcHZuMWNFYVJmRkE%3D&tokenuser="
+            },
+            {
+                "table_id": 1364,
+                "title": "Persentase Rumah Tangga Menurut Provinsi dan Bahan Bakar Utama untuk Memasak Tahun 2001, 2007-2021",
+                "subj_id": 152,
+                "subj": "Lingkungan Hidup",
+                "updt_date": "2022-10-04 10:34:23",
+                "size": "0.31 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=REZyrT%2F9wFM4qeC4BgOcc0RaNGpCWHZUVFVDM2ovT1U3ZWNHR2cvNzBVSFJNdDNkU0RhV3hIZ25Ydk9nWDdHM1dRdlo3UE40TlBnR01tRkI%3D&tokenuser="
+            },
+            {
+                "table_id": 2074,
+                "title": "Perkembangan Konsumsi Bahan Perusak Ozon di Indonesia menurut Senyawa Kimia dan Kode HS (Metrik Ton), 2015-2020",
+                "subj_id": 152,
+                "subj": "Lingkungan Hidup",
+                "updt_date": "2022-07-28 14:46:10",
+                "size": "0.02 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=7vxIlqyYBU%2BL1%2BRx7b3V3mh1OUt0SmY2MWpJNlUzZzUweVJVNFNCNVN5ZDYxYTlIdnp2RVA0Sjl3T3BzWlpBdTBNK2FiYjFqbzJrcExHRDk%3D&tokenuser="
+            },
+            {
+                "table_id": 2073,
+                "title": "Perbandingan Emisi Gas Rumah Kaca menurut Sektor dan Jenis Gas (ribu Ton CO2e), 2000 dan 2016",
+                "subj_id": 152,
+                "subj": "Lingkungan Hidup",
+                "updt_date": "2022-07-28 14:40:21",
+                "size": "0.02 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=UwuhcKH3oiX7EMyxiTqq5mRHenBTT1VqRzRGUk9aL09wQ2p0OEt6NVkwbnI1eWc5aC94NFBmV2w2ODJXSDROL3d6aCtpTkhQdXlEblVabGk%3D&tokenuser="
+            },
+            {
+                "table_id": 2072,
+                "title": "Emisi Gas Rumah Kaca menurut Jenis Sektor (ribu ton CO2e), 2000-2019",
+                "subj_id": 152,
+                "subj": "Lingkungan Hidup",
+                "updt_date": "2022-07-28 14:30:10",
+                "size": "0.03 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=krU4b3DbnzCqf3MgKv4EOzZsZDZSSHZsU0ZUMWFpRVVFN1dsVzRsaUI0anpmTVRCT01FeE9pVVFwNzRHQ3JscVBHRGNOaWlrVStkY3psdkk%3D&tokenuser="
+            },
+            {
+                "table_id": 2102,
+                "title": "Rata-rata Upah/Gaji Bersih Sebulan Buruh/Karyawan/Pegawai Menurut Kelompok Umur dan Jenis Pekerjaan, 2020",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2022-06-14 15:23:16.653074",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=1JidmVGo8GGPNCLdul5x70dOWFBTK0pjUkR0cnN1UDdsWmhYT0tBRk5JMXI1Y1ltMGhIc3MySUwzSjE4ZGdXdjNNb010M3hXUHBNRElnM3A%3D&tokenuser="
+            }
+        ]
+    ]
+}

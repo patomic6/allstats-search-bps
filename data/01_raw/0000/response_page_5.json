@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 5,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 1171,
+                "title": "Persentase Perolehan Suara Sah Pemilu Presiden dan Wakil Presiden pada Putaran Pertama Menurut Provinsi dan Nama Pasangan Calon Presiden dan Wakil Presiden, 2009, 2014, 2019, 2024",
+                "subj_id": 101,
+                "subj": "Pemerintahan",
+                "updt_date": "2025-01-14 00:00:00",
+                "size": "40.5 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=hZg6k6qYStjKchyt%2FS8lumtGaEx0aUFxUlhSeXhpbDRtUFg2V1Vzb3B4bjJ5bk5mcmNNY1dPV1FoUEJ4QjlCVWdGTEY0SlBIQ1B6SkxQVXU%3D&tokenuser="
+            },
+            {
+                "table_id": 1170,
+                "title": "Perolehan Suara Sah Pemilu Presiden dan Wakil Presiden pada Putaran Pertama Menurut Provinsi dan Nama Pasangan Calon Presiden dan Wakil Presiden, 2009, 2014, 2019 dan 2024",
+                "subj_id": 101,
+                "subj": "Pemerintahan",
+                "updt_date": "2025-01-14 00:00:00",
+                "size": "37 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=HPTQkIBBms0V%2BoIC%2B5GVoC9BamQzUTduYkJxc0toUWZvWEFnVjhIWHFSR280aWw4b3lUMGVSUHJ0STNhQlltVFJYR2ZQcmRBUnRabVEwck4%3D&tokenuser="
+            },
+            {
+                "table_id": 1716,
+                "title": "Luas Kawasan Hutan dan Kawasan Konservasi Perairan Indonesia Berdasarkan Surat Keputusan Menteri Lingkungan Hidup dan Kehutanan, 2017-2023",
+                "subj_id": 60,
+                "subj": "Kehutanan",
+                "updt_date": "2025-01-10 00:00:00",
+                "size": "78 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=GK708rQYOS84IEpimg04W1Y1a3JqT1I5SThqOHd5b3dEZ1BEK2VtcUZoSUR5dzFOclVta1RRWnV5WUtWOWJVYXpyQWZYNkt3QnZ4dE5rK28%3D&tokenuser="
+            },
+            {
+                "table_id": 1574,
+                "title": "Hasil Perhitungan Suara Sah Pemilu Presiden dan Wakil Presiden Menurut Provinsi Tahun 2004 , 2009 , 2014, 2019, 2024",
+                "subj_id": 34,
+                "subj": "Politik dan Keamanan",
+                "updt_date": "2025-01-10 00:00:00",
+                "size": "63 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=gB4ze9TroPhzem3Qh%2F0FtWRvZm1neFhHeTRqMmJsOW9CTzQzdXZYdW56VzZhZW15TlF5SHBTVGcxSGpLUzljejZMcmpKQkdTRnB2TmRlNS8%3D&tokenuser="
+            },
+            {
+                "table_id": 1605,
+                "title": "Persentase Rumah Tangga menurut Daerah Tempat Tinggal , Kelompok Umur, Jenis Kelamin Kepala Rumah Tangga, dan Status Perkawinan, 2009-2024",
+                "subj_id": 40,
+                "subj": "Gender",
+                "updt_date": "2024-12-27 16:23:52",
+                "size": "0.08 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=oOzEBMmH0CG1UtlvvJghZzhBcGNTelhsSVlaVHJNWkR5LzFCWE9vVWVRTW1GSHNSV21OSW5STUNiMU5IaVdhK0RrVk9tcVZ5bVBTaTYrRmk%3D&tokenuser="
+            },
+            {
+                "table_id": 1604,
+                "title": "Persentase Rumah Tangga menurut Provinsi, Daerah Tempat Tinggal, dan Jenis Kelamin Kepala Rumah Tangga, 2009-2024",
+                "subj_id": 40,
+                "subj": "Gender",
+                "updt_date": "2024-12-24 15:47:43",
+                "size": "0.14 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=arD45pm4EGh6Bbyxx9pFITJyeUk2a1BVN1M3K2lkRUJXMk1jbHRZWDJlanVtY09xaUNLb2tqSUxMU2pidU1VM0VvbmRFOUNRUzVBSDAwQzU%3D&tokenuser="
+            },
+            {
+                "table_id": 1606,
+                "title": "Persentase Rumah Tangga menurut Provinsi, Jenis Kelamin Kepala Rumah Tangga (KRT) yang Bekerja, dan Daerah Tempat Tinggal, 2009-2024",
+                "subj_id": 40,
+                "subj": "Gender",
+                "updt_date": "2024-12-24 15:43:06",
+                "size": "0.11 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=ah0kIpZoX%2BLdG3%2FnUxp%2BvzFqUmMrU004bGxTYzVLOFBNRFFBUDdkQTlpejF6UlczTGxtZWJJOEFhbDFpNWlEOGl6S3pMSXBjeG1aZG9BYXc%3D&tokenuser="
+            },
+            {
+                "table_id": 1620,
+                "title": "Persentase Penduduk yang Berobat Jalan Sebulan Terakhir Menurut Provinsi, dan Tempat/Cara Berobat, 2009-2024",
+                "subj_id": 40,
+                "subj": "Gender",
+                "updt_date": "2024-12-24 15:21:34",
+                "size": "0.19 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=0IanQZt1pVI4WrObqPF7U08wMEphdE5JWFhOVFhVVTUvREdCN2c4OVg3SEYwaEZoUG5vb1dvcjVCNXNMMTB5eDVVb0h4cFkwR3NWU2ZEZkw%3D&tokenuser="
+            },
+            {
+                "table_id": 1612,
+                "title": "Persentase Penduduk Umur 10 Tahun ke Atas Menurut Klasifikasi Desa, Jenis kelamin, dan Status Pendidikan, 2009-2024",
+                "subj_id": 40,
+                "subj": "Gender",
+                "updt_date": "2024-12-24 15:16:25",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=gR%2F98KEo3wqF6RmTgy894kZ1RjBBYWs4WGpCTlpqQmNkRU1rQWRtK0F4ZXM5OERoQjFEQWkvbnlGQ0dlTlJ5ZjdOOHkxNXVPbHV6U1NkRTQ%3D&tokenuser="
+            },
+            {
+                "table_id": 2255,
+                "title": "Rata-rata Upah/Gaji Bersih Sebulan Buruh/Karyawan/Pegawai Menurut Provinsi dan Jenis Pekerjaan Utama, 2024",
+                "subj_id": 19,
+                "subj": "Upah Buruh",
+                "updt_date": "2024-12-23 16:00:05",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=wwX9FCXmOUz1yXA86zhvqGF1d3ZMOVNKYmpReEVtYXVDTisxaWpBWkFnMHZhenptbzFMZVV0d2ltV2V6WTVaUWQyUiszUGZySUUyTk82QVc%3D&tokenuser="
+            }
+        ]
+    ]
+}

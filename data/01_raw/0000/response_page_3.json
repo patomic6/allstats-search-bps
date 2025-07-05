@@ -1,0 +1,105 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "data": [
+        {
+            "page": 3,
+            "pages": 70,
+            "per_page": 10,
+            "count": 10,
+            "total": 692
+        },
+        [
+            {
+                "table_id": 2110,
+                "title": "Rekapitulasi Luas Penutupan Lahan Hutan dan Non Hutan Menurut Provinsi Tahun 2014-2023 (Ribu Ha)",
+                "subj_id": 60,
+                "subj": "Kehutanan",
+                "updt_date": "2025-02-17 15:25:46.719196",
+                "size": "0.07 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=A7%2BVegWGZ51oG8WubIFu6XZOdUpYNHV4R1Z0Y091OWdNNVE3d0Y2Yk9mV1E2dGU0a3pnSG9Za25YSVd6SGxOTWxJdFVycWRvcERnOXlVQjQ%3D&tokenuser="
+            },
+            {
+                "table_id": 2084,
+                "title": "Luas Penutupan Lahan Indonesia Di Dalam Dan Di Luar Kawasan Hutan Tahun 2014-2023 Menurut Kelas (Ribu Ha)",
+                "subj_id": 60,
+                "subj": "Kehutanan",
+                "updt_date": "2025-02-17 14:54:18.793104",
+                "size": "0.05 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=xHpDJvLoInvSPGlcp0lb%2BnZuWXhteHE4THVLN3UxdmZKMjQ1Ykc0Um5OQkM3M0hWVkZKL3V1N1ozSWpUOTZybjR5VTRXRG1NQVhQOHdNT2Y%3D&tokenuser="
+            },
+            {
+                "table_id": 1573,
+                "title": "Hasil Penghitungan Suara Sah Partai Politik Peserta Pemilu Legislatif Tahun 1955-2024",
+                "subj_id": 34,
+                "subj": "Politik dan Keamanan",
+                "updt_date": "2025-02-07 16:50:00.051388",
+                "size": "0.06 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=UCP%2FBoZEdzr4GUwr%2BjxEyEVRVGsyb0tDWjQydnZjOXJSVTN2aXVZSExTdDE1VG53YXZXQ3RBd3FrWDgrRHZDMDN3MjV6WUcrVzlPa3NFNG0%3D&tokenuser="
+            },
+            {
+                "table_id": 1169,
+                "title": "Perolehan Suara dan Kursi Dewan Perwakilan Rakyat (DPR) Menurut Partai Politik Hasil Pemilu Tahun 2009, 2014, 2019 dan 2024",
+                "subj_id": 101,
+                "subj": "Pemerintahan",
+                "updt_date": "2025-02-07 16:41:23.955768",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=MKxyscv%2Fr1WYn4ClGRZkpEtia3IzYUZ4N2FURm1rKzQ2MHNGSFNYM0cxbEVNQzNiL0tnMHowMEJ1WGMzVzNaazU5MklpdjR6eEJtWWcvVmw%3D&tokenuser="
+            },
+            {
+                "table_id": 971,
+                "title": "Penduduk 15 Tahun Ke Atas Menurut Status Pekerjaan Utama 1986 - 2024",
+                "subj_id": 6,
+                "subj": "Tenaga Kerja",
+                "updt_date": "2025-02-07 16:01:34.578792",
+                "size": "0.14 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=OAIJWKrbpyfmTONPHCIXyEVSamVEcGZSdTI4S1MzTTNTbmxpZnB2cEY5TG5xSlViK2dFQ1FTUFBNekxBQVZCME5JNWRxUnRRNDhVTHFVRlc%3D&tokenuser="
+            },
+            {
+                "table_id": 1092,
+                "title": "Produksi Minyak Bumi dan Gas Alam, 1996-2023",
+                "subj_id": 10,
+                "subj": "Pertambangan",
+                "updt_date": "2025-02-04 17:47:25.306518",
+                "size": "0.04 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=QVXmtQHSaa3zOYJBW4Fc2UppaUNvZWhvMjc5d2JsZjc0ZVFVTm9rN0ZkaU9JeXFZSHVOWjFVS09FbVg1MElCMEJJWWV2Q2FkbjIwVXFzdWo%3D&tokenuser="
+            },
+            {
+                "table_id": 2274,
+                "title": "Tabel Input-Output Indonesia Transaksi Total Atas Dasar Harga Pembeli (185 Produk), 2020 (Juta Rupiah)",
+                "subj_id": 105,
+                "subj": "Input output",
+                "updt_date": "2025-01-27 14:00:00",
+                "size": "0.33 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=zrA8r8s6uop%2Fvr6PuSMy2lN6VWFnS1NJcldYenM0L1Iwdi9YcWVLaDMwWHBmODN4dGZhaUhKSkZPOTZRbWpJNEhCNm4yVEhNYnVsVDY1WTM%3D&tokenuser="
+            },
+            {
+                "table_id": 2273,
+                "title": "Tabel Input-Output Indonesia Transaksi Total Atas Dasar Harga Pembeli (17 Produk), 2020 (Juta Rupiah)",
+                "subj_id": 105,
+                "subj": "Input output",
+                "updt_date": "2025-01-27 14:00:00",
+                "size": "0.07 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=VCqFcm6HiVvAHr5oB6JTCTBQcFoyUFZrYVFnd1RkblJRU1JHNGhYS3k1eUdLYk9NRWpUMVhHL2hNVDZPK2NkVWg5WjBvZG9wWTVMM3Q3bFo%3D&tokenuser="
+            },
+            {
+                "table_id": 2272,
+                "title": "Tabel Input-Output Indonesia Transaksi Total Atas Dasar Harga Dasar (185 Produk), 2020 (Juta Rupiah)",
+                "subj_id": 105,
+                "subj": "Input output",
+                "updt_date": "2025-01-27 14:00:00",
+                "size": "0.31 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=A36jSr5CfNntCi%2FsCm9ApDlzQ25nc3ZudWxrc2tibzdNdjhGK0RvZjFmNkNrZmw4RElXTHYrYzZ1RUpoelpmZXVzSmhuOWFJYTdqNEFXLzg%3D&tokenuser="
+            },
+            {
+                "table_id": 2271,
+                "title": "Tabel Input-Output Indonesia Transaksi Total Atas Dasar Harga Dasar (17 Produk), 2020 (Juta Rupiah)",
+                "subj_id": 105,
+                "subj": "Input output",
+                "updt_date": "2025-01-27 14:00:00",
+                "size": "0.07 MB",
+                "excel": "http://www.archive.bps.go.id/website/index.php/statictable/downloadapi?data=kqXFsb5XuMFL5V3Vg2L5UDlQTDRDSnlqVXY2eW9vZEhyWmNCWjJqclhVMHlJK1YzK2RDTzNacFRYU1U1RFVTK1p3ZS90VTJTbWZ1UDcxMmE%3D&tokenuser="
+            }
+        ]
+    ]
+}
