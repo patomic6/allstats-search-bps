@@ -1,0 +1,6 @@
+# File environment lokal
+.env
+
+# Direktori virtual environment
+venv/
+__pycache__/

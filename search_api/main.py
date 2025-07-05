@@ -1,5 +1,3 @@
-
-
 # ----------------------------------------
 # 1. Import Library
 # ----------------------------------------
@@ -174,23 +172,60 @@ def read_root():
     """
     return HTMLResponse(content=html_content)
 
-@app.get("/encode/", summary="Mengubah Teks menjadi Vektor Embedding")
-def encode_text(
-    text: str = Query(..., description="Teks yang akan diubah menjadi vektor."),
-    api_key: str = Depends(validate_api_key)
-):
-    """
-    Endpoint ini menerima sebuah string teks, membersihkannya dari potensi
-    skrip HTML, lalu mengubahnya menjadi vektor embedding 384 dimensi
-    menggunakan model SBERT.
-    """
-    try:
-        sanitized_text = html.escape(text)
-        embeddings = model.encode(sanitized_text).tolist()
-        return {"text": sanitized_text, "embeddings": embeddings}
-    except Exception as e:
-        logger.error(f"Error saat encoding teks: {e}")
-        raise HTTPException(status_code=500, detail=f"Error during text encoding: {e}")
+# @app.get("/encode/", summary="Mengubah Teks menjadi Vektor Embedding")
+# def encode_text(
+#     text: str = Query(..., description="Teks yang akan diubah menjadi vektor."),
+#     api_key: str = Depends(validate_api_key)
+# ):
+#     """
+#     Endpoint ini menerima sebuah string teks, membersihkannya dari potensi
+#     skrip HTML, lalu mengubahnya menjadi vektor embedding 384 dimensi
+#     menggunakan model SBERT.
+#     """
+#     try:
+#         sanitized_text = html.escape(text)
+#         embeddings = model.encode(sanitized_text).tolist()
+#         return {"text": sanitized_text, "embeddings": embeddings}
+#     except Exception as e:
+#         logger.error(f"Error saat encoding teks: {e}")
+#         raise HTTPException(status_code=500, detail=f"Error during text encoding: {e}")
+
+# @app.post("/index-document/", summary="Mengindeks Dokumen Baru dengan Vektor")
+# def index_document(
+#     document: Document,
+#     index_name: str = "datacontent",
+#     api_key: str = Depends(validate_api_key)
+# ):
+#     """
+#     Endpoint untuk mengindeks satu dokumen.
+#     - Menghasilkan vektor embedding dari field 'judul'.
+#     - Menyimpan/memperbarui dokumen di Elasticsearch.
+#     """
+#     if model is None or es is None:
+#         raise HTTPException(status_code=503, detail="Layanan tidak tersedia (Model atau DB Error).")
+
+#     try:
+#         # 1. Encode judul menjadi vektor
+#         title_vector = model.encode(document.judul).tolist()
+
+#         # 2. Siapkan body dokumen dari model Pydantic
+#         # Gunakan .dict() untuk mengubah model menjadi dictionary
+#         # exclude_unset=True akan mengabaikan field yang tidak diisi (opsional)
+#         doc_body = document.dict(exclude={"doc_id"}, exclude_unset=True)
+        
+#         # Tambahkan field vektor ke dokumen
+#         doc_body['title_embeddings_384'] = title_vector
+        
+#         # 3. Indeks dokumen ke Elasticsearch
+#         # Menggunakan doc_id sebagai ID di Elasticsearch untuk upsert (update jika ada, create jika tidak)
+#         response = es.index(index=index_name, id=document.doc_id, document=doc_body)
+        
+#         logger.info(f"Dokumen {document.doc_id} berhasil diindeks dengan hasil: {response.body.get('result', 'unknown')}")
+#         return {"status": "sukses", "doc_id": document.doc_id, "result": response.body.get('result', 'unknown')}
+
+#     except Exception as e:
+#         logger.error(f"Gagal mengindeks dokumen {document.doc_id}: {e}", exc_info=True)
+#         raise HTTPException(status_code=500, detail=f"Gagal mengindeks dokumen: {str(e)}")
 
 # Endpoint semantic-search
 @app.get("/semantic-search/", summary="Pencarian Hybrid (BM25 + Semantik)")
@@ -228,7 +263,7 @@ def semantic_search(
             content_filters.append({"term": {"mfd": mfd}})
 
         # Filter tanggal baru
-        if date_from and date_to:
+        if date_from or date_to:
             content_filters.append({
                 "bool": {
                     "should": [
